@@ -1,0 +1,920 @@
+{
+  "perguntas": [
+    {
+      "id": "PF-001",
+      "categoria": "profetas",
+      "nível": "fácil",
+      "pergunta": "Qual profeta teve sua visão registrada como 'o ano em que o rei Uzias morreu'?",
+      "alternativas": ["Jeremias", "Ezequiel", "Isaías", "Daniel"],
+      "correta": 2,
+      "referência": "Isaías 6:1"
+    },
+    {
+      "id": "PF-002",
+      "categoria": "profetas",
+      "nível": "fácil",
+      "pergunta": "Qual profeta foi engolido por um grande peixe?",
+      "alternativas": ["Jonas", "Amós", "Habacuque", "Oséias"],
+      "correta": 0,
+      "referência": "Jonas 1:17"
+    },
+    {
+      "id": "PF-003",
+      "categoria": "profetas",
+      "nível": "fácil",
+      "pergunta": "Qual profeta viu um vale de ossos secos?",
+      "alternativas": ["Ezequiel", "Isaías", "Zacarias", "Joel"],
+      "correta": 0,
+      "referência": "Ezequiel 37:1-14"
+    },
+    {
+      "id": "PF-004",
+      "categoria": "profetas",
+      "nível": "fácil",
+      "pergunta": "Qual profeta foi lançado na cova dos leões?",
+      "alternativas": ["Jeremias", "Daniel", "Elias", "Oséias"],
+      "correta": 1,
+      "referência": "Daniel 6:16"
+    },
+    {
+      "id": "PF-005",
+      "categoria": "profetas",
+      "nível": "fácil",
+      "pergunta": "Qual profeta profetizou sobre o nascimento virginal do Messias?",
+      "alternativas": ["Malaquias", "Isaías", "Ageu", "Zacarias"],
+      "correta": 1,
+      "referência": "Isaías 7:14"
+    },
+    {
+      "id": "PF-006",
+      "categoria": "profetas",
+      "nível": "fácil",
+      "pergunta": "Qual profeta foi chamado de 'chorão' por lamentar profundamente a destruição de Jerusalém?",
+      "alternativas": ["Jeremias", "Elias", "Oséias", "Amós"],
+      "correta": 0,
+      "referência": "Jeremias 9:1"
+    },
+    {
+      "id": "PF-007",
+      "categoria": "profetas",
+      "nível": "fácil",
+      "pergunta": "Quem profetizou sobre o derramamento do Espírito Santo nos últimos dias?",
+      "alternativas": ["Joel", "Naum", "Habacuque", "Obadias"],
+      "correta": 0,
+      "referência": "Joel 2:28-29"
+    },
+    {
+      "id": "PF-008",
+      "categoria": "profetas",
+      "nível": "fácil",
+      "pergunta": "Qual profeta confrontou o rei Acabe?",
+      "alternativas": ["Elias", "Jeremias", "Isaías", "Jonas"],
+      "correta": 0,
+      "referência": "1 Reis 18:17-18"
+    },
+    {
+      "id": "PF-009",
+      "categoria": "profetas",
+      "nível": "fácil",
+      "pergunta": "Qual profeta teve de se casar com uma mulher infiel como símbolo do amor de Deus?",
+      "alternativas": ["Oséias", "Amós", "Miqueias", "Habacuque"],
+      "correta": 0,
+      "referência": "Oséias 1:2-3"
+    },
+    {
+      "id": "PF-010",
+      "categoria": "profetas",
+      "nível": "fácil",
+      "pergunta": "Qual profeta foi chamado ainda jovem e ouviu: 'Não temas, porque eu sou contigo'?",
+      "alternativas": ["Jeremias", "Isaías", "Daniel", "Ezequiel"],
+      "correta": 0,
+      "referência": "Jeremias 1:6-8"
+    },
+
+    {
+      "id": "PF-011",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta viu quatro criaturas viventes com rodas cheias de olhos?",
+      "alternativas": ["Daniel", "Ezequiel", "Zacarias", "Isaías"],
+      "correta": 1,
+      "referência": "Ezequiel 1:15-21"
+    },
+    {
+      "id": "PF-012",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta denunciou a injustiça dizendo: 'Corra o juízo como as águas e a justiça como um ribeiro perene'?",
+      "alternativas": ["Amós", "Malaquias", "Ageu", "Miqueias"],
+      "correta": 0,
+      "referência": "Amós 5:24"
+    },
+    {
+      "id": "PF-013",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta profetizou o local exato do nascimento do Messias, dizendo que Ele nasceria em Belém?",
+      "alternativas": ["Miqueias", "Zacarias", "Joel", "Amós"],
+      "correta": 0,
+      "referência": "Miqueias 5:2"
+    },
+    {
+      "id": "PF-014",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta foi levado cativo para a Babilônia e interpretou sonhos de reis?",
+      "alternativas": ["Jeremias", "Daniel", "Habacuque", "Isaías"],
+      "correta": 1,
+      "referência": "Daniel 2:1-28"
+    },
+    {
+      "id": "PF-015",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta pregava fortemente contra a reconstrução egoísta das casas enquanto o templo permanecia em ruínas?",
+      "alternativas": ["Ageu", "Obadias", "Naum", "Malaquias"],
+      "correta": 0,
+      "referência": "Ageu 1:3-9"
+    },
+    {
+      "id": "PF-016",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta viu uma visão de um rolo voador?",
+      "alternativas": ["Zacarias", "Daniel", "Ezequiel", "Joel"],
+      "correta": 0,
+      "referência": "Zacarias 5:1-2"
+    },
+    {
+      "id": "PF-017",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta declarou: 'O justo viverá pela sua fé'?",
+      "alternativas": ["Malaquias", "Ageu", "Habacuque", "Jonas"],
+      "correta": 2,
+      "referência": "Habacuque 2:4"
+    },
+    {
+      "id": "PF-018",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta teve uma visão de um homem vestido de linho com uma pena de escriba?",
+      "alternativas": ["Isaías", "Jeremias", "Ezequiel", "Daniel"],
+      "correta": 2,
+      "referência": "Daniel 10:5-6"
+    },
+    {
+      "id": "PF-019",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta anunciou o derramamento do Espírito Santo e foi citado por Pedro em Pentecostes?",
+      "alternativas": ["Habacuque", "Joel", "Obadias", "Naum"],
+      "correta": 1,
+      "referência": "Joel 2:28-32; Atos 2:16-21"
+    },
+    {
+      "id": "PF-020",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta viu uma mulher levando a iniquidade dentro de um cesto?",
+      "alternativas": ["Zacarias", "Ezequiel", "Daniel", "Jeremias"],
+      "correta": 0,
+      "referência": "Zacarias 5:5-11"
+    },
+
+    {
+      "id": "PF-021",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta denunciou o povo por roubar a Deus nos dízimos e ofertas?",
+      "alternativas": ["Isaías", "Jeremias", "Malaquias", "Miqueias"],
+      "correta": 2,
+      "referência": "Malaquias 3:8-10"
+    },
+    {
+      "id": "PF-022",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta viu um anjo com uma prumo na mão medindo o povo?",
+      "alternativas": ["Amós", "Obadias", "Naum", "Joel"],
+      "correta": 0,
+      "referência": "Amós 7:7-8"
+    },
+    {
+      "id": "PF-023",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta profetizou que Deus derrubaria Nínive por sua maldade?",
+      "alternativas": ["Naum", "Jonas", "Ageu", "Malaquias"],
+      "correta": 0,
+      "referência": "Naum 1:1-3"
+    },
+    {
+      "id": "PF-024",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta teve de comer um rolo de livro em sua visão?",
+      "alternativas": ["Ezequiel", "Daniel", "Jeremias", "Isaías"],
+      "correta": 0,
+      "referência": "Ezequiel 3:1-3"
+    },
+    {
+      "id": "PF-025",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta viu um carneiro e um bode em visão, representando reinos futuros?",
+      "alternativas": ["Jeremias", "Daniel", "Malaquias", "Oséias"],
+      "correta": 1,
+      "referência": "Daniel 8:1-12"
+    },
+    {
+      "id": "PF-026",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta anunciou o pacto de Deus de restaurar Israel após 70 anos?",
+      "alternativas": ["Jeremias", "Isaías", "Zacarias", "Ageu"],
+      "correta": 0,
+      "referência": "Jeremias 29:10"
+    },
+    {
+      "id": "PF-027",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta falou sobre o Messias sendo ferido por nossas transgressões?",
+      "alternativas": ["Isaías", "Ageu", "Obadias", "Zacarias"],
+      "correta": 0,
+      "referência": "Isaías 53:5"
+    },
+    {
+      "id": "PF-028",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta viu quatro chifres e quatro ferreiros representando juízo sobre as nações?",
+      "alternativas": ["Zacarias", "Ezequiel", "Daniel", "Jeremias"],
+      "correta": 0,
+      "referência": "Zacarias 1:18-21"
+    },
+    {
+      "id": "PF-029",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta viu a glória de Deus deixando o templo?",
+      "alternativas": ["Ezequiel", "Isaías", "Jeremias", "Joel"],
+      "correta": 0,
+      "referência": "Ezequiel 10:18-19"
+    },
+    {
+      "id": "PF-030",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta teve uma visão detalhada de um novo templo com medidas precisas?",
+      "alternativas": ["Daniel", "Ezequiel", "Zacarias", "Isaías"],
+      "correta": 1,
+      "referência": "Ezequiel 40–48"
+    },
+    {
+      "id": "PF-031",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta predisse a purificação de Jerusalém com uma 'fonte aberta'?",
+      "alternativas": ["Jeremias", "Habacuque", "Zacarias", "Malaquias"],
+      "correta": 2,
+      "referência": "Zacarias 13:1"
+    },
+    {
+      "id": "PF-032",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta relatou a visão das setenta semanas decretadas sobre Israel?",
+      "alternativas": ["Joel", "Daniel", "Ezequiel", "Oséias"],
+      "correta": 1,
+      "referência": "Daniel 9:24-27"
+    },
+    {
+      "id": "PF-033",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta profetizou que o Messias seria traído por trinta moedas de prata?",
+      "alternativas": ["Jeremias", "Zacarias", "Isaías", "Malaquias"],
+      "correta": 1,
+      "referência": "Zacarias 11:12-13"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "PF-034",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta viu uma visão de quatro carros saindo dentre duas montanhas de bronze?",
+      "alternativas": ["Ezequiel", "Zacarias", "Daniel", "Jeremias"],
+      "correta": 1,
+      "referência": "Zacarias 6:1-8"
+    },
+    {
+      "id": "PF-035",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta descreveu a queda de Lúcifer como 'estrela da manhã'?",
+      "alternativas": ["Ezequiel", "Jeremias", "Isaías", "Joel"],
+      "correta": 2,
+      "referência": "Isaías 14:12"
+    },
+    {
+      "id": "PF-036",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta profetizou o derramamento do Espírito de graça e súplica sobre a casa de Davi?",
+      "alternativas": ["Isaías", "Joel", "Zacarias", "Malaquias"],
+      "correta": 2,
+      "referência": "Zacarias 12:10"
+    },
+    {
+      "id": "PF-037",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta viu animais simbólicos representando reinos como leão, urso, leopardo e uma besta terrível?",
+      "alternativas": ["Daniel", "Ezequiel", "Jeremias", "Isaías"],
+      "correta": 0,
+      "referência": "Daniel 7:1-8"
+    },
+    {
+      "id": "PF-038",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta usou a metáfora de uma videira infiel para representar Israel?",
+      "alternativas": ["Jeremias", "Ezequiel", "Oséias", "Isaías"],
+      "correta": 3,
+      "referência": "Isaías 5:1-7"
+    },
+    {
+      "id": "PF-039",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta afirmou: 'O Senhor rugirá de Sião, e de Jerusalém fará ouvir a sua voz'?",
+      "alternativas": ["Joel", "Amós", "Habacuque", "Naum"],
+      "correta": 0,
+      "referência": "Joel 3:16"
+    },
+    {
+      "id": "PF-040",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta denunciou as mulheres de Basã, chamando-as de 'vacas de Basã' por sua opressão aos pobres?",
+      "alternativas": ["Malaquias", "Amós", "Naum", "Oséias"],
+      "correta": 1,
+      "referência": "Amós 4:1"
+    },
+    {
+      "id": "PF-041",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta viu um candelabro de ouro alimentado por duas oliveiras?",
+      "alternativas": ["Zacarias", "Daniel", "Ezequiel", "Jeremias"],
+      "correta": 0,
+      "referência": "Zacarias 4:1-6"
+    },
+    {
+      "id": "PF-042",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta declarou que Deus quer misericórdia e não sacrifício?",
+      "alternativas": ["Joel", "Oséias", "Ageu", "Malaquias"],
+      "correta": 1,
+      "referência": "Oséias 6:6"
+    },
+    {
+      "id": "PF-043",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta disse: 'Ainda que a figueira não floresça... eu me alegrarei no Senhor'?",
+      "alternativas": ["Naum", "Habacuque", "Miqueias", "Amós"],
+      "correta": 1,
+      "referência": "Habacuque 3:17-18"
+    },
+
+    {
+      "id": "PF-044",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta profetizou contra Edom por causa de sua violência contra Jacó?",
+      "alternativas": ["Obadias", "Naum", "Malaquias", "Joel"],
+      "correta": 0,
+      "referência": "Obadias 1:1-14"
+    },
+    {
+      "id": "PF-045",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta serviu como copeiro do rei antes de assumir liderança espiritual?",
+      "alternativas": ["Ezequiel", "Isaías", "Jeremias", "Nenhum deles"],
+      "correta": 3,
+      "referência": "Neonias não é profeta — pergunta contextual"
+    },
+    {
+      "id": "PF-046",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta profetizou que Deus enviaria Seu mensageiro antes do grande e terrível dia do Senhor?",
+      "alternativas": ["Malaquias", "Naum", "Miqueias", "Ageu"],
+      "correta": 0,
+      "referência": "Malaquias 4:5"
+    },
+    {
+      "id": "PF-047",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta mencionou que Belém Efrata seria pequena, mas dela viria o governante de Israel?",
+      "alternativas": ["Amós", "Miqueias", "Zacarias", "Joel"],
+      "correta": 1,
+      "referência": "Miqueias 5:2"
+    },
+    {
+      "id": "PF-048",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta foi contemporâneo de Jeremias e profetizou sobre a queda de Nínive?",
+      "alternativas": ["Naum", "Habacuque", "Ageu", "Zacarias"],
+      "correta": 0,
+      "referência": "Naum 1:1"
+    },
+    {
+      "id": "PF-049",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta afirmou que Deus rebaixaria os arrogantes e exaltaria os humildes?",
+      "alternativas": ["Sofonias", "Isaías", "Jeremias", "Habacuque"],
+      "correta": 0,
+      "referência": "Sofonias 2:3"
+    },
+    {
+      "id": "PF-050",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta viu a visão da restauração completa de Jerusalém com ruas cheias de meninos e meninas?",
+      "alternativas": ["Zacarias", "Joel", "Ezequiel", "Isaías"],
+      "correta": 0,
+      "referência": "Zacarias 8:4-5"
+    },
+
+    {
+      "id": "PF-051",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta descreve a queda de Babilônia usando a metáfora de um moinho lançado ao mar?",
+      "alternativas": ["Jeremias", "Isaías", "Ezequiel", "Zacarias"],
+      "correta": 0,
+      "referência": "Jeremias 51:63-64"
+    },
+    {
+      "id": "PF-052",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta menciona a 'coroa de glória' e a 'diadema real' nas mãos do Senhor?",
+      "alternativas": ["Jeremias", "Isaías", "Malaquias", "Habacuque"],
+      "correta": 1,
+      "referência": "Isaías 62:3"
+    },
+    {
+      "id": "PF-053",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta descreveu o rei de Tiro com linguagem que aponta para um ser celestial caído?",
+      "alternativas": ["Ezequiel", "Isaías", "Jeremias", "Zacarias"],
+      "correta": 0,
+      "referência": "Ezequiel 28:12-17"
+    },
+    {
+      "id": "PF-054",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta escreveu sobre um rolo onde estavam escritos lamentos, gemidos e ais?",
+      "alternativas": ["Jeremias", "Ezequiel", "Isaías", "Oséias"],
+      "correta": 1,
+      "referência": "Ezequiel 2:9-10"
+    },
+    {
+      "id": "PF-055",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta profetizou que Deus espalharia Israel por entre as nações como grãos sacudidos em uma peneira?",
+      "alternativas": ["Amós", "Joel", "Sofonias", "Naum"],
+      "correta": 0,
+      "referência": "Amós 9:9"
+    },
+    {
+      "id": "PF-056",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta teve a visão do carvalho de Basã sendo derrubado como símbolo de juízo?",
+      "alternativas": ["Isaías", "Zacarias", "Ezequiel", "Habacuque"],
+      "correta": 1,
+      "referência": "Zacarias 11:1-3"
+    },
+    {
+      "id": "PF-057",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta profetizou sobre o 'Servo Sofredor' com detalhes sobre sua rejeição e sofrimento?",
+      "alternativas": ["Isaías", "Jeremias", "Zacarias", "Daniel"],
+      "correta": 0,
+      "referência": "Isaías 53:1-12"
+    },
+    {
+      "id": "PF-058",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta menciona um tempo de tribulação chamado de 'o tempo de angústia para Jacó'?",
+      "alternativas": ["Jeremias", "Isaías", "Ezequiel", "Ageu"],
+      "correta": 0,
+      "referência": "Jeremias 30:7"
+    },
+    {
+      "id": "PF-059",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta descreveu a restauração de Israel como ossos que criam músculo e pele novamente?",
+      "alternativas": ["Isaías", "Ezequiel", "Daniel", "Zacarias"],
+      "correta": 1,
+      "referência": "Ezequiel 37:1-14"
+    },
+    {
+      "id": "PF-060",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta nomeou Ciro como instrumento de Deus 150 anos antes de seu nascimento?",
+      "alternativas": ["Isaías", "Ageu", "Zacarias", "Malaquias"],
+      "correta": 0,
+      "referência": "Isaías 45:1"
+    },
+
+    {
+      "id": "PF-061",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta profetizou que o Messias seria chamado de 'Renovo'?",
+      "alternativas": ["Isaías", "Jeremias", "Zacarias", "Ezequiel"],
+      "correta": 2,
+      "referência": "Zacarias 3:8"
+    },
+    {
+      "id": "PF-062",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta mencionou um pergaminho voador contendo maldições?",
+      "alternativas": ["Zacarias", "Ezequiel", "Daniel", "Isaías"],
+      "correta": 0,
+      "referência": "Zacarias 5:1-4"
+    },
+    {
+      "id": "PF-063",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta relatou que Deus ordenou que ele deitasse sobre o lado por 390 dias?",
+      "alternativas": ["Ezequiel", "Isaías", "Jeremias", "Daniel"],
+      "correta": 0,
+      "referência": "Ezequiel 4:4-6"
+    },
+    {
+      "id": "PF-064",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta teve uma visão de um homem com um cordel de medir na mão?",
+      "alternativas": ["Ezequiel", "Isaías", "Zacarias", "Daniel"],
+      "correta": 2,
+      "referência": "Zacarias 2:1-2"
+    },
+    {
+      "id": "PF-065",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta escreveu lamentações estruturadas em formato poético acróstico?",
+      "alternativas": ["Jeremias", "Elias", "Malaquias", "Isaías"],
+      "correta": 0,
+      "referência": "Lamentações 1–5"
+    },
+    {
+      "id": "PF-066",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta declarou que o orgulho de Moabe seria abatido?",
+      "alternativas": ["Jeremias", "Naum", "Isaías", "Habacuque"],
+      "correta": 2,
+      "referência": "Isaías 16:6"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "PF-067",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta descreveu uma visão de quatro ventos do céu agitando um grande mar?",
+      "alternativas": ["Daniel", "Ezequiel", "Isaías", "Jeremias"],
+      "correta": 0,
+      "referência": "Daniel 7:2"
+    },
+    {
+      "id": "PF-068",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta profetizou a queda de Tiro com detalhes sobre seu comércio e riqueza?",
+      "alternativas": ["Isaías", "Ezequiel", "Jeremias", "Naum"],
+      "correta": 1,
+      "referência": "Ezequiel 27:1-36"
+    },
+    {
+      "id": "PF-069",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta viu a visão de um carneiro sendo atacado por um bode com um grande chifre?",
+      "alternativas": ["Daniel", "Ezequiel", "Zacarias", "Isaías"],
+      "correta": 0,
+      "referência": "Daniel 8:3-7"
+    },
+    {
+      "id": "PF-070",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta mencionou um período chamado de 'dia da vingança do nosso Deus'?",
+      "alternativas": ["Jeremias", "Isaías", "Obadias", "Joel"],
+      "correta": 1,
+      "referência": "Isaías 61:2"
+    },
+    {
+      "id": "PF-071",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta descreveu Deus como aquele que 'caminha sobre as alturas da terra'?",
+      "alternativas": ["Habacuque", "Naum", "Amós", "Oséias"],
+      "correta": 0,
+      "referência": "Habacuque 3:19"
+    },
+    {
+      "id": "PF-072",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta profetizou que o Messias entraria em Jerusalém montado em um jumentinho?",
+      "alternativas": ["Zacarias", "Isaías", "Malaquias", "Jeremias"],
+      "correta": 0,
+      "referência": "Zacarias 9:9"
+    },
+    {
+      "id": "PF-073",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta foi instruído por Deus a fazer um jugo de madeira e colocá-lo no pescoço?",
+      "alternativas": ["Isaías", "Jeremias", "Ezequiel", "Oséias"],
+      "correta": 1,
+      "referência": "Jeremias 27:2"
+    },
+    {
+      "id": "PF-074",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta anunciou juízo contra Nínive após sua arrogância retornar?",
+      "alternativas": ["Jonas", "Naum", "Amós", "Habacuque"],
+      "correta": 1,
+      "referência": "Naum 1:1-8"
+    },
+    {
+      "id": "PF-075",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta descreveu a vinda do Messias como 'o sol da justiça'?",
+      "alternativas": ["Isaías", "Malaquias", "Ageu", "Zacarias"],
+      "correta": 1,
+      "referência": "Malaquias 4:2"
+    },
+    {
+      "id": "PF-076",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta viu o trono de Deus com serafins dizendo 'Santo, Santo, Santo'?",
+      "alternativas": ["Ezequiel", "Daniel", "Isaías", "Jeremias"],
+      "correta": 2,
+      "referência": "Isaías 6:1-4"
+    },
+
+    {
+      "id": "PF-077",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta comparou Israel a uma prostituta infiel?",
+      "alternativas": ["Oséias", "Amós", "Malaquias", "Joel"],
+      "correta": 0,
+      "referência": "Oséias 1–3"
+    },
+    {
+      "id": "PF-078",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta declarou: 'Buscai-me e vivei'?",
+      "alternativas": ["Amós", "Zacarias", "Naum", "Habacuque"],
+      "correta": 0,
+      "referência": "Amós 5:4"
+    },
+    {
+      "id": "PF-079",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta profetizou que os montes se derreteriam diante do Senhor?",
+      "alternativas": ["Miqueias", "Sofonias", "Joel", "Ageu"],
+      "correta": 0,
+      "referência": "Miqueias 1:4"
+    },
+    {
+      "id": "PF-080",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta incentivou o povo a reconstruir o templo após o exílio?",
+      "alternativas": ["Zacarias", "Ageu", "Naum", "Obadias"],
+      "correta": 1,
+      "referência": "Ageu 1:7-8"
+    },
+    {
+      "id": "PF-081",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta disse que Deus enviaria fome, não de pão, mas 'de ouvir a palavra do Senhor'?",
+      "alternativas": ["Joel", "Amós", "Malaquias", "Habacuque"],
+      "correta": 1,
+      "referência": "Amós 8:11"
+    },
+    {
+      "id": "PF-082",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta predisse a purificação do povo por meio de um fogo refinador?",
+      "alternativas": ["Malaquias", "Zacarias", "Amós", "Isaías"],
+      "correta": 0,
+      "referência": "Malaquias 3:2-3"
+    },
+    {
+      "id": "PF-083",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta descreveu Deus como 'poderoso para salvar'?",
+      "alternativas": ["Isaías", "Jeremias", "Sofonias", "Joel"],
+      "correta": 2,
+      "referência": "Sofonias 3:17"
+    },
+    {
+      "id": "PF-084",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta teve a visão das quatro carpideiras que significavam restauração?",
+      "alternativas": ["Zacarias", "Ezequiel", "Habacuque", "Ageu"],
+      "correta": 0,
+      "referência": "Zacarias 1:18-21"
+    },
+    {
+      "id": "PF-085",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta viu o Senhor como um juiz que se levantava para julgar a terra?",
+      "alternativas": ["Naum", "Miqueias", "Isaías", "Oséias"],
+      "correta": 1,
+      "referência": "Miqueias 6:1-2"
+    },
+    {
+      "id": "PF-086",
+      "categoria": "profetas",
+      "nível": "médio",
+      "pergunta": "Qual profeta anunciou que o Espírito seria derramado sobre toda carne?",
+      "alternativas": ["Joel", "Amós", "Sofonias", "Habacuque"],
+      "correta": 0,
+      "referência": "Joel 2:28"
+    },
+
+    {
+      "id": "PF-087",
+      "categoria": "profetas",
+      "nível": "fácil",
+      "pergunta": "Qual profeta foi engolido por um grande peixe?",
+      "alternativas": ["Jonas", "Naum", "Habacuque", "Oséias"],
+      "correta": 0,
+      "referência": "Jonas 1:17"
+    },
+    {
+      "id": "PF-088",
+      "categoria": "profetas",
+      "nível": "fácil",
+      "pergunta": "Qual profeta viu os céus abertos às margens do rio Quebar?",
+      "alternativas": ["Isaías", "Ezequiel", "Daniel", "Jeremias"],
+      "correta": 1,
+      "referência": "Ezequiel 1:1"
+    },
+    {
+      "id": "PF-089",
+      "categoria": "profetas",
+      "nível": "fácil",
+      "pergunta": "Qual profeta foi lançado em uma cisterna lamacenta?",
+      "alternativas": ["Jeremias", "Isaías", "Oséias", "Habacuque"],
+      "correta": 0,
+      "referência": "Jeremias 38:6"
+    },
+    {
+      "id": "PF-090",
+      "categoria": "profetas",
+      "nível": "fácil",
+      "pergunta": "Qual profeta teve uma visão de Deus exaltado no templo?",
+      "alternativas": ["Ezequiel", "Isaías", "Daniel", "Amós"],
+      "correta": 1,
+      "referência": "Isaías 6:1"
+    },
+    {
+      "id": "PF-091",
+      "categoria": "profetas",
+      "nível": "fácil",
+      "pergunta": "Qual profeta disse a frase: 'Eis-me aqui, envia-me a mim'?",
+      "alternativas": ["Isaías", "Jeremias", "Ezequiel", "Joel"],
+      "correta": 0,
+      "referência": "Isaías 6:8"
+    },
+    {
+      "id": "PF-092",
+      "categoria": "profetas",
+      "nível": "fácil",
+      "pergunta": "Qual profeta confrontou Davi após seu pecado com Bate-Seba?",
+      "alternativas": ["Natã", "Gade", "Samuel", "Elias"],
+      "correta": 0,
+      "referência": "2 Samuel 12:1-7"
+    },
+    {
+      "id": "PF-093",
+      "categoria": "profetas",
+      "nível": "fácil",
+      "pergunta": "Qual profeta foi transportado em espírito para um vale de ossos?",
+      "alternativas": ["Jeremias", "Isaías", "Ezequiel", "Daniel"],
+      "correta": 2,
+      "referência": "Ezequiel 37:1-2"
+    },
+    {
+      "id": "PF-094",
+      "categoria": "profetas",
+      "nível": "fácil",
+      "pergunta": "Qual profeta anunciou que o Messias seria chamado Emanuel?",
+      "alternativas": ["Isaías", "Malaquias", "Zacarias", "Joel"],
+      "correta": 0,
+      "referência": "Isaías 7:14"
+    },
+    {
+      "id": "PF-095",
+      "categoria": "profetas",
+      "nível": "fácil",
+      "pergunta": "Qual profeta chorou profundamente pela destruição de Jerusalém?",
+      "alternativas": ["Jeremias", "Isaías", "Habacuque", "Jonas"],
+      "correta": 0,
+      "referência": "Jeremias 9:1"
+    },
+    {
+      "id": "PF-096",
+      "categoria": "profetas",
+      "nível": "fácil",
+      "pergunta": "Qual profeta pregou arrependimento ao povo de Nínive?",
+      "alternativas": ["Jonas", "Naum", "Obadias", "Amós"],
+      "correta": 0,
+      "referência": "Jonas 3:1-10"
+    },
+
+    {
+      "id": "PF-097",
+      "categoria": "profetas",
+      "nível": "fácil",
+      "pergunta": "Qual profeta disse: 'O Senhor é bom, uma fortaleza no dia da angústia'?",
+      "alternativas": ["Joel", "Naum", "Amós", "Malaquias"],
+      "correta": 1,
+      "referência": "Naum 1:7"
+    },
+    {
+      "id": "PF-098",
+      "categoria": "profetas",
+      "nível": "fácil",
+      "pergunta": "Qual profeta viu um cesto de frutos de verão como símbolo de juízo?",
+      "alternativas": ["Amós", "Joel", "Oséias", "Ageu"],
+      "correta": 0,
+      "referência": "Amós 8:1-2"
+    },
+    {
+      "id": "PF-099",
+      "categoria": "profetas",
+      "nível": "fácil",
+      "pergunta": "Qual profeta anunciou o 'Dia do Senhor', um dia de trevas e não de luz?",
+      "alternativas": ["Amós", "Joel", "Naum", "Habacuque"],
+      "correta": 0,
+      "referência": "Amós 5:18"
+    },
+    {
+      "id": "PF-100",
+      "categoria": "profetas",
+      "nível": "difícil",
+      "pergunta": "Qual profeta profetizou que Elias retornaria antes do grande e terrível Dia do Senhor?",
+      "alternativas": ["Zacarias", "Malaquias", "Isaías", "Jeremias"],
+      "correta": 1,
+      "referência": "Malaquias 4:5"
+    }
+  ]
+}
