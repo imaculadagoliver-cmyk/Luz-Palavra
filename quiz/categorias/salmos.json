@@ -1,0 +1,737 @@
+{
+  "perguntas": [
+    {
+      "id": "SL-001",
+      "categoria": "salmos",
+      "nível": "fácil",
+      "pergunta": "Qual é o Salmo mais conhecido, que começa com 'O Senhor é o meu pastor'?",
+      "alternativas": ["Salmo 1", "Salmo 23", "Salmo 91", "Salmo 119"],
+      "correta": 1,
+      "referência": "Salmo 23:1"
+    },
+    {
+      "id": "SL-002",
+      "categoria": "salmos",
+      "nível": "fácil",
+      "pergunta": "Qual Salmo é conhecido como o 'Salmo de proteção'?",
+      "alternativas": ["Salmo 27", "Salmo 46", "Salmo 91", "Salmo 37"],
+      "correta": 2,
+      "referência": "Salmo 91"
+    },
+    {
+      "id": "SL-003",
+      "categoria": "salmos",
+      "nível": "fácil",
+      "pergunta": "Quem é o principal autor do livro de Salmos?",
+      "alternativas": ["Moisés", "Davi", "Salomão", "Asafe"],
+      "correta": 1,
+      "referência": "Salmo 3 (título)"
+    },
+    {
+      "id": "SL-004",
+      "categoria": "salmos",
+      "nível": "fácil",
+      "pergunta": "Qual Salmo começa dizendo: 'Bem-aventurado o homem que não anda segundo o conselho dos ímpios'?",
+      "alternativas": ["Salmo 1", "Salmo 15", "Salmo 24", "Salmo 37"],
+      "correta": 0,
+      "referência": "Salmo 1:1"
+    },
+    {
+      "id": "SL-005",
+      "categoria": "salmos",
+      "nível": "fácil",
+      "pergunta": "Qual Salmo afirma: 'A alegria do Senhor é a nossa força'?",
+      "alternativas": ["Salmo 16", "Salmo 28", "Salmo 37", "Nenhum — está em Neemias"],
+      "correta": 3,
+      "referência": "Neemias 8:10"
+    },
+    {
+      "id": "SL-006",
+      "categoria": "salmos",
+      "nível": "fácil",
+      "pergunta": "Qual Salmo declara: 'Agrada-te do Senhor, e Ele satisfará os desejos do teu coração'?",
+      "alternativas": ["Salmo 23", "Salmo 37", "Salmo 40", "Salmo 103"],
+      "correta": 1,
+      "referência": "Salmo 37:4"
+    },
+    {
+      "id": "SL-007",
+      "categoria": "salmos",
+      "nível": "fácil",
+      "pergunta": "Qual Salmo começa com a expressão 'O Senhor é a minha luz e a minha salvação'?",
+      "alternativas": ["Salmo 18", "Salmo 27", "Salmo 40", "Salmo 119"],
+      "correta": 1,
+      "referência": "Salmo 27:1"
+    },
+    {
+      "id": "SL-008",
+      "categoria": "salmos",
+      "nível": "fácil",
+      "pergunta": "Qual Salmo diz: 'Entrega o teu caminho ao Senhor, confia nele, e Ele tudo fará'?",
+      "alternativas": ["Salmo 37", "Salmo 121", "Salmo 46", "Salmo 103"],
+      "correta": 0,
+      "referência": "Salmo 37:5"
+    },
+    {
+      "id": "SL-009",
+      "categoria": "salmos",
+      "nível": "fácil",
+      "pergunta": "Qual Salmo afirma: 'Lâmpada para os meus pés é a tua palavra'?",
+      "alternativas": ["Salmo 1", "Salmo 19", "Salmo 119", "Salmo 40"],
+      "correta": 2,
+      "referência": "Salmo 119:105"
+    },
+    {
+      "id": "SL-010",
+      "categoria": "salmos",
+      "nível": "fácil",
+      "pergunta": "Qual é o maior capítulo de toda a Bíblia?",
+      "alternativas": ["Salmo 119", "Salmo 23", "Salmo 91", "Salmo 42"],
+      "correta": 0,
+      "referência": "Salmo 119"
+    },
+
+    {
+      "id": "SL-011",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual Salmo começa com 'Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia'?",
+      "alternativas": ["Salmo 27", "Salmo 34", "Salmo 46", "Salmo 40"],
+      "correta": 2,
+      "referência": "Salmo 46:1"
+    },
+    {
+      "id": "SL-012",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual Salmo expressa o desespero profundo de Davi dizendo: 'Do profundo clamo a ti, Senhor'?",
+      "alternativas": ["Salmo 130", "Salmo 51", "Salmo 142", "Salmo 69"],
+      "correta": 0,
+      "referência": "Salmo 130:1"
+    },
+    {
+      "id": "SL-013",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual Salmo é uma oração de arrependimento após Davi pecar com Bate-Seba?",
+      "alternativas": ["Salmo 23", "Salmo 32", "Salmo 51", "Salmo 103"],
+      "correta": 2,
+      "referência": "Salmo 51"
+    },
+    {
+      "id": "SL-014",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual Salmo diz: 'Como o cervo anseia pelas águas, assim minha alma suspira por ti'?",
+      "alternativas": ["Salmo 42", "Salmo 16", "Salmo 91", "Salmo 84"],
+      "correta": 0,
+      "referência": "Salmo 42:1"
+    },
+    {
+      "id": "SL-015",
+      "categoria": "salmos",
+      "níível": "médio",
+      "pergunta": "Qual Salmo afirma: 'Aqueles que semeiam em lágrimas segarão com alegria'?",
+      "alternativas": ["Salmo 34", "Salmo 30", "Salmo 126", "Salmo 118"],
+      "correta": 2,
+      "referência": "Salmo 126:5"
+    },
+    {
+      "id": "SL-016",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual Salmo declara: 'Bendize, ó minha alma, ao Senhor, e não te esqueças de nenhum de seus benefícios'?",
+      "alternativas": ["Salmo 103", "Salmo 40", "Salmo 84", "Salmo 27"],
+      "correta": 0,
+      "referência": "Salmo 103:1-2"
+    },
+    {
+      "id": "SL-017",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual Salmo começa com 'O Senhor é o meu rochedo, a minha fortaleza e o meu libertador'?",
+      "alternativas": ["Salmo 18", "Salmo 61", "Salmo 91", "Salmo 40"],
+      "correta": 0,
+      "referência": "Salmo 18:2"
+    },
+    {
+      "id": "SL-018",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual Salmo expressa a confiança de que 'o choro pode durar uma noite, mas a alegria vem pela manhã'?",
+      "alternativas": ["Salmo 30", "Salmo 27", "Salmo 118", "Salmo 121"],
+      "correta": 0,
+      "referência": "Salmo 30:5"
+    },
+    {
+      "id": "SL-019",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual Salmo declara: 'Guardo a tua palavra no meu coração para não pecar contra ti'?",
+      "alternativas": ["Salmo 119", "Salmo 23", "Salmo 19", "Salmo 40"],
+      "correta": 0,
+      "referência": "Salmo 119:11"
+    },
+    {
+      "id": "SL-020",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual Salmo descreve Deus como 'escudo' ao redor do justo?",
+      "alternativas": ["Salmo 3", "Salmo 121", "Salmo 34", "Salmo 56"],
+      "correta": 0,
+      "referência": "Salmo 3:3"
+    },
+
+    {
+      "id": "SL-021",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual Salmo afirma: 'Melhor é um dia nos teus átrios do que mil em outro lugar'?",
+      "alternativas": ["Salmo 84", "Salmo 122", "Salmo 100", "Salmo 24"],
+      "correta": 0,
+      "referência": "Salmo 84:10"
+    },
+    {
+      "id": "SL-022",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual Salmo diz: 'O Senhor te guardará de todo mal; guardará a tua alma'?",
+      "alternativas": ["Salmo 37", "Salmo 91", "Salmo 121", "Salmo 27"],
+      "correta": 2,
+      "referência": "Salmo 121:7"
+    },
+    {
+      "id": "SL-023",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual Salmo clama: 'Cria em mim um coração puro, ó Deus'?",
+      "alternativas": ["Salmo 24", "Salmo 51", "Salmo 73", "Salmo 32"],
+      "correta": 1,
+      "referência": "Salmo 51:10"
+    },
+    {
+      "id": "SL-024",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual Salmo descreve o Senhor como 'o guarda de Israel'?",
+      "alternativas": ["Salmo 121", "Salmo 23", "Salmo 46", "Salmo 15"],
+      "correta": 0,
+      "referência": "Salmo 121:4"
+    },
+    {
+      "id": "SL-025",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual Salmo afirma: 'Deleita-te no Senhor, e Ele concederá o que deseja o teu coração'?",
+      "alternativas": ["Salmo 20", "Salmo 37", "Salmo 113", "Salmo 32"],
+      "correta": 1,
+      "referência": "Salmo 37:4"
+    },
+    {
+      "id": "SL-026",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual Salmo exalta o Senhor dizendo: 'Grande é o Senhor e muito digno de louvor'?",
+      "alternativas": ["Salmo 145", "Salmo 150", "Salmo 100", "Salmo 29"],
+      "correta": 0,
+      "referência": "Salmo 145:3"
+    },
+    {
+      "id": "SL-027",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual Salmo declara: 'Minha alma tem sede de Deus, do Deus vivo'?",
+      "alternativas": ["Salmo 42", "Salmo 63", "Salmo 84", "Salmo 107"],
+      "correta": 1,
+      "referência": "Salmo 63:1-2"
+    },
+    {
+      "id": "SL-028",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual Salmo declara: 'Ensina-nos a contar os nossos dias'?",
+      "alternativas": ["Salmo 39", "Salmo 90", "Salmo 19", "Salmo 73"],
+      "correta": 1,
+      "referência": "Salmo 90:12"
+    },
+    {
+      "id": "SL-029",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual Salmo repete diversas vezes: 'Porque a sua misericórdia dura para sempre'?",
+      "alternativas": ["Salmo 117", "Salmo 118", "Salmo 136", "Salmo 103"],
+      "correta": 2,
+      "referência": "Salmo 136"
+    },
+    {
+      "id": "SL-030",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual Salmo afirma: 'Os que confiam no Senhor são como o monte Sião, que não se abala'?",
+      "alternativas": ["Salmo 125", "Salmo 121", "Salmo 37", "Salmo 62"],
+      "correta": 0,
+      "referência": "Salmo 125:1"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "SL-031",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo registra o clamor de Davi quando fingiu loucura diante de Abimeleque?",
+      "alternativas": ["Salmo 34", "Salmo 52", "Salmo 56", "Salmo 142"],
+      "correta": 0,
+      "referência": "Salmo 34 (título)"
+    },
+    {
+      "id": "SL-032",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual Salmo é uma profunda declaração de confiança mesmo diante da adversidade: 'Em Deus farei proezas'?",
+      "alternativas": ["Salmo 27", "Salmo 60", "Salmo 108", "Salmo 44"],
+      "correta": 2,
+      "referência": "Salmo 108:13"
+    },
+    {
+      "id": "SL-033",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual Salmo exorta: 'Aquietai-vos e sabei que eu sou Deus'?",
+      "alternativas": ["Salmo 46", "Salmo 62", "Salmo 91", "Salmo 37"],
+      "correta": 0,
+      "referência": "Salmo 46:10"
+    },
+    {
+      "id": "SL-034",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual Salmo declara: 'Se o Senhor não edificar a casa, em vão trabalham os que a edificam'?",
+      "alternativas": ["Salmo 118", "Salmo 127", "Salmo 128", "Salmo 130"],
+      "correta": 1,
+      "referência": "Salmo 127:1"
+    },
+    {
+      "id": "SL-035",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo retrata uma sede profunda de Deus no deserto de Judá?",
+      "alternativas": ["Salmo 61", "Salmo 63", "Salmo 81", "Salmo 102"],
+      "correta": 1,
+      "referência": "Salmo 63:1"
+    },
+    {
+      "id": "SL-036",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo afirma: 'Ofertas e sacrifícios não quiseste… então eu disse: eis aqui venho'?",
+      "alternativas": ["Salmo 40", "Salmo 51", "Salmo 69", "Salmo 72"],
+      "correta": 0,
+      "referência": "Salmo 40:6-8"
+    },
+    {
+      "id": "SL-037",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo fala da eternidade de Deus: 'De eternidade a eternidade, tu és Deus'?",
+      "alternativas": ["Salmo 104", "Salmo 90", "Salmo 93", "Salmo 145"],
+      "correta": 1,
+      "referência": "Salmo 90:2"
+    },
+    {
+      "id": "SL-038",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo diz: 'Os céus declaram a glória de Deus, e o firmamento anuncia a obra de suas mãos'?",
+      "alternativas": ["Salmo 8", "Salmo 19", "Salmo 24", "Salmo 29"],
+      "correta": 1,
+      "referência": "Salmo 19:1"
+    },
+    {
+      "id": "SL-039",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo descreve a presença de Deus dizendo: 'Para onde me ausentarei do teu Espírito?'",
+      "alternativas": ["Salmo 139", "Salmo 51", "Salmo 27", "Salmo 116"],
+      "correta": 0,
+      "referência": "Salmo 139:7"
+    },
+    {
+      "id": "SL-040",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo fala da brevidade da vida: 'O homem é como um sopro; seus dias como a sombra que passa'?",
+      "alternativas": ["Salmo 39", "Salmo 90", "Salmo 144", "Salmo 102"],
+      "correta": 2,
+      "referência": "Salmo 144:4"
+    },
+
+    {
+      "id": "SL-041",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual salmo exorta: 'Aquietai-vos diante do Senhor e esperai nele'?",
+      "alternativas": ["Salmo 37", "Salmo 62", "Salmo 40", "Salmo 46"],
+      "correta": 0,
+      "referência": "Salmo 37:7"
+    },
+    {
+      "id": "SL-042",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual salmo diz: 'Sonda-me, ó Deus, e conhece o meu coração'?",
+      "alternativas": ["Salmo 51", "Salmo 139", "Salmo 27", "Salmo 42"],
+      "correta": 1,
+      "referência": "Salmo 139:23"
+    },
+    {
+      "id": "SL-043",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual salmo diz: 'Ensina-me a fazer a tua vontade'?",
+      "alternativas": ["Salmo 143", "Salmo 25", "Salmo 40", "Salmo 119"],
+      "correta": 0,
+      "referência": "Salmo 143:10"
+    },
+    {
+      "id": "SL-044",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual salmo afirma: 'O Senhor reina; tremam os povos'?",
+      "alternativas": ["Salmo 2", "Salmo 99", "Salmo 93", "Salmo 47"],
+      "correta": 1,
+      "referência": "Salmo 99:1"
+    },
+    {
+      "id": "SL-045",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual salmo declara que 'os céus se alegrarão e a terra exultará'?",
+      "alternativas": ["Salmo 96", "Salmo 24", "Salmo 29", "Salmo 98"],
+      "correta": 0,
+      "referência": "Salmo 96:11"
+    },
+    {
+      "id": "SL-046",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual salmo diz: 'Entrega o teu caminho ao Senhor; confia nele, e Ele o fará'?",
+      "alternativas": ["Salmo 121", "Salmo 37", "Salmo 46", "Salmo 23"],
+      "correta": 1,
+      "referência": "Salmo 37:5"
+    },
+    {
+      "id": "SL-047",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual salmo anuncia a promessa: 'Os mansos herdarão a terra'?",
+      "alternativas": ["Salmo 34", "Salmo 25", "Salmo 37", "Salmo 15"],
+      "correta": 2,
+      "referência": "Salmo 37:11"
+    },
+    {
+      "id": "SL-048",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual salmo descreve o Senhor como 'Rei da Glória'?",
+      "alternativas": ["Salmo 47", "Salmo 24", "Salmo 99", "Salmo 68"],
+      "correta": 1,
+      "referência": "Salmo 24:7-10"
+    },
+    {
+      "id": "SL-049",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual salmo exorta: 'Vinde, cantemos ao Senhor'?",
+      "alternativas": ["Salmo 40", "Salmo 98", "Salmo 95", "Salmo 105"],
+      "correta": 2,
+      "referência": "Salmo 95:1"
+    },
+    {
+      "id": "SL-050",
+      "categoria": "salmos",
+      "nível": "médio",
+      "pergunta": "Qual salmo diz que Deus é 'um pai para os órfãos'?",
+      "alternativas": ["Salmo 27", "Salmo 46", "Salmo 68", "Salmo 103"],
+      "correta": 2,
+      "referência": "Salmo 68:5"
+    },
+
+    {
+      "id": "SL-051",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo profético descreve detalhes da crucificação do Messias?",
+      "alternativas": ["Salmo 2", "Salmo 110", "Salmo 22", "Salmo 45"],
+      "correta": 2,
+      "referência": "Salmo 22"
+    },
+    {
+      "id": "SL-052",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo afirma: 'Mil cairão ao teu lado e dez mil à tua direita'?",
+      "alternativas": ["Salmo 46", "Salmo 118", "Salmo 91", "Salmo 121"],
+      "correta": 2,
+      "referência": "Salmo 91:7"
+    },
+    {
+      "id": "SL-053",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo fala: 'Que darei ao Senhor por todos os seus benefícios?'",
+      "alternativas": ["Salmo 23", "Salmo 116", "Salmo 103", "Salmo 40"],
+      "correta": 1,
+      "referência": "Salmo 116:12"
+    },
+    {
+      "id": "SL-054",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo messiânico declara: 'Tu és sacerdote para sempre segundo a ordem de Melquisedeque'?",
+      "alternativas": ["Salmo 2", "Salmo 45", "Salmo 110", "Salmo 132"],
+      "correta": 2,
+      "referência": "Salmo 110:4"
+    },
+    {
+      "id": "SL-055",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo descreve a criação do ser humano de forma poética, dizendo: 'Formoso e assombrosamente me formaste'?",
+      "alternativas": ["Salmo 119", "Salmo 102", "Salmo 139", "Salmo 73"],
+      "correta": 2,
+      "referência": "Salmo 139:14"
+    },
+    {
+      "id": "SL-056",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo menciona: 'Os ídolos das nações são prata e ouro, obra das mãos dos homens'?",
+      "alternativas": ["Salmo 115", "Salmo 96", "Salmo 135", "Salmo 104"],
+      "correta": 0,
+      "referência": "Salmo 115:4"
+    },
+    {
+      "id": "SL-057",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo diz: 'O Senhor firma os passos do homem bom'?",
+      "alternativas": ["Salmo 34", "Salmo 37", "Salmo 73", "Salmo 18"],
+      "correta": 1,
+      "referência": "Salmo 37:23"
+    },
+    {
+      "id": "SL-058",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo expressa: 'A tua palavra é mais doce do que o mel'?",
+      "alternativas": ["Salmo 119", "Salmo 19", "Salmo 34", "Salmo 90"],
+      "correta": 1,
+      "referência": "Salmo 19:10"
+    },
+    {
+      "id": "SL-059",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo clama: 'Da profundeza clamo a ti, Senhor'?",
+      "alternativas": ["Salmo 6", "Salmo 69", "Salmo 130", "Salmo 142"],
+      "correta": 2,
+      "referência": "Salmo 130:1"
+    },
+    {
+      "id": "SL-060",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo fala sobre unidade: 'Oh! Como é bom e agradável viverem unidos os irmãos'?",
+      "alternativas": ["Salmo 121", "Salmo 133", "Salmo 32", "Salmo 105"],
+      "correta": 1,
+      "referência": "Salmo 133:1"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "SL-061",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo descreve Deus como aquele que 'cobre a ti com as suas penas e debaixo de suas asas te refugiarás'?",
+      "alternativas": ["Salmo 17", "Salmo 46", "Salmo 91", "Salmo 63"],
+      "correta": 2,
+      "referência": "Salmo 91:4"
+    },
+    {
+      "id": "SL-062",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo fala sobre a soberania de Deus e declara: 'O Senhor reina; esteja alegre a terra'?",
+      "alternativas": ["Salmo 72", "Salmo 97", "Salmo 93", "Salmo 75"],
+      "correta": 1,
+      "referência": "Salmo 97:1"
+    },
+    {
+      "id": "SL-063",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo registra a frase: 'Quando o meu coração estiver aflito, leva-me à rocha que é mais alta do que eu'?",
+      "alternativas": ["Salmo 27", "Salmo 61", "Salmo 62", "Salmo 142"],
+      "correta": 1,
+      "referência": "Salmo 61:2"
+    },
+    {
+      "id": "SL-064",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo declara: 'A tua palavra, Senhor, é eterna; está firmada nos céus'?",
+      "alternativas": ["Salmo 113", "Salmo 19", "Salmo 119", "Salmo 72"],
+      "correta": 2,
+      "referência": "Salmo 119:89"
+    },
+    {
+      "id": "SL-065",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo expressa profundo abatimento: ‘Estou como o pelicano no deserto, como a coruja das ruínas’?",
+      "alternativas": ["Salmo 69", "Salmo 88", "Salmo 102", "Salmo 109"],
+      "correta": 2,
+      "referência": "Salmo 102:6"
+    },
+    {
+      "id": "SL-066",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo retrata a glória do Messias dizendo: 'O teu trono, ó Deus, é para todo o sempre'?",
+      "alternativas": ["Salmo 22", "Salmo 72", "Salmo 45", "Salmo 110"],
+      "correta": 2,
+      "referência": "Salmo 45:6"
+    },
+    {
+      "id": "SL-067",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo afirma que o Senhor 'faz cessar as guerras até os confins da terra'?",
+      "alternativas": ["Salmo 46", "Salmo 68", "Salmo 76", "Salmo 33"],
+      "correta": 0,
+      "referência": "Salmo 46:9"
+    },
+    {
+      "id": "SL-068",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo reconhece: 'Os céus são os céus do Senhor, mas a terra ele deu aos filhos dos homens'?",
+      "alternativas": ["Salmo 115", "Salmo 24", "Salmo 33", "Salmo 103"],
+      "correta": 0,
+      "referência": "Salmo 115:16"
+    },
+    {
+      "id": "SL-069",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo declara: 'Se eu subir aos céus, lá estás; se fizer a minha cama no mais profundo abismo, lá estás também'?",
+      "alternativas": ["Salmo 139", "Salmo 51", "Salmo 32", "Salmo 73"],
+      "correta": 0,
+      "referência": "Salmo 139:8"
+    },
+    {
+      "id": "SL-070",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo profético afirma: 'Beijai o Filho, para que não se ire'?",
+      "alternativas": ["Salmo 22", "Salmo 45", "Salmo 2", "Salmo 72"],
+      "correta": 2,
+      "referência": "Salmo 2:12"
+    },
+
+    {
+      "id": "SL-071",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo contém a frase: 'Porque a tua benignidade é melhor do que a vida'?",
+      "alternativas": ["Salmo 63", "Salmo 42", "Salmo 34", "Salmo 27"],
+      "correta": 0,
+      "referência": "Salmo 63:3"
+    },
+    {
+      "id": "SL-072",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo declara: 'O Senhor é a minha parte na terra dos viventes'?",
+      "alternativas": ["Salmo 16", "Salmo 142", "Salmo 73", "Salmo 27"],
+      "correta": 1,
+      "referência": "Salmo 142:5"
+    },
+    {
+      "id": "SL-073",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo expressa: 'A tua vara e o teu cajado me consolam'?",
+      "alternativas": ["Salmo 23", "Salmo 62", "Salmo 18", "Salmo 34"],
+      "correta": 0,
+      "referência": "Salmo 23:4"
+    },
+    {
+      "id": "SL-074",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo exalta Deus como 'Rei que está vestido de majestade'?",
+      "alternativas": ["Salmo 93", "Salmo 96", "Salmo 47", "Salmo 145"],
+      "correta": 0,
+      "referência": "Salmo 93:1"
+    },
+    {
+      "id": "SL-075",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo reconhece: 'O Senhor é bom; a sua misericórdia dura para sempre'?",
+      "alternativas": ["Salmo 100", "Salmo 136", "Salmo 118", "Salmo 107"],
+      "correta": 0,
+      "referência": "Salmo 100:5"
+    },
+    {
+      "id": "SL-076",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo anuncia: 'Louvai ao Senhor desde o nascer do sol até o poente'?",
+      "alternativas": ["Salmo 113", "Salmo 98", "Salmo 29", "Salmo 67"],
+      "correta": 0,
+      "referência": "Salmo 113:3"
+    },
+    {
+      "id": "SL-077",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo declara: 'Buscai o Senhor enquanto se pode achar'?",
+      "alternativas": ["Nenhum Salmo — está em Isaías", "Salmo 91", "Salmo 24", "Salmo 34"],
+      "correta": 0,
+      "referência": "Isaías 55:6"
+    },
+    {
+      "id": "SL-078",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo diz: 'A tua palavra é fiel e todas as tuas obras são verdadeiras'?",
+      "alternativas": ["Salmo 33", "Salmo 146", "Salmo 119", "Salmo 18"],
+      "correta": 0,
+      "referência": "Salmo 33:4"
+    },
+    {
+      "id": "SL-079",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo afirma: 'Os montes derretem como cera diante do Senhor'?",
+      "alternativas": ["Salmo 46", "Salmo 97", "Salmo 114", "Salmo 68"],
+      "correta": 1,
+      "referência": "Salmo 97:5"
+    },
+    {
+      "id": "SL-080",
+      "categoria": "salmos",
+      "nível": "difícil",
+      "pergunta": "Qual salmo descreve: 'O Senhor está no seu santo templo; cale-se diante dele toda a terra'?",
+      "alternativas": ["Salmo 9", "Salmo 76", "Salmo 11", "Nenhum Salmo — está em Habacuque"],
+      "correta": 3,
+      "referência": "Habacuque 2:20"
+    }
+  ]
+}
