@@ -1,3 +1,6 @@
 {
-  "categorias": []
+  "perguntas": {
+    "antigo_testamento": [],
+    "novo_testamento": []
+  }
 }
