@@ -1,1 +1,1379 @@
+{
+  "perguntas": [
+    {
+      "id": "NT-001",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem anunciou a Maria que ela teria um filho chamado Jesus?",
+      "alternativas": ["Gabriel", "Miguel", "Rafael", "Uriel"],
+      "correta": 0,
+      "referência": "Lucas 1:26-31"
+    },
+    {
+      "id": "NT-002",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Onde Jesus nasceu?",
+      "alternativas": ["Jerusalém", "Belém", "Nazaré", "Cafarnaum"],
+      "correta": 1,
+      "referência": "Mateus 2:1"
+    },
+    {
+      "id": "NT-003",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem batizou Jesus?",
+      "alternativas": ["Pedro", "João Batista", "André", "Tiago"],
+      "correta": 1,
+      "referência": "Mateus 3:13-16"
+    },
+    {
+      "id": "NT-004",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Qual foi o primeiro milagre de Jesus registrado na Bíblia?",
+      "alternativas": ["Curar um cego", "Multiplicar pães", "Andar sobre as águas", "Transformar água em vinho"],
+      "correta": 3,
+      "referência": "João 2:1-11"
+    },
+    {
+      "id": "NT-005",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem traiu Jesus por 30 moedas de prata?",
+      "alternativas": ["Pedro", "André", "Judas Iscariotes", "Tomé"],
+      "correta": 2,
+      "referência": "Mateus 26:14-16"
+    },
+    {
+      "id": "NT-006",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quantos discípulos Jesus escolheu?",
+      "alternativas": ["10", "11", "12", "14"],
+      "correta": 2,
+      "referência": "Lucas 6:13"
+    },
+    {
+      "id": "NT-007",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem negou Jesus três vezes antes do galo cantar?",
+      "alternativas": ["André", "Pedro", "Tiago", "João"],
+      "correta": 1,
+      "referência": "Lucas 22:56-62"
+    },
+    {
+      "id": "NT-008",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Qual discípulo era cobrador de impostos antes de seguir Jesus?",
+      "alternativas": ["Tiago", "Mateus", "Simão", "Bartolomeu"],
+      "correta": 1,
+      "referência": "Mateus 9:9"
+    },
+    {
+      "id": "NT-009",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem escreveu o livro de Atos dos Apóstolos?",
+      "alternativas": ["Paulo", "Lucas", "Pedro", "João"],
+      "correta": 1,
+      "referência": "Lucas 1:1-4; Atos 1:1"
+    },
+    {
+      "id": "NT-010",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem duvidou da ressurreição de Jesus até vê-lo com os próprios olhos?",
+      "alternativas": ["Pedro", "Tomé", "André", "Tiago"],
+      "correta": 1,
+      "referência": "João 20:24-29"
+    },
 
+    {
+      "id": "NT-011",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Qual apóstolo era conhecido como 'filho do trovão'?",
+      "alternativas": ["João", "Tiago", "Judas", "Filipe"],
+      "correta": 1,
+      "referência": "Marcos 3:17"
+    },
+    {
+      "id": "NT-012",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem escreveu o Apocalipse?",
+      "alternativas": ["Paulo", "Pedro", "João", "Tiago"],
+      "correta": 2,
+      "referência": "Apocalipse 1:1"
+    },
+    {
+      "id": "NT-013",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem carregou a cruz de Jesus no caminho para o Gólgota?",
+      "alternativas": ["José de Arimateia", "Simão Cireneu", "Pedro", "João"],
+      "correta": 1,
+      "referência": "Lucas 23:26"
+    },
+    {
+      "id": "NT-014",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem foi a primeira pessoa a ver Jesus ressuscitado?",
+      "alternativas": ["Maria Madalena", "Pedro", "João", "Tomé"],
+      "correta": 0,
+      "referência": "João 20:11-18"
+    },
+    {
+      "id": "NT-015",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem foi o rei que tentou matar Jesus quando Ele era bebê?",
+      "alternativas": ["Herodes", "César", "Agripa", "Felipe"],
+      "correta": 0,
+      "referência": "Mateus 2:13"
+    },
+    {
+      "id": "NT-016",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Que profissão José, pai terreno de Jesus, exercia?",
+      "alternativas": ["Carpinteiro", "Pastor", "Pescador", "Ferreiro"],
+      "correta": 0,
+      "referência": "Mateus 13:55"
+    },
+    {
+      "id": "NT-017",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem se converteu ao ver Estevão sendo apedrejado?",
+      "alternativas": ["Pedro", "Paulo", "Filipe", "Barnabé"],
+      "correta": 1,
+      "referência": "Atos 7:54–8:1"
+    },
+    {
+      "id": "NT-018",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem era o discípulo amado?",
+      "alternativas": ["Pedro", "João", "Tiago", "André"],
+      "correta": 1,
+      "referência": "João 13:23"
+    },
+    {
+      "id": "NT-019",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem recebeu visão de um lençol com animais impuros?",
+      "alternativas": ["João", "Paulo", "Pedro", "Tiago"],
+      "correta": 2,
+      "referência": "Atos 10:9-16"
+    },
+    {
+      "id": "NT-020",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem escreveu mais cartas do Novo Testamento?",
+      "alternativas": ["Pedro", "Tiago", "Paulo", "João"],
+      "correta": 2,
+      "referência": "Romanos–Filemom"
+    },
+
+    {
+      "id": "NT-021",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Quem foi o primeiro mártir cristão?",
+      "alternativas": ["Tiago", "Paulo", "Estevão", "Pedro"],
+      "correta": 2,
+      "referência": "Atos 7:54-60"
+    },
+    {
+      "id": "NT-022",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Qual discípulo levou Natanael até Jesus?",
+      "alternativas": ["André", "Filipe", "Mateus", "Tomé"],
+      "correta": 1,
+      "referência": "João 1:43-46"
+    },
+    {
+      "id": "NT-023",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Quantos dias Jesus permaneceu no deserto sendo tentado?",
+      "alternativas": ["20", "30", "40", "50"],
+      "correta": 2,
+      "referência": "Mateus 4:1-2"
+    },
+    {
+      "id": "NT-024",
+      "categoria": "novo_testamento",
+      "níível": "médio",
+      "pergunta": "Quem foi o dono do túmulo onde Jesus foi sepultado?",
+      "alternativas": ["Nicodemos", "José de Arimateia", "Simão", "Zaqueu"],
+      "correta": 1,
+      "referência": "Mateus 27:57-60"
+    },
+    {
+      "id": "NT-025",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Qual apóstolo curou um coxo na porta Formosa?",
+      "alternativas": ["Pedro", "João", "Tiago", "Bartolomeu"],
+      "correta": 0,
+      "referência": "Atos 3:1-8"
+    },
+    {
+      "id": "NT-026",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Quem caiu da janela enquanto Paulo pregava?",
+      "alternativas": ["Timóteo", "Éutico", "Lucas", "Tito"],
+      "correta": 1,
+      "referência": "Atos 20:9"
+    },
+    {
+      "id": "NT-027",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Qual discípulo andou sobre as águas em direção a Jesus?",
+      "alternativas": ["Pedro", "João", "Tiago", "André"],
+      "correta": 0,
+      "referência": "Mateus 14:28-29"
+    },
+    {
+      "id": "NT-028",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Quem era o centurião romano de grande fé elogiado por Jesus?",
+      "alternativas": ["Cornélio", "Cláudio", "Justo", "Longino"],
+      "correta": 0,
+      "referência": "Mateus 8:5-10"
+    },
+    {
+      "id": "NT-029",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Quem teve a visão do 'homem macedônio' chamando para pregar na Europa?",
+      "alternativas": ["Pedro", "Paulo", "João", "Barnabé"],
+      "correta": 1,
+      "referência": "Atos 16:9"
+    },
+    {
+      "id": "NT-030",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Jesus chorou diante da morte de qual amigo?",
+      "alternativas": ["Pedro", "João", "Bartolomeu", "Lázaro"],
+      "correta": 3,
+      "referência": "João 11:35"
+    },
+
+    {
+      "id": "NT-031",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Quem ofereceu seu túmulo para o corpo de Jesus?",
+      "alternativas": ["Nicodemos", "José de Arimateia", "Simão", "Bartolomeu"],
+      "correta": 1,
+      "referência": "Marcos 15:42-46"
+    },
+    {
+      "id": "NT-032",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Quem escreveu o Evangelho destinado especialmente aos judeus?",
+      "alternativas": ["Lucas", "Marcos", "Mateus", "João"],
+      "correta": 2,
+      "referência": "Mateus 1:1"
+    },
+    {
+      "id": "NT-033",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Quem era o perseguidor da igreja que se tornou apóstolo?",
+      "alternativas": ["Tiago", "Barnabé", "Paulo", "Tito"],
+      "correta": 2,
+      "referência": "Atos 9:1-9"
+    },
+    {
+      "id": "NT-034",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Qual milagre Jesus fez no Mar da Galileia?",
+      "alternativas": ["Acalmou a tempestade", "Transformou água em vinho", "Curou 10 leprosos", "Multiplicou peixes"],
+      "correta": 0,
+      "referência": "Marcos 4:39"
+    },
+    {
+      "id": "NT-035",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Qual discípulo era conhecido como 'o zelote'?",
+      "alternativas": ["Simão", "Bartolomeu", "Tiago", "Tadeu"],
+      "correta": 0,
+      "referência": "Lucas 6:15"
+    },
+    {
+      "id": "NT-036",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Quem morreu após mentir ao Espírito Santo?",
+      "alternativas": ["Festo", "Simão", "Ananias e Safira", "Tito"],
+      "correta": 2,
+      "referência": "Atos 5:1-11"
+    },
+    {
+      "id": "NT-037",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Qual foi o cobrador de impostos que subiu em uma árvore para ver Jesus?",
+      "alternativas": ["Zaqueu", "Mateus", "Simão", "André"],
+      "correta": 0,
+      "referência": "Lucas 19:1-10"
+    },
+    {
+      "id": "NT-038",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Quem viajou com Paulo em sua primeira viagem missionária?",
+      "alternativas": ["Silas", "Barnabé", "Tito", "Timóteo"],
+      "correta": 1,
+      "referência": "Atos 13:2-3"
+    },
+    {
+      "id": "NT-039",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Quem foi o jovem que acompanhou Paulo e depois o deixou?",
+      "alternativas": ["Timóteo", "Marcos", "Tito", "Silas"],
+      "correta": 1,
+      "referência": "Atos 13:13"
+    },
+    {
+      "id": "NT-040",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Quem foi o marido de Isabel e pai de João Batista?",
+      "alternativas": ["Zacarias", "José", "Natanael", "Bartolomeu"],
+      "correta": 0,
+      "referência": "Lucas 1:5-13"
+    },
+
+    {
+      "id": "NT-041",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem escreveu a Carta aos Hebreus?",
+      "alternativas": ["Paulo", "Barnabé", "Autor desconhecido", "Apolo"],
+      "correta": 2,
+      "referência": "Hebreus 1:1"
+    },
+    {
+      "id": "NT-042",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Qual apóstolo foi decapitado por ordem de Herodes?",
+      "alternativas": ["Pedro", "Tiago", "João", "André"],
+      "correta": 1,
+      "referência": "Atos 12:1-2"
+    },
+    {
+      "id": "NT-043",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Em qual cidade os discípulos foram chamados cristãos pela primeira vez?",
+      "alternativas": ["Roma", "Jerusalém", "Antioquia", "Atenas"],
+      "correta": 2,
+      "referência": "Atos 11:26"
+    },
+    {
+      "id": "NT-044",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem caiu morto ao ser chamado de mentiroso por Pedro?",
+      "alternativas": ["Ananias", "Safira", "Simão Mago", "Eutico"],
+      "correta": 0,
+      "referência": "Atos 5:1-5"
+    },
+    {
+      "id": "NT-045",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem foi o autor das cartas de 1, 2 e 3 João?",
+      "alternativas": ["Tiago", "João", "Pedro", "Paulo"],
+      "correta": 1,
+      "referência": "1 João 1:1"
+    },
+    {
+      "id": "NT-046",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem ficou cego por três dias após encontrar Jesus no caminho para Damasco?",
+      "alternativas": ["Pedro", "Judas", "Saulo", "Tito"],
+      "correta": 2,
+      "referência": "Atos 9:8-9"
+    },
+    {
+      "id": "NT-047",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quantas igrejas são mencionadas nas cartas do Apocalipse?",
+      "alternativas": ["5", "6", "7", "8"],
+      "correta": 2,
+      "referência": "Apocalipse 1:20"
+    },
+    {
+      "id": "NT-048",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem foi o rei romano diante do qual Paulo testemunhou?",
+      "alternativas": ["Agripa", "Herodes", "Pilatos", "Nero"],
+      "correta": 0,
+      "referência": "Atos 26:1"
+    },
+    {
+      "id": "NT-049",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Que mulher foi convertida após ouvir Paulo às margens de um rio?",
+      "alternativas": ["Eunice", "Lídia", "Priscila", "Dorcas"],
+      "correta": 1,
+      "referência": "Atos 16:13-15"
+    },
+    {
+      "id": "NT-050",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem escreveu: 'Combati o bom combate, completei a carreira, guardei a fé'?",
+      "alternativas": ["Pedro", "João", "Paulo", "Tiago"],
+      "correta": 2,
+      "referência": "2 Timóteo 4:7"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "NT-051",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Qual discípulo encontrou cinco pães e dois peixes para Jesus multiplicar?",
+      "alternativas": ["Filipe", "André", "Pedro", "Tomé"],
+      "correta": 1,
+      "referência": "João 6:8-9"
+    },
+    {
+      "id": "NT-052",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Que homem rico subiu em uma árvore para ver Jesus?",
+      "alternativas": ["Zaqueu", "Nicodemos", "Cornélio", "José de Arimateia"],
+      "correta": 0,
+      "referência": "Lucas 19:1-4"
+    },
+    {
+      "id": "NT-053",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem foi o pai de João Batista?",
+      "alternativas": ["José", "Zacarias", "Simão", "Tadeu"],
+      "correta": 1,
+      "referência": "Lucas 1:5-13"
+    },
+    {
+      "id": "NT-054",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem andou sobre as águas com Jesus?",
+      "alternativas": ["Pedro", "Tiago", "João", "André"],
+      "correta": 0,
+      "referência": "Mateus 14:28-29"
+    },
+    {
+      "id": "NT-055",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Qual apóstolo Jesus chamou primeiro?",
+      "alternativas": ["Pedro", "André", "João", "Tiago"],
+      "correta": 1,
+      "referência": "Mateus 4:18"
+    },
+    {
+      "id": "NT-056",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem escreveu o Evangelho mais curto?",
+      "alternativas": ["Mateus", "Marcos", "Lucas", "João"],
+      "correta": 1,
+      "referência": "Marcos 1:1"
+    },
+    {
+      "id": "NT-057",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem era o rei na época do nascimento de Jesus?",
+      "alternativas": ["Herodes", "Pilatos", "César", "Festo"],
+      "correta": 0,
+      "referência": "Mateus 2:1"
+    },
+    {
+      "id": "NT-058",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem recebeu a revelação de que não morreria antes de ver o Messias?",
+      "alternativas": ["Simeão", "Zacarias", "Pedro", "José"],
+      "correta": 0,
+      "referência": "Lucas 2:25-26"
+    },
+    {
+      "id": "NT-059",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Qual foi o apóstolo que Jesus disse que seria 'pescador de homens'?",
+      "alternativas": ["Simão Pedro", "João", "Filipe", "Mateus"],
+      "correta": 0,
+      "referência": "Mateus 4:19"
+    },
+    {
+      "id": "NT-060",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem foi enviado a Damasco para orar por Paulo?",
+      "alternativas": ["Barnabé", "Ananias", "Tito", "Silas"],
+      "correta": 1,
+      "referência": "Atos 9:10-12"
+    },
+
+    {
+      "id": "NT-061",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Quem foi o apóstolo que viu o céu aberto e animais impuros descendo?",
+      "alternativas": ["João", "Pedro", "Tiago", "Paulo"],
+      "correta": 1,
+      "referência": "Atos 10:9-16"
+    },
+    {
+      "id": "NT-062",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Quem morreu após cair da janela enquanto Paulo pregava longamente?",
+      "alternativas": ["Éutico", "Tito", "Timóteo", "Silas"],
+      "correta": 0,
+      "referência": "Atos 20:9"
+    },
+    {
+      "id": "NT-063",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Que discípulo levou Natanael até Jesus?",
+      "alternativas": ["André", "Filipe", "Tiago", "Tomé"],
+      "correta": 1,
+      "referência": "João 1:43-46"
+    },
+    {
+      "id": "NT-064",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Quem foi a primeira convertida da Europa?",
+      "alternativas": ["Eunice", "Dorcas", "Lídia", "Priscila"],
+      "correta": 2,
+      "referência": "Atos 16:14-15"
+    },
+    {
+      "id": "NT-065",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Quem alertou Paulo sobre uma emboscada dos judeus?",
+      "alternativas": ["O sobrinho de Paulo", "Pedro", "Festo", "Felipe"],
+      "correta": 0,
+      "referência": "Atos 23:16"
+    },
+    {
+      "id": "NT-066",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Qual apóstolo curou um aleijado na porta Formosa?",
+      "alternativas": ["João", "Tiago", "Pedro", "Bartolomeu"],
+      "correta": 2,
+      "referência": "Atos 3:1-8"
+    },
+    {
+      "id": "NT-067",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Quem expulsou um espírito adivinhador de uma jovem em Filipos?",
+      "alternativas": ["Lucas", "Pedro", "Paulo", "Barnabé"],
+      "correta": 2,
+      "referência": "Atos 16:16-18"
+    },
+    {
+      "id": "NT-068",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Quem escreveu o Evangelho destinado aos gentios?",
+      "alternativas": ["Mateus", "Marcos", "Lucas", "João"],
+      "correta": 2,
+      "referência": "Lucas 1:1-4"
+    },
+    {
+      "id": "NT-069",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Qual discípulo foi o primeiro a reconhecer Jesus após a pesca milagrosa?",
+      "alternativas": ["Pedro", "João", "André", "Tiago"],
+      "correta": 1,
+      "referência": "João 21:7"
+    },
+    {
+      "id": "NT-070",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Quem foi visitado por um anjo no templo e ficou mudo?",
+      "alternativas": ["José", "Zacarias", "Nicodemos", "Simeão"],
+      "correta": 1,
+      "referência": "Lucas 1:11-20"
+    },
+
+    {
+      "id": "NT-071",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem sucedeu Judas Iscariotes como apóstolo?",
+      "alternativas": ["Barnabé", "Tadeu", "Matias", "Justo"],
+      "correta": 2,
+      "referência": "Atos 1:23-26"
+    },
+    {
+      "id": "NT-072",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem foi o jovem companheiro de Paulo que recebeu instruções para ser exemplo dos fiéis?",
+      "alternativas": ["Tito", "Lucas", "Timóteo", "Filemom"],
+      "correta": 2,
+      "referência": "1 Timóteo 4:12"
+    },
+    {
+      "id": "NT-073",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem foi o proconsul convertido após presenciar o milagre de Paulo em Chipre?",
+      "alternativas": ["Sérgio Paulo", "Agripa", "Festo", "Cornélio"],
+      "correta": 0,
+      "referência": "Atos 13:6-12"
+    },
+    {
+      "id": "NT-074",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem foi o sacerdote que profetizou que Jesus morreria pela nação?",
+      "alternativas": ["Anás", "Caifás", "Zacarias", "Simeão"],
+      "correta": 1,
+      "referência": "João 11:49-51"
+    },
+    {
+      "id": "NT-075",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem hospedou Paulo em Corinto por 18 meses?",
+      "alternativas": ["Apolo", "Aquila e Priscila", "Tito", "Barnabé"],
+      "correta": 1,
+      "referência": "Atos 18:1-3"
+    },
+    {
+      "id": "NT-076",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Qual mulher foi elogiada por Paulo como 'vendedora de púrpura'?",
+      "alternativas": ["Eunice", "Loide", "Lídia", "Priscila"],
+      "correta": 2,
+      "referência": "Atos 16:14"
+    },
+    {
+      "id": "NT-077",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem foi o profeta que amarrou suas próprias mãos para demonstrar o sofrimento futuro de Paulo?",
+      "alternativas": ["Ágabo", "Natanael", "Tadeu", "Barnabé"],
+      "correta": 0,
+      "referência": "Atos 21:10-11"
+    },
+    {
+      "id": "NT-078",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem era governador romano quando Paulo foi preso em Cesareia?",
+      "alternativas": ["Festo", "Félix", "Agripa", "Pilatos"],
+      "correta": 1,
+      "referência": "Atos 24:24-27"
+    },
+    {
+      "id": "NT-079",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem foi o apóstolo que repreendeu Pedro por se afastar dos gentios?",
+      "alternativas": ["Tiago", "Paulo", "João", "Tito"],
+      "correta": 1,
+      "referência": "Gálatas 2:11-14"
+    },
+    {
+      "id": "NT-080",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Qual cidade era conhecida por seu altar 'ao Deus desconhecido'?",
+      "alternativas": ["Roma", "Corinto", "Atenas", "Jerusalém"],
+      "correta": 2,
+      "referência": "Atos 17:22-23"
+    },
+
+    {
+      "id": "NT-081",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem foi o líder da igreja que enviou cartas recomendando Apolo?",
+      "alternativas": ["Pedro", "Tiago", "Aquila", "Priscila"],
+      "correta": 1,
+      "referência": "Atos 15:13"
+    },
+    {
+      "id": "NT-082",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem disse: 'Quase me persuades a ser cristão'?",
+      "alternativas": ["Félix", "Agripa", "Nero", "Festo"],
+      "correta": 1,
+      "referência": "Atos 26:28"
+    },
+    {
+      "id": "NT-083",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Qual igreja foi elogiada por examinar as Escrituras diariamente?",
+      "alternativas": ["Colossos", "Éfeso", "Béria", "Laodiceia"],
+      "correta": 2,
+      "referência": "Atos 17:10-11"
+    },
+    {
+      "id": "NT-084",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem escreveu o evangelho que destaca Jesus como o Filho de Deus?",
+      "alternativas": ["Mateus", "João", "Lucas", "Marcos"],
+      "correta": 1,
+      "referência": "João 20:31"
+    },
+    {
+      "id": "NT-085",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem acompanhou Paulo em sua segunda viagem missionária?",
+      "alternativas": ["Barnabé", "Silas", "Marcos", "Tito"],
+      "correta": 1,
+      "referência": "Atos 15:40"
+    },
+    {
+      "id": "NT-086",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem foi a discípula que ajudou os pobres e foi ressuscitada por Pedro?",
+      "alternativas": ["Lídia", "Eunice", "Dorcas", "Loide"],
+      "correta": 2,
+      "referência": "Atos 9:36-41"
+    },
+    {
+      "id": "NT-087",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem foi responsável pela morte de Tiago, irmão de João?",
+      "alternativas": ["Pilatos", "Festo", "Herodes Agripa", "Félix"],
+      "correta": 2,
+      "referência": "Atos 12:1-2"
+    },
+    {
+      "id": "NT-088",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem pregou no dia de Pentecostes, resultando na conversão de 3 mil pessoas?",
+      "alternativas": ["Paulo", "João", "Pedro", "Tiago"],
+      "correta": 2,
+      "referência": "Atos 2:14-41"
+    },
+    {
+      "id": "NT-089",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Qual apóstolo escreveu a carta mais curta do Novo Testamento?",
+      "alternativas": ["Pedro", "João", "Tiago", "Judas"],
+      "correta": 3,
+      "referência": "Judas 1"
+    },
+    {
+      "id": "NT-090",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem julgou Paulo em Cesareia antes de enviá-lo a Roma?",
+      "alternativas": ["Agripa", "Nero", "Festo", "Herodes"],
+      "correta": 2,
+      "referência": "Atos 26:32"
+    },
+
+    {
+      "id": "NT-091",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Qual discípulo foi chamado de 'filho da exortação'?",
+      "alternativas": ["Barnabé", "Tito", "Lucas", "Mateus"],
+      "correta": 0,
+      "referência": "Atos 4:36"
+    },
+    {
+      "id": "NT-092",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem repreendeu Simão Mago por querer comprar o dom do Espírito Santo?",
+      "alternativas": ["Tiago", "Pedro", "João", "Paulo"],
+      "correta": 1,
+      "referência": "Atos 8:18-24"
+    },
+    {
+      "id": "NT-093",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem escreveu a carta aos Filipenses?",
+      "alternativas": ["Pedro", "Tiago", "João", "Paulo"],
+      "correta": 3,
+      "referência": "Filipenses 1:1"
+    },
+    {
+      "id": "NT-094",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Qual discípulo foi martirizado por ser serrado ao meio segundo a tradição?",
+      "alternativas": ["Tiago", "Bartolomeu", "Judas Tadeu", "Simão, o Zelote"],
+      "correta": 3,
+      "referência": "Tradição Cristã"
+    },
+    {
+      "id": "NT-095",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem escreveu: 'O amor tudo sofre, tudo crê, tudo espera, tudo suporta'?",
+      "alternativas": ["João", "Pedro", "Tiago", "Paulo"],
+      "correta": 3,
+      "referência": "1 Coríntios 13:7"
+    },
+    {
+      "id": "NT-096",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem explicou as Escrituras ao eunuco etíope?",
+      "alternativas": ["Pedro", "Filipe", "Tiago", "Paulo"],
+      "correta": 1,
+      "referência": "Atos 8:26-35"
+    },
+    {
+      "id": "NT-097",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Qual igreja foi repreendida por ser 'morna'?",
+      "alternativas": ["Esmirna", "Laodiceia", "Tiatira", "Filadélfia"],
+      "correta": 1,
+      "referência": "Apocalipse 3:15-16"
+    },
+    {
+      "id": "NT-098",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem escreveu: 'Porque para mim o viver é Cristo e o morrer é lucro'?",
+      "alternativas": ["Pedro", "Paulo", "Tiago", "João"],
+      "correta": 1,
+      "referência": "Filipenses 1:21"
+    },
+    {
+      "id": "NT-099",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem escreveu as epístolas pastorais?",
+      "alternativas": ["Pedro", "Tiago", "João", "Paulo"],
+      "correta": 3,
+      "referência": "1 Timóteo, 2 Timóteo e Tito"
+    },
+    {
+      "id": "NT-100",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem escreveu o livro do Apocalipse enquanto estava preso na ilha de Patmos?",
+      "alternativas": ["Pedro", "João", "Tiago", "Paulo"],
+      "correta": 1,
+      "referência": "Apocalipse 1:9"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "NT-101",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem foi a jovem serva que ouviu Pedro bater à porta após ser libertado da prisão?",
+      "alternativas": ["Lídia", "Rode", "Dorcas", "Eunice"],
+      "correta": 1,
+      "referência": "Atos 12:13-16"
+    },
+    {
+      "id": "NT-102",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem foi curado por Jesus após ter sido descido pelo telhado?",
+      "alternativas": ["Um paralítico", "Um cego", "Um surdo", "Um endemoninhado"],
+      "correta": 0,
+      "referência": "Marcos 2:1-12"
+    },
+    {
+      "id": "NT-103",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem foi enviado a Saulo para impor as mãos e restaurar-lhe a visão?",
+      "alternativas": ["Pedro", "Tiago", "Ananias", "Barnabé"],
+      "correta": 2,
+      "referência": "Atos 9:10-18"
+    },
+    {
+      "id": "NT-104",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem escreveu o Evangelho que enfatiza Jesus como o Servo?",
+      "alternativas": ["Mateus", "Marcos", "Lucas", "João"],
+      "correta": 1,
+      "referência": "Marcos 10:45"
+    },
+    {
+      "id": "NT-105",
+      "categoria": "novo_testamento",
+      "nível": "fácil",
+      "pergunta": "Quem foi a mulher samaritana com quem Jesus conversou no poço?",
+      "alternativas": ["Seu nome não é mencionado", "Marta", "Maria", "Salomé"],
+      "correta": 0,
+      "referência": "João 4:7-26"
+    },
+
+    {
+      "id": "NT-106",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Quem caiu no sono profundo enquanto Pedro estava preso?",
+      "alternativas": ["Herodes", "Soldados", "Pedro", "Cornélio"],
+      "correta": 2,
+      "referência": "Atos 12:6"
+    },
+    {
+      "id": "NT-107",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Qual casal foi expulso de Roma por ordem de Cláudio?",
+      "alternativas": ["Aquila e Priscila", "Zaqueu e Ana", "Cornélio e sua esposa", "José e Maria"],
+      "correta": 0,
+      "referência": "Atos 18:1-2"
+    },
+    {
+      "id": "NT-108",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Quem foi enviado para curar Saulo em Damasco?",
+      "alternativas": ["Pedro", "João", "Ananias", "Tito"],
+      "correta": 2,
+      "referência": "Atos 9:10-12"
+    },
+    {
+      "id": "NT-109",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Quem foi o profeta que predisse uma grande fome no Império Romano?",
+      "alternativas": ["Ágabo", "Simeão", "Natanael", "Elias"],
+      "correta": 0,
+      "referência": "Atos 11:27-28"
+    },
+    {
+      "id": "NT-110",
+      "categoria": "novo_testamento",
+      "nível": "médio",
+      "pergunta": "Quem substituiu Barnabé como companheiro de viagem de Paulo?",
+      "alternativas": ["Silas", "Tito", "Timóteo", "Lucas"],
+      "correta": 0,
+      "referência": "Atos 15:40"
+    },
+
+    {
+      "id": "NT-111",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem foi o proconsul da Acaia diante de quem Paulo foi levado?",
+      "alternativas": ["Festo", "Sérgio Paulo", "Galio", "Agripa"],
+      "correta": 2,
+      "referência": "Atos 18:12"
+    },
+    {
+      "id": "NT-112",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem foi o mestre que ensinou Paulo quando jovem?",
+      "alternativas": ["Nicodemos", "Gamaliel", "Hilel", "Crispo"],
+      "correta": 1,
+      "referência": "Atos 22:3"
+    },
+    {
+      "id": "NT-113",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem foi o homem que Paulo deixou doente em Mileto?",
+      "alternativas": ["Crescente", "Trófimo", "Éubulo", "Dem as"],
+      "correta": 1,
+      "referência": "2 Timóteo 4:20"
+    },
+    {
+      "id": "NT-114",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Que judeu eloquente Apolo foi instruído por?",
+      "alternativas": ["Pedro", "Aquila e Priscila", "Lídia", "Ananias"],
+      "correta": 1,
+      "referência": "Atos 18:24-26"
+    },
+    {
+      "id": "NT-115",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem caiu morto por não dar glória a Deus?",
+      "alternativas": ["Festo", "Herodes Agripa", "Pilatos", "Nero"],
+      "correta": 1,
+      "referência": "Atos 12:21-23"
+    },
+
+    {
+      "id": "NT-116",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem ajudou Paulo em sua conversão levando-o para Jerusalém?",
+      "alternativas": ["Pedro", "Barnabé", "Lucas", "Tito"],
+      "correta": 1,
+      "referência": "Atos 9:26-27"
+    },
+    {
+      "id": "NT-117",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem servia como centurião na Itália e recebeu uma visão do anjo?",
+      "alternativas": ["Longino", "Cornélio", "Filipe", "Tito"],
+      "correta": 1,
+      "referência": "Atos 10:1-3"
+    },
+    {
+      "id": "NT-118",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem caiu de joelhos e pediu a Pedro que o curasse?",
+      "alternativas": ["Éutico", "Enéias", "Meleque", "Bartolomeu"],
+      "correta": 1,
+      "referência": "Atos 9:33-34"
+    },
+    {
+      "id": "NT-119",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem era o homem possuído que vivia entre os sepulcros?",
+      "alternativas": ["Bartimeu", "Legião", "Simão", "Eutiques"],
+      "correta": 1,
+      "referência": "Marcos 5:1-20"
+    },
+    {
+      "id": "NT-120",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Que jovem acompanhou Paulo e foi advertido sobre sua timidez?",
+      "alternativas": ["Lucas", "Timóteo", "Filemom", "Tito"],
+      "correta": 1,
+      "referência": "2 Timóteo 1:6-7"
+    },
+
+    {
+      "id": "NT-121",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem foi a primeira pessoa na Europa a se converter ao cristianismo?",
+      "alternativas": ["Dorcas", "Lídia", "Eunice", "Priscila"],
+      "correta": 1,
+      "referência": "Atos 16:14-15"
+    },
+    {
+      "id": "NT-122",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem enviou uma carta para Paulo pedindo que recebesse de volta Onésimo?",
+      "alternativas": ["Filemom", "Pedro", "Timóteo", "Tito"],
+      "correta": 0,
+      "referência": "Filemom 1:10-17"
+    },
+    {
+      "id": "NT-123",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Qual discípulo de Paulo era médico?",
+      "alternativas": ["Barnabé", "Lucas", "Tito", "Timóteo"],
+      "correta": 1,
+      "referência": "Colossenses 4:14"
+    },
+    {
+      "id": "NT-124",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem pregou um longo sermão que fez Éutico adormecer?",
+      "alternativas": ["Pedro", "Paulo", "Tiago", "Filipe"],
+      "correta": 1,
+      "referência": "Atos 20:7-9"
+    },
+    {
+      "id": "NT-125",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem foi a profetisa que falou sobre Jesus no templo?",
+      "alternativas": ["Ana", "Maria", "Salomé", "Lídia"],
+      "correta": 0,
+      "referência": "Lucas 2:36-38"
+    },
+
+    {
+      "id": "NT-126",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Qual governador romano perguntou a Jesus: ‘O que é a verdade?’",
+      "alternativas": ["Pilatos", "Félix", "Festo", "Agripa"],
+      "correta": 0,
+      "referência": "João 18:38"
+    },
+    {
+      "id": "NT-127",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem teve a visão do homem macedônio pedindo ajuda?",
+      "alternativas": ["Pedro", "Paulo", "João", "Barnabé"],
+      "correta": 1,
+      "referência": "Atos 16:9"
+    },
+    {
+      "id": "NT-128",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem era o mestre da sinagoga em Corinto?",
+      "alternativas": ["Tito", "Crispo", "Lísias", "Silas"],
+      "correta": 1,
+      "referência": "Atos 18:8"
+    },
+    {
+      "id": "NT-129",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem foi responsável por açoitar Paulo e Silas em Filipos?",
+      "alternativas": ["O carcereiro", "Os magistrados", "Os judeus", "Os soldados"],
+      "correta": 1,
+      "referência": "Atos 16:22"
+    },
+    {
+      "id": "NT-130",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem era o nobre oficial do rei que buscou Jesus pela cura de seu filho?",
+      "alternativas": ["Centurião", "Oficial real", "Sinédrio", "Escriba"],
+      "correta": 1,
+      "referência": "João 4:46-53"
+    },
+
+    {
+      "id": "NT-131",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Qual apóstolo disse a Jesus: 'Mostra-nos o Pai e isso nos basta'?",
+      "alternativas": ["Tomé", "Filipe", "Tiago", "Pedro"],
+      "correta": 1,
+      "referência": "João 14:8"
+    },
+    {
+      "id": "NT-132",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem tentou comprar o poder do Espírito Santo?",
+      "alternativas": ["Simão, o Mago", "Ananias", "Enéias", "Dem as"],
+      "correta": 0,
+      "referência": "Atos 8:18-24"
+    },
+    {
+      "id": "NT-133",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem foi golpeado por Herodes e comido por vermes?",
+      "alternativas": ["Festo", "Agripa I", "Pilatos", "César"],
+      "correta": 1,
+      "referência": "Atos 12:23"
+    },
+    {
+      "id": "NT-134",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem abandonou Paulo por amar o mundo?",
+      "alternativas": ["Demas", "Crescente", "Trófimo", "Filemom"],
+      "correta": 0,
+      "referência": "2 Timóteo 4:10"
+    },
+    {
+      "id": "NT-135",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem julgou Paulo antes de enviá-lo a César?",
+      "alternativas": ["Festo", "Félix", "Agripa", "Pilatos"],
+      "correta": 0,
+      "referência": "Atos 26:32"
+    },
+
+    {
+      "id": "NT-136",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem viajou com Paulo e era considerado amado médico?",
+      "alternativas": ["Lucas", "Timóteo", "Barnabé", "Tito"],
+      "correta": 0,
+      "referência": "Colossenses 4:14"
+    },
+    {
+      "id": "NT-137",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem acolheu Paulo após ele ser rejeitado pelos discípulos em Jerusalém?",
+      "alternativas": ["Pedro", "João", "Barnabé", "Tiago"],
+      "correta": 2,
+      "referência": "Atos 9:26-27"
+    },
+    {
+      "id": "NT-138",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem ouviu a pregação de Paulo até tarde da noite e caiu da janela?",
+      "alternativas": ["Éutico", "Trófimo", "Timóteo", "Crescente"],
+      "correta": 0,
+      "referência": "Atos 20:7-9"
+    },
+    {
+      "id": "NT-139",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Qual era o nome original de Paulo?",
+      "alternativas": ["Tiago", "Saulo", "Simão", "Natanael"],
+      "correta": 1,
+      "referência": "Atos 13:9"
+    },
+    {
+      "id": "NT-140",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Que jovem acompanhou Paulo, mas depois foi mandado de volta por não estar preparado?",
+      "alternativas": ["Timóteo", "Marcos", "Tito", "Lucas"],
+      "correta": 1,
+      "referência": "Atos 15:37-39"
+    },
+
+    {
+      "id": "NT-141",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Que profeta predisse uma grande fome no reinado de Cláudio?",
+      "alternativas": ["Ágabo", "Natanael", "Elias", "Simeão"],
+      "correta": 0,
+      "referência": "Atos 11:27-28"
+    },
+    {
+      "id": "NT-142",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem foi açoitado por ordem dos magistrados em Filipos?",
+      "alternativas": ["Pedro e João", "Tiago e André", "Paulo e Silas", "Tito e Timóteo"],
+      "correta": 2,
+      "referência": "Atos 16:22-24"
+    },
+    {
+      "id": "NT-143",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem foi o carcereiro de Filipos que perguntou: 'Que devo fazer para ser salvo?'",
+      "alternativas": ["Cornélio", "Claudio", "O carcereiro de Filipos", "Herodes"],
+      "correta": 2,
+      "referência": "Atos 16:25-34"
+    },
+    {
+      "id": "NT-144",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem alertou Paulo sobre uma emboscada dos judeus?",
+      "alternativas": ["O sobrinho de Paulo", "Pedro", "Tiago", "Lucas"],
+      "correta": 0,
+      "referência": "Atos 23:12-22"
+    },
+    {
+      "id": "NT-145",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem profetizou sobre a prisão de Paulo usando o seu cinto?",
+      "alternativas": ["Natanael", "Ágabo", "Simeão", "Barnabé"],
+      "correta": 1,
+      "referência": "Atos 21:10-11"
+    },
+
+    {
+      "id": "NT-146",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem foi o governador romano que tremia diante da pregação de Paulo?",
+      "alternativas": ["Agripa", "Pilatos", "Félix", "Nero"],
+      "correta": 2,
+      "referência": "Atos 24:25"
+    },
+    {
+      "id": "NT-147",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem ajudou Paulo na coleta para os santos em Jerusalém?",
+      "alternativas": ["Tito", "Filipe", "Lucas", "Apolo"],
+      "correta": 0,
+      "referência": "2 Coríntios 8:16-24"
+    },
+    {
+      "id": "NT-148",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem dormia no convés do navio quando o temporal quase afundou a embarcação?",
+      "alternativas": ["João", "Pedro", "Jesus", "Paulo"],
+      "correta": 2,
+      "referência": "Atos 27:21-25"
+    },
+    {
+      "id": "NT-149",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem foi o escriba que disse a Jesus que amá-lo é melhor do que sacrifícios?",
+      "alternativas": ["Nicodemos", "Cornélio", "Um escriba", "Zaqueu"],
+      "correta": 2,
+      "referência": "Marcos 12:28-34"
+    },
+    {
+      "id": "NT-150",
+      "categoria": "novo_testamento",
+      "nível": "difícil",
+      "pergunta": "Quem foi instruído por Paulo a permanecer firme na graça de Cristo?",
+      "alternativas": ["Barnabé", "Tito", "Timóteo", "Lucas"],
+      "correta": 2,
+      "referência": "2 Timóteo 2:1"
+    }
+  ]
+}
