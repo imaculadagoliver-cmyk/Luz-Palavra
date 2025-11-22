@@ -1,3 +1,18 @@
 {
-  "categorias": []
+  "categorias": [
+    {
+      "id": "antigo_testamento",
+      "nome": "Antigo Testamento",
+      "arquivo": "categorias/antigo_testamento.json",
+      "total": 200,
+      "niveis": ["fácil", "médio", "difícil"]
+    },
+    {
+      "id": "novo_testamento",
+      "nome": "Novo Testamento",
+      "arquivo": "categorias/novo_testamento.json",
+      "total": 150,
+      "niveis": ["fácil", "médio", "difícil"]
+    }
+  ]
 }
