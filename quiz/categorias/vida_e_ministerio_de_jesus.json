@@ -1,0 +1,925 @@
+{
+  "perguntas": [
+    {
+      "id": "VJ-001",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Em qual cidade Jesus nasceu?",
+      "alternativas": ["Jerusalém", "Belém", "Nazaré", "Cafarnaum"],
+      "correta": 1,
+      "referência": "Mateus 2:1"
+    },
+    {
+      "id": "VJ-002",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Quem anunciou a Maria que ela seria mãe de Jesus?",
+      "alternativas": ["Miguel", "Gabriel", "Rafael", "Uriel"],
+      "correta": 1,
+      "referência": "Lucas 1:26-31"
+    },
+    {
+      "id": "VJ-003",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Onde Jesus cresceu e passou sua infância?",
+      "alternativas": ["Belém", "Nazaré", "Jericó", "Betânia"],
+      "correta": 1,
+      "referência": "Mateus 2:23"
+    },
+    {
+      "id": "VJ-004",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Quem batizou Jesus no rio Jordão?",
+      "alternativas": ["Pedro", "João Batista", "Tiago", "Natanael"],
+      "correta": 1,
+      "referência": "Mateus 3:13-17"
+    },
+    {
+      "id": "VJ-005",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Qual foi o primeiro milagre de Jesus?",
+      "alternativas": ["Multiplicação dos pães", "Ressurreição de Lázaro", "Andar sobre as águas", "Transformar água em vinho"],
+      "correta": 3,
+      "referência": "João 2:1-11"
+    },
+    {
+      "id": "VJ-006",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Quantos discípulos Jesus escolheu?",
+      "alternativas": ["7", "10", "12", "14"],
+      "correta": 2,
+      "referência": "Mateus 10:1-4"
+    },
+    {
+      "id": "VJ-007",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Qual era a profissão de Pedro antes de seguir Jesus?",
+      "alternativas": ["Carpinteiro", "Pastor", "Pescador", "Escriba"],
+      "correta": 2,
+      "referência": "Mateus 4:18"
+    },
+    {
+      "id": "VJ-008",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Quem negou Jesus três vezes?",
+      "alternativas": ["João", "Pedro", "André", "Tomé"],
+      "correta": 1,
+      "referência": "Lucas 22:61"
+    },
+    {
+      "id": "VJ-009",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Quem traiu Jesus?",
+      "alternativas": ["Pedro", "Judas Iscariotes", "Tomé", "Filipe"],
+      "correta": 1,
+      "referência": "Mateus 26:14-16"
+    },
+    {
+      "id": "VJ-010",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Qual foi o local do primeiro sermão público de Jesus conhecido como Sermão da Montanha?",
+      "alternativas": ["Monte Sinai", "Monte das Oliveiras", "Monte Tabor", "Um monte na Galileia"],
+      "correta": 3,
+      "referência": "Mateus 5:1"
+    },
+
+    {
+      "id": "VJ-011",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Quem era a mãe de Jesus?",
+      "alternativas": ["Marta", "Madalena", "Maria", "Elisabete"],
+      "correta": 2,
+      "referência": "Mateus 1:18"
+    },
+    {
+      "id": "VJ-012",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Qual cidade Jesus escolheu como sua base ministerial?",
+      "alternativas": ["Jerusalém", "Cafarnaum", "Nazaré", "Betânia"],
+      "correta": 1,
+      "referência": "Mateus 4:13"
+    },
+    {
+      "id": "VJ-013",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Que milagre Jesus realizou no mar da Galileia?",
+      "alternativas": ["Acalmou a tempestade", "Dividiu o mar", "Parou o sol", "Fez chover maná"],
+      "correta": 0,
+      "referência": "Marcos 4:39"
+    },
+    {
+      "id": "VJ-014",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Quem chamou Jesus de 'Cordeiro de Deus'?",
+      "alternativas": ["Pedro", "Tiago", "João Batista", "Nicodemos"],
+      "correta": 2,
+      "referência": "João 1:29"
+    },
+    {
+      "id": "VJ-015",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Qual discípulo precisou tocar em Jesus ressuscitado para crer?",
+      "alternativas": ["Pedro", "Tomé", "Judas Tadeu", "André"],
+      "correta": 1,
+      "referência": "João 20:27"
+    },
+    {
+      "id": "VJ-016",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Quem pediu o corpo de Jesus após a crucificação?",
+      "alternativas": ["Pilatos", "José de Arimateia", "Nicodemos", "Cirineu"],
+      "correta": 1,
+      "referência": "Mateus 27:57-58"
+    },
+    {
+      "id": "VJ-017",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Quem ajudou Jesus a carregar a cruz?",
+      "alternativas": ["José", "Pedro", "Simão Cirineu", "Bartolomeu"],
+      "correta": 2,
+      "referência": "Lucas 23:26"
+    },
+    {
+      "id": "VJ-018",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Quem foi avisado em sonhos para fugir com Jesus para o Egito?",
+      "alternativas": ["Maria", "José", "Zacarias", "João"],
+      "correta": 1,
+      "referência": "Mateus 2:13"
+    },
+    {
+      "id": "VJ-019",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Qual foi o milagre onde Jesus alimentou uma grande multidão?",
+      "alternativas": ["5 mil pessoas", "500 pessoas", "7 mil pessoas", "2 mil pessoas"],
+      "correta": 0,
+      "referência": "Mateus 14:13-21"
+    },
+    {
+      "id": "VJ-020",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Quem desceu do céu como pomba durante o batismo de Jesus?",
+      "alternativas": ["Arcanjo Gabriel", "O Espírito Santo", "Miguel", "Rafael"],
+      "correta": 1,
+      "referência": "Mateus 3:16"
+    },
+
+    {
+      "id": "VJ-021",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "O que Jesus fez após ser tentado no deserto?",
+      "alternativas": ["Voltou para Nazaré", "Começou seu ministério", "Foi ao Egito", "Subiu ao templo"],
+      "correta": 1,
+      "referência": "Mateus 4:17"
+    },
+    {
+      "id": "VJ-022",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Quem convidou Jesus para uma festa de casamento em Caná?",
+      "alternativas": ["Maria, sua mãe", "Pedro", "Marta", "Um fariseu"],
+      "correta": 0,
+      "referência": "João 2:1-2"
+    },
+    {
+      "id": "VJ-023",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Quem era o cobrador de impostos que subiu em uma árvore para ver Jesus?",
+      "alternativas": ["Levi", "Zaqueu", "Bartimeu", "Simão"],
+      "correta": 1,
+      "referência": "Lucas 19:2-4"
+    },
+    {
+      "id": "VJ-024",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Quem pediu água a uma mulher samaritana?",
+      "alternativas": ["Pedro", "João", "Jesus", "Tiago"],
+      "correta": 2,
+      "referência": "João 4:7"
+    },
+    {
+      "id": "VJ-025",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Jesus ressuscitou quem depois de quatro dias morto?",
+      "alternativas": ["Jairo", "Lázaro", "Eutico", "Tabita"],
+      "correta": 1,
+      "referência": "João 11:43-44"
+    },
+    {
+      "id": "VJ-026",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Onde Jesus foi traído por Judas?",
+      "alternativas": ["Monte Carmelo", "Monte Sião", "Getsêmani", "Betânia"],
+      "correta": 2,
+      "referência": "Mateus 26:47-49"
+    },
+    {
+      "id": "VJ-027",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Quem lavou as mãos declarando-se inocente da morte de Jesus?",
+      "alternativas": ["Herodes", "Caifás", "Pilatos", "Anás"],
+      "correta": 2,
+      "referência": "Mateus 27:24"
+    },
+    {
+      "id": "VJ-028",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Qual milagre Jesus realizou sobre o mar?",
+      "alternativas": ["Caminhou sobre as águas", "Dividiu o mar", "Criou peixes", "Fez chover"],
+      "correta": 0,
+      "referência": "Mateus 14:25"
+    },
+    {
+      "id": "VJ-029",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Quem levou presentes ao menino Jesus?",
+      "alternativas": ["Pastores", "Fariseus", "Magos", "Romanos"],
+      "correta": 2,
+      "referência": "Mateus 2:1-12"
+    },
+    {
+      "id": "VJ-030",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "fácil",
+      "pergunta": "Quem anunciou a ressurreição de Jesus às mulheres no túmulo?",
+      "alternativas": ["Pedro", "Um anjo", "João", "Paulo"],
+      "correta": 1,
+      "referência": "Mateus 28:5-6"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "VJ-031",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Em qual cidade Jesus realizou o milagre da cura do servo do centurião?",
+      "alternativas": ["Nazaré", "Jerusalém", "Cafarnaum", "Tiro"],
+      "correta": 2,
+      "referência": "Mateus 8:5-13"
+    },
+    {
+      "id": "VJ-032",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Qual discípulo Jesus chamou dizendo: 'Segue-me', e ele deixou tudo imediatamente?",
+      "alternativas": ["Mateus", "Pedro", "André", "Tomé"],
+      "correta": 0,
+      "referência": "Mateus 9:9"
+    },
+    {
+      "id": "VJ-033",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Quem foi o mestre da Lei que visitou Jesus durante a noite?",
+      "alternativas": ["Nicodemos", "José de Arimateia", "Caifás", "Gamaliel"],
+      "correta": 0,
+      "referência": "João 3:1-2"
+    },
+    {
+      "id": "VJ-034",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Onde Jesus multiplicou cinco pães e dois peixes?",
+      "alternativas": ["Mar da Galileia", "Betesda", "Monte das Oliveiras", "Cafarnaum"],
+      "correta": 0,
+      "referência": "Marcos 6:30-44"
+    },
+    {
+      "id": "VJ-035",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Quem reconheceu Jesus como o Cristo dizendo: 'Tu és o Cristo, o Filho do Deus vivo'?",
+      "alternativas": ["João", "Tiago", "Pedro", "Natanael"],
+      "correta": 2,
+      "referência": "Mateus 16:16"
+    },
+    {
+      "id": "VJ-036",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Em qual episódio Jesus afirmou: 'Eu sou o pão da vida'?",
+      "alternativas": ["Após curar um cego", "Após alimentar a multidão", "Ao falar com Nicodemos", "No Sermão da Montanha"],
+      "correta": 1,
+      "referência": "João 6:35"
+    },
+    {
+      "id": "VJ-037",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Qual discípulo foi repreendido por Jesus ao cortar a orelha do servo do sumo sacerdote?",
+      "alternativas": ["Pedro", "Tiago", "Simão Zelote", "Tomé"],
+      "correta": 0,
+      "referência": "João 18:10-11"
+    },
+    {
+      "id": "VJ-038",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Quem ungiu os pés de Jesus com perfume caro e enxugou com os cabelos?",
+      "alternativas": ["Maria Madalena", "Maria de Betânia", "Marta", "A mulher samaritana"],
+      "correta": 1,
+      "referência": "João 12:1-3"
+    },
+    {
+      "id": "VJ-039",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Que título Jesus usou frequentemente para se referir a si mesmo?",
+      "alternativas": ["Filho de Abraão", "Filho de Davi", "Filho do Homem", "Filho do Espírito"],
+      "correta": 2,
+      "referência": "Mateus 8:20"
+    },
+    {
+      "id": "VJ-040",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Quem levou Jesus ao topo do templo durante a tentação?",
+      "alternativas": ["Um anjo", "Satanás", "Miguel", "Um escriba"],
+      "correta": 1,
+      "referência": "Mateus 4:5"
+    },
+
+    {
+      "id": "VJ-041",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Em qual cidade Jesus fez seu primeiro sermão dizendo que Isaías se cumprira?",
+      "alternativas": ["Cafarnaum", "Jerusalém", "Nazaré", "Betânia"],
+      "correta": 2,
+      "referência": "Lucas 4:16-21"
+    },
+    {
+      "id": "VJ-042",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Quem pediu a Jesus para curar sua filha de 12 anos?",
+      "alternativas": ["O centurião", "Jairo", "Bartimeu", "Zaqueu"],
+      "correta": 1,
+      "referência": "Marcos 5:22-23"
+    },
+    {
+      "id": "VJ-043",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Quem tocou nas vestes de Jesus acreditando que seria curada?",
+      "alternativas": ["A mulher samaritana", "A mulher siro-fenícia", "A mulher do fluxo de sangue", "Marta"],
+      "correta": 2,
+      "referência": "Marcos 5:25-29"
+    },
+    {
+      "id": "VJ-044",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Qual discípulo disse: 'Senhor, mostra-nos o Pai, e isso nos basta'?",
+      "alternativas": ["Tomé", "Filipe", "André", "Natanael"],
+      "correta": 1,
+      "referência": "João 14:8"
+    },
+    {
+      "id": "VJ-045",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Quem foi a primeira pessoa a ver Jesus ressuscitado?",
+      "alternativas": ["Pedro", "Maria Madalena", "João", "Joana"],
+      "correta": 1,
+      "referência": "João 20:16"
+    },
+    {
+      "id": "VJ-046",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Quem perguntou a Jesus: 'O que é a verdade?'",
+      "alternativas": ["Herodes", "Caifás", "Pilatos", "Nicodemos"],
+      "correta": 2,
+      "referência": "João 18:38"
+    },
+    {
+      "id": "VJ-047",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Quem clamou por misericórdia dizendo: 'Jesus, Filho de Davi, tem compaixão de mim!'?",
+      "alternativas": ["Zaqueu", "Bartimeu", "Mateus", "Simão"],
+      "correta": 1,
+      "referência": "Marcos 10:46-52"
+    },
+    {
+      "id": "VJ-048",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Qual milagre Jesus realizou na casa de Jairo?",
+      "alternativas": ["Curou um leproso", "Acalmou a tempestade", "Ressuscitou sua filha", "Curou a sogra de Pedro"],
+      "correta": 2,
+      "referência": "Marcos 5:41-42"
+    },
+    {
+      "id": "VJ-049",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Qual foi a reação dos discípulos ao ver Jesus andando sobre as águas?",
+      "alternativas": ["Ficaram alegres", "Acharam que era um fantasma", "Pularam da barca", "Dormiram"],
+      "correta": 1,
+      "referência": "Mateus 14:26"
+    },
+    {
+      "id": "VJ-050",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Quem repreendeu Jesus dizendo que Ele não deveria morrer?",
+      "alternativas": ["Judas", "Pedro", "João", "Tiago"],
+      "correta": 1,
+      "referência": "Mateus 16:22"
+    },
+
+    {
+      "id": "VJ-051",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Quem carregou a cruz de Jesus?",
+      "alternativas": ["José", "Simão Cirineu", "Pedro", "João"],
+      "correta": 1,
+      "referência": "Marcos 15:21"
+    },
+    {
+      "id": "VJ-052",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Qual discípulo perguntou a Jesus quantas vezes deveria perdoar?",
+      "alternativas": ["João", "Pedro", "Tomé", "Filipe"],
+      "correta": 1,
+      "referência": "Mateus 18:21"
+    },
+    {
+      "id": "VJ-053",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Qual discípulo disse: 'Senhor, para quem iremos? Tu tens as palavras de vida eterna'?",
+      "alternativas": ["Tiago", "André", "Pedro", "Mateus"],
+      "correta": 2,
+      "referência": "João 6:68"
+    },
+    {
+      "id": "VJ-054",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Quem hospedava Jesus e lhe servia frequentemente em Betânia?",
+      "alternativas": ["Maria e Marta", "Maria e Isabel", "Priscila e Áquila", "Rute e Noemi"],
+      "correta": 0,
+      "referência": "Lucas 10:38-42"
+    },
+    {
+      "id": "VJ-055",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Qual discípulo viu Jesus transfigurado ao lado de Moisés e Elias?",
+      "alternativas": ["Pedro", "Pedro, Tiago e João", "Tomé", "Judas Tadeu"],
+      "correta": 1,
+      "referência": "Mateus 17:1-3"
+    },
+    {
+      "id": "VJ-056",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Quem reconheceu Jesus no caminho de Emaús?",
+      "alternativas": ["Os dois discípulos", "Maria Madalena", "Pedro", "Os fariseus"],
+      "correta": 0,
+      "referência": "Lucas 24:30-31"
+    },
+    {
+      "id": "VJ-057",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Quem proclamou: 'Eis o Cordeiro de Deus!' ao ver Jesus?",
+      "alternativas": ["Pedro", "Tiago", "João Batista", "André"],
+      "correta": 2,
+      "referência": "João 1:29"
+    },
+    {
+      "id": "VJ-058",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "O que Jesus fazia frequentemente antes de grandes decisões?",
+      "alternativas": ["Dormia", "Jejuava", "Orava sozinho", "Viajava"],
+      "correta": 2,
+      "referência": "Lucas 6:12"
+    },
+    {
+      "id": "VJ-059",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Quem perguntou: 'Bom Mestre, que devo fazer para herdar a vida eterna?'",
+      "alternativas": ["O jovem rico", "Nicodemos", "Um fariseu", "Um centurião"],
+      "correta": 0,
+      "referência": "Marcos 10:17"
+    },
+    {
+      "id": "VJ-060",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Quem negou conhecer Jesus por medo dos líderes religiosos?",
+      "alternativas": ["João", "Pedro", "Tiago", "Tomé"],
+      "correta": 1,
+      "referência": "Mateus 26:69-75"
+    },
+
+    {
+      "id": "VJ-061",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Quem pediu para ver um sinal do céu para provar que Jesus era o Messias?",
+      "alternativas": ["Os discípulos", "Os fariseus", "Os saduceus", "Os publicanos"],
+      "correta": 1,
+      "referência": "Mateus 16:1"
+    },
+    {
+      "id": "VJ-062",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Quem subiu em uma figueira para ver Jesus?",
+      "alternativas": ["Mateus", "Zaqueu", "Bartimeu", "Simão"],
+      "correta": 1,
+      "referência": "Lucas 19:1-4"
+    },
+    {
+      "id": "VJ-063",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Quem proclamou: 'Senhor meu e Deus meu!' após ver Jesus ressuscitado?",
+      "alternativas": ["Pedro", "Tomé", "João", "Nathanael"],
+      "correta": 1,
+      "referência": "João 20:28"
+    },
+    {
+      "id": "VJ-064",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Após quantos dias Jesus ressuscitou?",
+      "alternativas": ["1 dia", "2 dias", "3 dias", "7 dias"],
+      "correta": 2,
+      "referência": "Mateus 12:40"
+    },
+    {
+      "id": "VJ-065",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "médio",
+      "pergunta": "Para quem Jesus disse: 'Hoje estarás comigo no paraíso'?",
+      "alternativas": ["Pedro", "O ladrão arrependido", "João", "Bartimeu"],
+      "correta": 1,
+      "referência": "Lucas 23:43"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "VJ-066",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Qual foi a primeira mensagem pública de Jesus segundo os evangelhos?",
+      "alternativas": [
+        "Bem-aventurados os pobres",
+        "O Reino de Deus está próximo",
+        "Vinde a mim os cansados",
+        "Eu sou o pão da vida"
+      ],
+      "correta": 1,
+      "referência": "Marcos 1:15"
+    },
+    {
+      "id": "VJ-067",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Quem alertou Jesus sobre a intenção de Herodes de matá-lo?",
+      "alternativas": ["Maria", "Os fariseus", "Os discípulos", "João Batista"],
+      "correta": 1,
+      "referência": "Lucas 13:31"
+    },
+    {
+      "id": "VJ-068",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Qual foi o milagre em que Jesus libertou um homem possesso que vivia entre sepulcros?",
+      "alternativas": ["O endemoninhado de Cafarnaum", "O endemoninhado gadareno", "O filho lunático", "O espírito mudo"],
+      "correta": 1,
+      "referência": "Marcos 5:1-20"
+    },
+    {
+      "id": "VJ-069",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Quem declarou: 'Nunca um homem falou assim como este'?",
+      "alternativas": ["Os discípulos", "A multidão", "Os guardas enviados pelos fariseus", "Os saduceus"],
+      "correta": 2,
+      "referência": "João 7:46"
+    },
+    {
+      "id": "VJ-070",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Em que cidade Jesus chorou ao ver sua incredulidade?",
+      "alternativas": ["Nazaré", "Jerusalém", "Cafarnaum", "Tiro"],
+      "correta": 1,
+      "referência": "Lucas 19:41-44"
+    },
+    {
+      "id": "VJ-071",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Quem carregava a bolsa de dinheiro do grupo de Jesus?",
+      "alternativas": ["Pedro", "Mateus", "Judas Iscariotes", "Filipe"],
+      "correta": 2,
+      "referência": "João 12:6"
+    },
+    {
+      "id": "VJ-072",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Quem pediu para Jesus permitir que ele primeiro enterrasse seu pai?",
+      "alternativas": ["João", "Um escriba", "Um discípulo anônimo", "Tomé"],
+      "correta": 2,
+      "referência": "Mateus 8:21"
+    },
+    {
+      "id": "VJ-073",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Qual milagre Jesus realizou ao encontrar o funeral do filho da viúva?",
+      "alternativas": ["Curou-o da febre", "O ressuscitou", "Expulsou demônios", "Curou um coxo"],
+      "correta": 1,
+      "referência": "Lucas 7:11-17"
+    },
+    {
+      "id": "VJ-074",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Quem perguntou a Jesus: 'Senhor, são poucos os que se salvam?'",
+      "alternativas": ["Pedro", "João", "Um anônimo da multidão", "Filipe"],
+      "correta": 2,
+      "referência": "Lucas 13:23"
+    },
+    {
+      "id": "VJ-075",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Quem chamou Jesus de 'homem glutão e bebedor de vinho'?",
+      "alternativas": ["Os romanos", "Os discípulos de João", "Os fariseus", "Herodes"],
+      "correta": 2,
+      "referência": "Mateus 11:19"
+    },
+
+    {
+      "id": "VJ-076",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Que discípulo perguntou a Jesus: 'Senhor, por que te manifestarás a nós e não ao mundo?'",
+      "alternativas": ["Tadeu (Judas, não o Iscariotes)", "Pedro", "Tiago", "Bartolomeu"],
+      "correta": 0,
+      "referência": "João 14:22"
+    },
+    {
+      "id": "VJ-077",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "O que Jesus escreveu no chão quando confrontado com a mulher adúltera?",
+      "alternativas": ["Os pecados dos acusadores", "Nada é especificado", "A Lei de Moisés", "A sentença dela"],
+      "correta": 1,
+      "referência": "João 8:6"
+    },
+    {
+      "id": "VJ-078",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Quem lavou os pés de Jesus durante uma refeição e os ungiu com lágrimas?",
+      "alternativas": ["Maria de Betânia", "A mulher pecadora da cidade", "Maria Madalena", "Marta"],
+      "correta": 1,
+      "referência": "Lucas 7:37-38"
+    },
+    {
+      "id": "VJ-079",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Qual cidade recusou receber Jesus porque Ele estava indo para Jerusalém?",
+      "alternativas": ["Tiro", "Samaritânia", "Nazaré", "Jericó"],
+      "correta": 1,
+      "referência": "Lucas 9:52-53"
+    },
+    {
+      "id": "VJ-080",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Quem acusou Jesus de expulsar demônios pelo poder de Belzebu?",
+      "alternativas": ["Os discípulos", "Os saduceus", "Os fariseus", "Herodes"],
+      "correta": 2,
+      "referência": "Mateus 12:24"
+    },
+    {
+      "id": "VJ-081",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Qual discípulo perguntou onde deveriam preparar a Páscoa?",
+      "alternativas": ["Pedro e João", "Tiago e André", "Tomé", "Judas Tadeu"],
+      "correta": 0,
+      "referência": "Lucas 22:8"
+    },
+    {
+      "id": "VJ-082",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Quem carregou água para casa, e os discípulos deveriam segui-lo para preparar a Páscoa?",
+      "alternativas": ["Um sacerdote", "Um jovem", "Um homem anônimo", "Um escravo"],
+      "correta": 2,
+      "referência": "Marcos 14:13"
+    },
+    {
+      "id": "VJ-083",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Qual era o nome do sumo sacerdote que profetizou que Jesus morreria pela nação?",
+      "alternativas": ["Anás", "Caifás", "Nicodemos", "Gamaliel"],
+      "correta": 1,
+      "referência": "João 11:49-51"
+    },
+    {
+      "id": "VJ-084",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Quem perguntou a Jesus: 'Quem é o meu próximo?'",
+      "alternativas": ["Pedro", "Um intérprete da lei", "Um fariseu", "Um samaritano"],
+      "correta": 1,
+      "referência": "Lucas 10:29"
+    },
+    {
+      "id": "VJ-085",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Qual foi a primeira reação dos discípulos ao ver Jesus transfigurado?",
+      "alternativas": ["Dormiram", "Ficaram aterrorizados", "Louvaram a Deus", "Acharam que era um fantasma"],
+      "correta": 1,
+      "referência": "Marcos 9:6"
+    },
+
+    {
+      "id": "VJ-086",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Quem declarou que era indigno de desatar as sandálias de Jesus?",
+      "alternativas": ["Pedro", "João Batista", "André", "Nicodemos"],
+      "correta": 1,
+      "referência": "João 1:27"
+    },
+    {
+      "id": "VJ-087",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Qual discípulo perguntou: 'Senhor, aumenta-nos a fé'?",
+      "alternativas": ["Pedro", "Os apóstolos", "Filipe", "Tomé"],
+      "correta": 1,
+      "referência": "Lucas 17:5"
+    },
+    {
+      "id": "VJ-088",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Quem tentou Jesus citando o Salmo 91?",
+      "alternativas": ["Herodes", "Os fariseus", "Satanás", "Os escribas"],
+      "correta": 2,
+      "referência": "Mateus 4:5-7"
+    },
+    {
+      "id": "VJ-089",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Quem declarou: 'Ninguém jamais falou assim como este homem'?",
+      "alternativas": ["Fariseus", "Saduceus", "Guardas do templo", "Os discípulos"],
+      "correta": 2,
+      "referência": "João 7:46"
+    },
+    {
+      "id": "VJ-090",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Que mestre da lei testou Jesus perguntando sobre o maior mandamento?",
+      "alternativas": ["Um escriba", "Um fariseu", "Nicodemos", "Um jovem rico"],
+      "correta": 0,
+      "referência": "Marcos 12:28"
+    },
+    {
+      "id": "VJ-091",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Qual discípulo perguntou: 'Como saberemos o caminho?'",
+      "alternativas": ["Filipe", "Pedro", "Tomé", "João"],
+      "correta": 2,
+      "referência": "João 14:5"
+    },
+    {
+      "id": "VJ-092",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "De que cidade era Maria Madalena?",
+      "alternativas": ["Magdala", "Betânia", "Nazaré", "Jericó"],
+      "correta": 0,
+      "referência": "Lucas 8:2"
+    },
+    {
+      "id": "VJ-093",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Quem avisou José para levar Jesus ao Egito?",
+      "alternativas": ["Um sonho próprio", "Um profeta", "Um anjo do Senhor", "Maria"],
+      "correta": 2,
+      "referência": "Mateus 2:13"
+    },
+    {
+      "id": "VJ-094",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Qual profeta Jesus citou quando limpou o templo?",
+      "alternativas": ["Isaías", "Jeremias", "Ezequiel", "Amós"],
+      "correta": 3,
+      "referência": "Marcos 11:17; Amós 5:21-24"
+    },
+    {
+      "id": "VJ-095",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Qual discípulo entregou Jesus com um beijo?",
+      "alternativas": ["Pedro", "Judas Iscariotes", "Bartolomeu", "Tomé"],
+      "correta": 1,
+      "referência": "Lucas 22:47-48"
+    },
+
+    {
+      "id": "VJ-096",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Em qual ocasião Jesus perguntou três vezes a Pedro se ele o amava?",
+      "alternativas": ["Antes da crucificação", "Após a ressurreição", "No Sermão do Monte", "Na pesca maravilhosa"],
+      "correta": 1,
+      "referência": "João 21:15-17"
+    },
+    {
+      "id": "VJ-097",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Quem foi o governador que julgou Jesus antes de enviá-lo a Pilatos?",
+      "alternativas": ["Herodes Antipas", "Herodes Agripa", "Caifás", "Nero"],
+      "correta": 0,
+      "referência": "Lucas 23:7-11"
+    },
+    {
+      "id": "VJ-098",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Quem ofereceu uma tumba nova para o corpo de Jesus?",
+      "alternativas": ["Nicodemos", "José de Arimateia", "Simão", "Eleazar"],
+      "correta": 1,
+      "referência": "Mateus 27:57-60"
+    },
+    {
+      "id": "VJ-099",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Quem perguntou a Jesus se Ele era o Rei dos Judeus?",
+      "alternativas": ["Herodes", "Os fariseus", "Pilatos", "Nicodemos"],
+      "correta": 2,
+      "referência": "Mateus 27:11"
+    },
+    {
+      "id": "VJ-100",
+      "categoria": "vida_e_ministerio_de_jesus",
+      "nível": "difícil",
+      "pergunta": "Quem viu Jesus subir ao céu na ascensão?",
+      "alternativas": ["Só Pedro", "Pedro e João", "Os onze discípulos", "Uma multidão"],
+      "correta": 2,
+      "referência": "Atos 1:9-11"
+    }
+  ]
+}
