@@ -1,0 +1,1104 @@
+{
+  "perguntas": [
+    {
+      "id": "EG-001",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem batizou Jesus no rio Jordão?",
+      "alternativas": ["Pedro", "João Batista", "Tiago", "André"],
+      "correta": 1,
+      "referência": "Mateus 3:13-17"
+    },
+    {
+      "id": "EG-002",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Onde Jesus nasceu?",
+      "alternativas": ["Nazaré", "Jerusalém", "Belém", "Cafarnaum"],
+      "correta": 2,
+      "referência": "Lucas 2:4-7"
+    },
+    {
+      "id": "EG-003",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Qual foi o primeiro milagre registrado de Jesus?",
+      "alternativas": ["Curar o leproso", "Transformar água em vinho", "Curar o paralítico", "Multiplicar os pães"],
+      "correta": 1,
+      "referência": "João 2:1-11"
+    },
+    {
+      "id": "EG-004",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem negou Jesus três vezes?",
+      "alternativas": ["Pedro", "João", "Judas", "Tomé"],
+      "correta": 0,
+      "referência": "Lucas 22:54-62"
+    },
+    {
+      "id": "EG-005",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem traiu Jesus por trinta moedas de prata?",
+      "alternativas": ["Pedro", "André", "Judas Iscariotes", "Tomé"],
+      "correta": 2,
+      "referência": "Mateus 26:14-16"
+    },
+    {
+      "id": "EG-006",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Qual discípulo andou sobre as águas junto com Jesus?",
+      "alternativas": ["Pedro", "João", "Felipe", "Tiago"],
+      "correta": 0,
+      "referência": "Mateus 14:28-31"
+    },
+    {
+      "id": "EG-007",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem era o governador romano que julgou Jesus?",
+      "alternativas": ["Herodes", "Pilatos", "César", "Festo"],
+      "correta": 1,
+      "referência": "Mateus 27:11-26"
+    },
+    {
+      "id": "EG-008",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quantos discípulos Jesus escolheu?",
+      "alternativas": ["10", "11", "12", "14"],
+      "correta": 2,
+      "referência": "Marcos 3:14"
+    },
+    {
+      "id": "EG-009",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem subiu na árvore para ver Jesus passar?",
+      "alternativas": ["Jairo", "Zaqueu", "Bartimeu", "Nicodemos"],
+      "correta": 1,
+      "referência": "Lucas 19:1-10"
+    },
+    {
+      "id": "EG-010",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Qual mulher ungiu os pés de Jesus com perfume e lágrimas?",
+      "alternativas": ["Marta", "Maria Madalena", "Maria de Betânia", "A mulher siro-fenícia"],
+      "correta": 2,
+      "referência": "João 12:3"
+    },
+
+    {
+      "id": "EG-011",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Qual evangelho começa com a expressão 'No princípio era o Verbo'?",
+      "alternativas": ["Mateus", "Marcos", "Lucas", "João"],
+      "correta": 3,
+      "referência": "João 1:1"
+    },
+    {
+      "id": "EG-012",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem era o pai de João Batista?",
+      "alternativas": ["Zacarias", "Simeão", "Natanael", "Arão"],
+      "correta": 0,
+      "referência": "Lucas 1:5-25"
+    },
+    {
+      "id": "EG-013",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem disse: 'Senhor, não sou digno que entres em minha casa'?",
+      "alternativas": ["O centurião", "Zaqueu", "Nicodemos", "Felipe"],
+      "correta": 0,
+      "referência": "Mateus 8:8"
+    },
+    {
+      "id": "EG-014",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Qual discípulo perguntou a Jesus: 'Mostra-nos o Pai, e isto nos basta'?",
+      "alternativas": ["Pedro", "Filipe", "Tomé", "André"],
+      "correta": 1,
+      "referência": "João 14:8"
+    },
+    {
+      "id": "EG-015",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem foi chamado de 'filhos do trovão'?",
+      "alternativas": ["Pedro e André", "Tiago e João", "Tomé e Mateus", "Filipe e Bartolomeu"],
+      "correta": 1,
+      "referência": "Marcos 3:17"
+    },
+    {
+      "id": "EG-016",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Qual discípulo disse: 'Se eu não vir o sinal dos pregos em suas mãos, não crerei'?",
+      "alternativas": ["Pedro", "Tiago", "Tomé", "André"],
+      "correta": 2,
+      "referência": "João 20:24-29"
+    },
+    {
+      "id": "EG-017",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Qual milagre Jesus realizou na casa de Jairo?",
+      "alternativas": ["Curou sua esposa", "Curou seu servo", "Curou seu filho", "Ressuscitou sua filha"],
+      "correta": 3,
+      "referência": "Marcos 5:35-43"
+    },
+    {
+      "id": "EG-018",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem ajudou Jesus a carregar a cruz?",
+      "alternativas": ["José de Arimateia", "Simão Cireneu", "Nicodemos", "Bartimeu"],
+      "correta": 1,
+      "referência": "Mateus 27:32"
+    },
+    {
+      "id": "EG-019",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem declarou: 'Tu és o Cristo, o Filho do Deus vivo'?",
+      "alternativas": ["Pedro", "João", "Tomé", "Natanael"],
+      "correta": 0,
+      "referência": "Mateus 16:16"
+    },
+    {
+      "id": "EG-020",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem perguntou a Jesus: 'O que é a verdade?'",
+      "alternativas": ["Herodes", "Pilatos", "Cafarnaum", "Nicodemos"],
+      "correta": 1,
+      "referência": "João 18:38"
+    },
+
+    {
+      "id": "EG-021",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Qual evangelho registra a cura do servo do sumo sacerdote chamado Malco?",
+      "alternativas": ["Mateus", "Marcos", "Lucas", "João"],
+      "correta": 3,
+      "referência": "João 18:10"
+    },
+    {
+      "id": "EG-022",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Quem foi o discípulo que correu junto com Pedro ao sepulcro e chegou primeiro?",
+      "alternativas": ["Tiago", "João", "André", "Bartolomeu"],
+      "correta": 1,
+      "referência": "João 20:4"
+    },
+    {
+      "id": "EG-023",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Qual evangelho menciona o episódio da ressurreição do filho da viúva de Naim?",
+      "alternativas": ["Mateus", "Marcos", "Lucas", "João"],
+      "correta": 2,
+      "referência": "Lucas 7:11-17"
+    },
+    {
+      "id": "EG-024",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Qual evangelista era médico?",
+      "alternativas": ["Mateus", "Lucas", "João", "Marcos"],
+      "correta": 1,
+      "referência": "Colossenses 4:14"
+    },
+    {
+      "id": "EG-025",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Qual evangelho destaca mais parábolas do que milagres?",
+      "alternativas": ["Marcos", "Mateus", "Lucas", "João"],
+      "correta": 2,
+      "referência": "Lucas (estrutura geral)"
+    },
+    {
+      "id": "EG-026",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Qual evangelho foi escrito para os gregos, enfatizando Jesus como o Filho do Homem?",
+      "alternativas": ["Lucas", "Marcos", "João", "Mateus"],
+      "correta": 0,
+      "referência": "Lucas (contexto histórico)"
+    },
+    {
+      "id": "EG-027",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Qual evangelho enfatiza os sinais e usa a palavra 'crer' mais de 90 vezes?",
+      "alternativas": ["Mateus", "João", "Lucas", "Marcos"],
+      "correta": 1,
+      "referência": "João (tema central)"
+    },
+    {
+      "id": "EG-028",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "A quem Jesus disse: 'Em verdade te digo que hoje estarás comigo no paraíso'?",
+      "alternativas": ["O centurião", "O cego Bartimeu", "O ladrão ao lado", "Simão Cireneu"],
+      "correta": 2,
+      "referência": "Lucas 23:43"
+    },
+    {
+      "id": "EG-029",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Qual evangelho menciona que 'um anjo descia e agitava as águas' no tanque de Betesda?",
+      "alternativas": ["Mateus", "Marcos", "Lucas", "João"],
+      "correta": 3,
+      "referência": "João 5:1-4"
+    },
+    {
+      "id": "EG-030",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Qual evangelho registra a ressurreição de Lázaro com mais detalhes?",
+      "alternativas": ["Mateus", "Lucas", "Marcos", "João"],
+      "correta": 3,
+      "referência": "João 11"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "EG-031",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem anunciou a Maria que ela daria à luz o Salvador?",
+      "alternativas": ["Gabriel", "Miguel", "Uriel", "Rafael"],
+      "correta": 0,
+      "referência": "Lucas 1:26-33"
+    },
+    {
+      "id": "EG-032",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "O que Jesus multiplicou para alimentar cinco mil homens?",
+      "alternativas": ["Pães e peixes", "Pães e azeitonas", "Peixes e frutas", "Pães e vinho"],
+      "correta": 0,
+      "referência": "João 6:1-14"
+    },
+    {
+      "id": "EG-033",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem pediu a cabeça de João Batista?",
+      "alternativas": ["Salomé", "Herodias", "A esposa de Pilatos", "Marta"],
+      "correta": 0,
+      "referência": "Marcos 6:22-28"
+    },
+    {
+      "id": "EG-034",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem convidou Jesus para jantar quando uma pecadora ungiu seus pés?",
+      "alternativas": ["Zaqueu", "Simão, o fariseu", "Nicodemos", "Jairo"],
+      "correta": 1,
+      "referência": "Lucas 7:36-50"
+    },
+    {
+      "id": "EG-035",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem subiu ao monte com Jesus na transfiguração?",
+      "alternativas": ["Pedro, Tiago e João", "Pedro, André e João", "Pedro, Tomé e Tiago", "Tiago, João e Filipe"],
+      "correta": 0,
+      "referência": "Mateus 17:1-9"
+    },
+    {
+      "id": "EG-036",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem disse: 'Eu sou o pão da vida'?",
+      "alternativas": ["João Batista", "Jesus", "Pedro", "Paulo"],
+      "correta": 1,
+      "referência": "João 6:35"
+    },
+    {
+      "id": "EG-037",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "A quem Jesus disse: 'Nasce de novo'?",
+      "alternativas": ["Zaqueu", "Nicodemos", "Bartimeu", "Simão Cireneu"],
+      "correta": 1,
+      "referência": "João 3:1-7"
+    },
+    {
+      "id": "EG-038",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Qual discípulo era cobrador de impostos?",
+      "alternativas": ["Pedro", "Mateus", "Bartolomeu", "Tiago"],
+      "correta": 1,
+      "referência": "Mateus 9:9"
+    },
+    {
+      "id": "EG-039",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem foi liberto de sete demônios?",
+      "alternativas": ["Maria Madalena", "A mulher samaritana", "Marta", "Ana"],
+      "correta": 0,
+      "referência": "Lucas 8:2"
+    },
+    {
+      "id": "EG-040",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem disse: 'Senhor, salva-me!' ao começar a afundar?",
+      "alternativas": ["Pedro", "João", "Tomé", "Felipe"],
+      "correta": 0,
+      "referência": "Mateus 14:30"
+    },
+
+    {
+      "id": "EG-041",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem carregava a bolsa de dinheiro entre os discípulos?",
+      "alternativas": ["João", "Judas Iscariotes", "Mateus", "Tomé"],
+      "correta": 1,
+      "referência": "João 12:6"
+    },
+    {
+      "id": "EG-042",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Qual evangelista escreveu seu evangelho baseado nos relatos de Pedro?",
+      "alternativas": ["Mateus", "Lucas", "Marcos", "João"],
+      "correta": 2,
+      "referência": "Tradição cristã"
+    },
+    {
+      "id": "EG-043",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Qual milagre Jesus realizou antes de dizer: 'Eu sou a luz do mundo'?",
+      "alternativas": ["Ressurreição de Lázaro", "Cura do cego de nascença", "Cura do paralítico", "Multiplicação dos pães"],
+      "correta": 1,
+      "referência": "João 9"
+    },
+    {
+      "id": "EG-044",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem perguntou a Jesus: 'Quem é o meu próximo?'",
+      "alternativas": ["Um fariseu", "Um doutor da lei", "Um escriba", "Um jovem rico"],
+      "correta": 1,
+      "referência": "Lucas 10:29"
+    },
+    {
+      "id": "EG-045",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem era o sumo sacerdote no julgamento de Jesus?",
+      "alternativas": ["Anás", "Cafarnaum", "Caifás", "Herodes"],
+      "correta": 2,
+      "referência": "Mateus 26:57"
+    },
+    {
+      "id": "EG-046",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Qual discípulo perguntou: 'Senhor, para onde vais?'",
+      "alternativas": ["Tomé", "Pedro", "João", "Tiago"],
+      "correta": 1,
+      "referência": "João 13:36"
+    },
+    {
+      "id": "EG-047",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem perguntou a Jesus: 'Pode sair alguma coisa boa de Nazaré?'",
+      "alternativas": ["André", "Bartolomeu", "Filipe", "Natanael"],
+      "correta": 3,
+      "referência": "João 1:46"
+    },
+    {
+      "id": "EG-048",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Qual discípulo foi considerado 'um verdadeiro israelita, em quem não há dolo'?",
+      "alternativas": ["Filipe", "Bartolomeu", "Natanael", "André"],
+      "correta": 2,
+      "referência": "João 1:47"
+    },
+    {
+      "id": "EG-049",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem perguntou: 'Senhor, a quem iremos? Tu tens as palavras da vida eterna.'",
+      "alternativas": ["Pedro", "Tiago", "João", "André"],
+      "correta": 0,
+      "referência": "João 6:68"
+    },
+    {
+      "id": "EG-050",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Qual evento Jesus celebrou com seus discípulos antes de ser preso?",
+      "alternativas": ["Festa das Trombetas", "Páscoa", "Dedicação", "Pentecostes"],
+      "correta": 1,
+      "referência": "Lucas 22:15"
+    },
+
+    {
+      "id": "EG-051",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Qual evangelho registra que o véu do templo se rasgou de alto a baixo?",
+      "alternativas": ["Mateus", "Marcos", "Lucas", "João"],
+      "correta": 0,
+      "referência": "Mateus 27:51"
+    },
+    {
+      "id": "EG-052",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Qual mulher financiava o ministério de Jesus e dos discípulos?",
+      "alternativas": ["Marta", "Joana", "Maria Madalena", "Susana"],
+      "correta": 3,
+      "referência": "Lucas 8:3"
+    },
+    {
+      "id": "EG-053",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Qual evangelho descreve que o túmulo de Jesus estava em um jardim?",
+      "alternativas": ["Mateus", "Marcos", "Lucas", "João"],
+      "correta": 3,
+      "referência": "João 19:41"
+    },
+    {
+      "id": "EG-054",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Quem era o procurador romano que supervisionou a crucificação?",
+      "alternativas": ["Pilatos", "Félix", "Festo", "Herodes"],
+      "correta": 0,
+      "referência": "Mateus 27:11-26"
+    },
+    {
+      "id": "EG-055",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Qual evangelho cita que o sudário estava dobrado à parte no túmulo vazio?",
+      "alternativas": ["Mateus", "Marcos", "Lucas", "João"],
+      "correta": 3,
+      "referência": "João 20:7"
+    },
+    {
+      "id": "EG-056",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Quem foi testemunha da ressurreição de Jesus ainda na madrugada?",
+      "alternativas": ["Marta", "Salomé", "Maria Madalena", "A mulher samaritana"],
+      "correta": 2,
+      "referência": "João 20:1"
+    },
+    {
+      "id": "EG-057",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Qual evangelho fala do anjo que movia as águas do tanque de Betesda?",
+      "alternativas": ["Mateus", "Marcos", "Lucas", "João"],
+      "correta": 3,
+      "referência": "João 5:1-4"
+    },
+    {
+      "id": "EG-058",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Qual discípulo perguntou a Jesus: 'Quantas vezes devo perdoar meu irmão? Até sete?'",
+      "alternativas": ["Pedro", "João", "Filipe", "Bartolomeu"],
+      "correta": 0,
+      "referência": "Mateus 18:21"
+    },
+    {
+      "id": "EG-059",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Quem comprou o campo do oleiro com o dinheiro da traição?",
+      "alternativas": ["Os discípulos", "Herodes", "Os sacerdotes", "Pilatos"],
+      "correta": 2,
+      "referência": "Mateus 27:6-7"
+    },
+    {
+      "id": "EG-060",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Qual evangelho registra a frase: 'Pai, nas tuas mãos entrego o meu espírito'?",
+      "alternativas": ["Mateus", "Marcos", "Lucas", "João"],
+      "correta": 2,
+      "referência": "Lucas 23:46"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "EG-061",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem tocou nas vestes de Jesus e foi curada imediatamente?",
+      "alternativas": ["A mulher samaritana", "A mulher hemorrágica", "Maria de Betânia", "A sogra de Pedro"],
+      "correta": 1,
+      "referência": "Marcos 5:25-34"
+    },
+    {
+      "id": "EG-062",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem subiu ao monte com Jesus para orar antes de sua prisão?",
+      "alternativas": ["Pedro, Tiago e João", "Pedro, André e João", "Tomé, Filipe e Tiago", "João, Bartolomeu e Judas"],
+      "correta": 0,
+      "referência": "Mateus 26:36-37"
+    },
+    {
+      "id": "EG-063",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Onde Jesus foi tentado pelo diabo?",
+      "alternativas": ["No templo", "No deserto", "No monte das Oliveiras", "No Jordão"],
+      "correta": 1,
+      "referência": "Mateus 4:1"
+    },
+    {
+      "id": "EG-064",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem disse: 'Meu Senhor e meu Deus!' ao ver Jesus ressuscitado?",
+      "alternativas": ["Pedro", "João", "Tomé", "Filipe"],
+      "correta": 2,
+      "referência": "João 20:28"
+    },
+    {
+      "id": "EG-065",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "O que Jesus fez ao ver os vendedores no templo?",
+      "alternativas": ["Pregou para eles", "Curou os enfermos", "Os expulsou e derrubou as mesas", "Ignorou a situação"],
+      "correta": 2,
+      "referência": "Mateus 21:12"
+    },
+    {
+      "id": "EG-066",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem disse a Jesus: 'Tu és o Cristo, o Filho de Deus vivo'?",
+      "alternativas": ["João", "Tiago", "Pedro", "André"],
+      "correta": 2,
+      "referência": "Mateus 16:16"
+    },
+    {
+      "id": "EG-067",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem lavou as mãos diante da multidão dizendo que era inocente do sangue de Jesus?",
+      "alternativas": ["Herodes", "Pilatos", "Caifás", "Anás"],
+      "correta": 1,
+      "referência": "Mateus 27:24"
+    },
+    {
+      "id": "EG-068",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem era o chefe dos cobradores de impostos que recebeu Jesus em sua casa?",
+      "alternativas": ["Bartimeu", "Zaqueu", "Nicodemos", "Cornélio"],
+      "correta": 1,
+      "referência": "Lucas 19:1-10"
+    },
+    {
+      "id": "EG-069",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem servia Jesus e os discípulos, sendo irmã de Lázaro?",
+      "alternativas": ["Marta", "Maria Madalena", "Salomé", "Suzana"],
+      "correta": 0,
+      "referência": "Lucas 10:38-42"
+    },
+    {
+      "id": "EG-070",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "O que Jesus ensinou quando levantou a mulher caída diante dos acusadores?",
+      "alternativas": ["Que todos pecaram", "Que ninguém deve julgar", "Que os pecados dela eram piores", "Que ela deveria voltar ao pecado"],
+      "correta": 0,
+      "referência": "João 8:7"
+    },
+
+    {
+      "id": "EG-071",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Qual discípulo levou Natanael até Jesus?",
+      "alternativas": ["André", "Filipe", "Bartolomeu", "Tomé"],
+      "correta": 1,
+      "referência": "João 1:45"
+    },
+    {
+      "id": "EG-072",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem foi chamado para ser discípulo enquanto coletava impostos?",
+      "alternativas": ["Pedro", "João", "Mateus", "Tomé"],
+      "correta": 2,
+      "referência": "Mateus 9:9"
+    },
+    {
+      "id": "EG-073",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Qual milagre Jesus realizou imediatamente antes de dizer: 'Eu sou a ressurreição e a vida'?",
+      "alternativas": ["A cura do homem da mão mirrada", "A cura do cego de nascença", "A ressurreição de Lázaro", "A cura de um leproso"],
+      "correta": 2,
+      "referência": "João 11:25"
+    },
+    {
+      "id": "EG-074",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem afirmou: 'Nunca homem algum falou assim como este homem'?",
+      "alternativas": ["Os guardas do templo", "Os fariseus", "Herodes", "Pilatos"],
+      "correta": 0,
+      "referência": "João 7:46"
+    },
+    {
+      "id": "EG-075",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem entregou Jesus com um beijo?",
+      "alternativas": ["Pedro", "Judas Iscariotes", "André", "Tomé"],
+      "correta": 1,
+      "referência": "Marcos 14:44-45"
+    },
+    {
+      "id": "EG-076",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem perguntou a Jesus: 'O que é a verdade?'",
+      "alternativas": ["Herodes", "Pilatos", "César", "Nicodemos"],
+      "correta": 1,
+      "referência": "João 18:38"
+    },
+    {
+      "id": "EG-077",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Qual milagre Jesus realizou depois de cuspir no chão e fazer lodo?",
+      "alternativas": ["Curou um paralítico", "Curou um cego de nascença", "Ressuscitou Lázaro", "Curou um surdo"],
+      "correta": 1,
+      "referência": "João 9:6-7"
+    },
+    {
+      "id": "EG-078",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem perguntou a Jesus: 'Mas quem dizes tu que eu sou?'",
+      "alternativas": ["João", "Pedro", "Tomé", "Filipe"],
+      "correta": 0,
+      "referência": "Mateus 16:15"
+    },
+    {
+      "id": "EG-079",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Qual evangelho contém a genealogia que vai até Adão?",
+      "alternativas": ["Mateus", "Marcos", "Lucas", "João"],
+      "correta": 2,
+      "referência": "Lucas 3:23-38"
+    },
+    {
+      "id": "EG-080",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem pediu o corpo de Jesus a Pilatos?",
+      "alternativas": ["Nicodemos", "José de Arimateia", "Simão Cireneu", "Bartolomeu"],
+      "correta": 1,
+      "referência": "João 19:38"
+    },
+
+    {
+      "id": "EG-081",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Em qual evangelho lemos: 'E o Verbo se fez carne e habitou entre nós'?",
+      "alternativas": ["Mateus", "Marcos", "Lucas", "João"],
+      "correta": 3,
+      "referência": "João 1:14"
+    },
+    {
+      "id": "EG-082",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Qual discípulo foi elogiado por Jesus dizendo: 'Bem-aventurado és tu, Simão Barjonas'?",
+      "alternativas": ["João", "Tomé", "Pedro", "Filipe"],
+      "correta": 2,
+      "referência": "Mateus 16:17"
+    },
+    {
+      "id": "EG-083",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Quem declarou: 'Senhor, para quem iremos? Tu tens as palavras da vida eterna'?",
+      "alternativas": ["Tiago", "João", "Pedro", "André"],
+      "correta": 2,
+      "referência": "João 6:68"
+    },
+    {
+      "id": "EG-084",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Em qual evangelho encontramos o relato da cura da filha da mulher siro-fenícia?",
+      "alternativas": ["Mateus", "Marcos", "Lucas", "João"],
+      "correta": 1,
+      "referência": "Marcos 7:24-30"
+    },
+    {
+      "id": "EG-085",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Qual evangelho menciona que Jesus escreveu algo no chão durante o julgamento da mulher adúltera?",
+      "alternativas": ["Mateus", "Marcos", "Lucas", "João"],
+      "correta": 3,
+      "referência": "João 8:6"
+    },
+    {
+      "id": "EG-086",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Quem afirmou: 'Tu és o Rei de Israel' ao encontrar Jesus?",
+      "alternativas": ["Natanael", "Filipe", "Bartolomeu", "Tomé"],
+      "correta": 0,
+      "referência": "João 1:49"
+    },
+    {
+      "id": "EG-087",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Qual evangelho afirma que Jesus chorou?",
+      "alternativas": ["Mateus", "Marcos", "Lucas", "João"],
+      "correta": 3,
+      "referência": "João 11:35"
+    },
+    {
+      "id": "EG-088",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Quem declarou que Jesus era inocente, lavando as mãos diante da multidão?",
+      "alternativas": ["Herodes", "Pilatos", "Caifás", "Nicodemos"],
+      "correta": 1,
+      "referência": "Mateus 27:24"
+    },
+    {
+      "id": "EG-089",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Quem foi chamado por Jesus de 'raposa'?",
+      "alternativas": ["Pilatos", "Herodes", "Caifás", "Judas"],
+      "correta": 1,
+      "referência": "Lucas 13:32"
+    },
+    {
+      "id": "EG-090",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Quem perguntou a Jesus: 'Como pode um homem nascer sendo velho?'",
+      "alternativas": ["Pedro", "Nicodemos", "Tomé", "Bartolomeu"],
+      "correta": 1,
+      "referência": "João 3:4"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "EG-091",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Qual discípulo disse a Jesus: 'Mostra-nos o Pai'?",
+      "alternativas": ["Pedro", "Filipe", "Tomé", "André"],
+      "correta": 1,
+      "referência": "João 14:8"
+    },
+    {
+      "id": "EG-092",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Qual discípulo era chamado 'Dídimo'?",
+      "alternativas": ["Tiago", "Tomé", "Filipe", "Bartolomeu"],
+      "correta": 1,
+      "referência": "João 20:24"
+    },
+    {
+      "id": "EG-093",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Qual discípulo era irmão de André?",
+      "alternativas": ["Tiago", "João", "Pedro", "Bartolomeu"],
+      "correta": 2,
+      "referência": "João 1:40"
+    },
+    {
+      "id": "EG-094",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem levou presentes para Jesus quando Ele era bebê?",
+      "alternativas": ["Pastores", "Magos", "Fariseus", "Sacerdotes"],
+      "correta": 1,
+      "referência": "Mateus 2:1-12"
+    },
+    {
+      "id": "EG-095",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "O que os anjos anunciaram aos pastores no campo?",
+      "alternativas": ["A cura de um cego", "A ressurreição de Lázaro", "O nascimento de Jesus", "A morte de João Batista"],
+      "correta": 2,
+      "referência": "Lucas 2:8-14"
+    },
+    {
+      "id": "EG-096",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem disse: 'Eu vim para que tenham vida, e a tenham em abundância'?",
+      "alternativas": ["João Batista", "Jesus", "Pedro", "Paulo"],
+      "correta": 1,
+      "referência": "João 10:10"
+    },
+    {
+      "id": "EG-097",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem ficou mudo até o nascimento de João Batista?",
+      "alternativas": ["Zacarias", "Simeão", "José", "Natanael"],
+      "correta": 0,
+      "referência": "Lucas 1:20"
+    },
+    {
+      "id": "EG-098",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem encontrou Jesus no templo quando Ele tinha doze anos?",
+      "alternativas": ["Zacarias", "Nicodemos", "Simeão", "José e Maria"],
+      "correta": 3,
+      "referência": "Lucas 2:41-50"
+    },
+    {
+      "id": "EG-099",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Onde Jesus fez seu primeiro milagre?",
+      "alternativas": ["Jerusalém", "Cafarnaum", "Nazaré", "Caná"],
+      "correta": 3,
+      "referência": "João 2:1-11"
+    },
+    {
+      "id": "EG-100",
+      "categoria": "evangelhos",
+      "nível": "fácil",
+      "pergunta": "Quem chamou Jesus de 'Cordeiro de Deus'?",
+      "alternativas": ["Pedro", "André", "João Batista", "Tiago"],
+      "correta": 2,
+      "referência": "João 1:29"
+    },
+
+    {
+      "id": "EG-101",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem disse: 'Fazei tudo quanto Ele vos disser'?",
+      "alternativas": ["Pedro", "João", "Maria, mãe de Jesus", "Tiago"],
+      "correta": 2,
+      "referência": "João 2:5"
+    },
+    {
+      "id": "EG-102",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Onde Jesus expulsou um demônio que fazia o homem ser mudo?",
+      "alternativas": ["Cafarnaum", "Jericó", "Nazaré", "Betânia"],
+      "correta": 0,
+      "referência": "Marcos 1:21-27"
+    },
+    {
+      "id": "EG-103",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem disse: 'Senhor, eis-me aqui!' antes de negar Jesus?",
+      "alternativas": ["Pedro", "Tiago", "João", "Tomé"],
+      "correta": 0,
+      "referência": "Mateus 26:33"
+    },
+    {
+      "id": "EG-104",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem convidou Jesus para jantar e reclamou que Ele não lavou as mãos?",
+      "alternativas": ["Um publicano", "Um fariseu", "Um escriba", "Um sacerdote"],
+      "correta": 1,
+      "referência": "Lucas 11:37-38"
+    },
+    {
+      "id": "EG-105",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "A quem Jesus disse: 'Tu te preocupas com muitas coisas, mas uma só é necessária'?",
+      "alternativas": ["Maria", "Marta", "Salomé", "Suzana"],
+      "correta": 1,
+      "referência": "Lucas 10:41-42"
+    },
+    {
+      "id": "EG-106",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem era o oficial que pediu a cura de seu servo à distância?",
+      "alternativas": ["O centurião", "Zaqueu", "Simeão", "Nicodemos"],
+      "correta": 0,
+      "referência": "Mateus 8:5-13"
+    },
+    {
+      "id": "EG-107",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem perguntou a Jesus: 'Quem tocou em mim?'",
+      "alternativas": ["Pedro", "Tiago", "João", "Jesus"],
+      "correta": 3,
+      "referência": "Marcos 5:30"
+    },
+    {
+      "id": "EG-108",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem foi chamado por Jesus de 'rocha'?",
+      "alternativas": ["Tiago", "Pedro", "João", "André"],
+      "correta": 1,
+      "referência": "Mateus 16:18"
+    },
+    {
+      "id": "EG-109",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem pediu a Jesus para deixar os demônios entrarem nos porcos?",
+      "alternativas": ["O endemoninhado", "Os discípulos", "Os demônios", "Os fariseus"],
+      "correta": 2,
+      "referência": "Marcos 5:12"
+    },
+    {
+      "id": "EG-110",
+      "categoria": "evangelhos",
+      "nível": "médio",
+      "pergunta": "Quem teve sua filha curada após dizer: 'Senhor, até os cachorrinhos comem das migalhas'?",
+      "alternativas": ["A viúva de Naim", "A mulher hemorrágica", "A mulher siro-fenícia", "A samaritana"],
+      "correta": 2,
+      "referência": "Mateus 15:27"
+    },
+
+    {
+      "id": "EG-111",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Qual evangelho registra que Jesus suou gotas de sangue no Getsêmani?",
+      "alternativas": ["Mateus", "Marcos", "Lucas", "João"],
+      "correta": 2,
+      "referência": "Lucas 22:44"
+    },
+    {
+      "id": "EG-112",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Quem disse a Jesus: 'Tu és mestre em Israel e não sabes estas coisas?'",
+      "alternativas": ["Pedro", "Nicodemos", "João Batista", "Jesus"],
+      "correta": 3,
+      "referência": "João 3:10"
+    },
+    {
+      "id": "EG-113",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Qual evangelho descreve que o anjo rolou a pedra do túmulo?",
+      "alternativas": ["Mateus", "Marcos", "Lucas", "João"],
+      "correta": 0,
+      "referência": "Mateus 28:2"
+    },
+    {
+      "id": "EG-114",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Quem era o pai de Tiago e João?",
+      "alternativas": ["Zebedeu", "Arão", "José", "Simeão"],
+      "correta": 0,
+      "referência": "Marcos 1:19"
+    },
+    {
+      "id": "EG-115",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Quem perguntou a Jesus: 'E quem é o meu próximo?'",
+      "alternativas": ["Um jovem rico", "Um escriba", "Um doutor da lei", "Um fariseu"],
+      "correta": 2,
+      "referência": "Lucas 10:29"
+    },
+    {
+      "id": "EG-116",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Qual evangelho registra o cântico de Simeão?",
+      "alternativas": ["Mateus", "Lucas", "Marcos", "João"],
+      "correta": 1,
+      "referência": "Lucas 2:29-32"
+    },
+    {
+      "id": "EG-117",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Qual evangelho cita que Jesus curou a orelha de Malco?",
+      "alternativas": ["Mateus", "Marcos", "Lucas", "João"],
+      "correta": 2,
+      "referência": "Lucas 22:51"
+    },
+    {
+      "id": "EG-118",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Quem declarou: 'Eu vejo homens como árvores' após uma cura parcial?",
+      "alternativas": ["O cego de Jericó", "Bartimeu", "O cego de Betsaida", "O cego de nascença"],
+      "correta": 2,
+      "referência": "Marcos 8:24"
+    },
+    {
+      "id": "EG-119",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Quem disse: 'Senhor, manda-me ir até ti por sobre as águas'?",
+      "alternativas": ["João", "Tomé", "Pedro", "André"],
+      "correta": 2,
+      "referência": "Mateus 14:28"
+    },
+    {
+      "id": "EG-120",
+      "categoria": "evangelhos",
+      "nível": "difícil",
+      "pergunta": "Qual evangelho registra o cântico de Maria, o Magnificat?",
+      "alternativas": ["Mateus", "Marcos", "Lucas", "João"],
+      "correta": 1,
+      "referência": "Lucas 1:46-55"
+    }
+  ]
+}
