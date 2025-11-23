@@ -1,0 +1,555 @@
+{
+  "perguntas": [
+    {
+      "id": "PR-001",
+      "categoria": "parabolas",
+      "nível": "fácil",
+      "pergunta": "Qual parábola Jesus contou para ensinar que devemos amar ao próximo como a nós mesmos?",
+      "alternativas": ["O filho pródigo", "O bom samaritano", "A dracma perdida", "O semeador"],
+      "correta": 1,
+      "referência": "Lucas 10:25-37"
+    },
+    {
+      "id": "PR-002",
+      "categoria": "parabolas",
+      "nível": "fácil",
+      "pergunta": "Na parábola do semeador, em qual tipo de solo a semente produziu muito fruto?",
+      "alternativas": ["À beira do caminho", "Entre espinhos", "Em solo rochoso", "Em boa terra"],
+      "correta": 3,
+      "referência": "Mateus 13:8"
+    },
+    {
+      "id": "PR-003",
+      "categoria": "parabolas",
+      "nível": "fácil",
+      "pergunta": "Quantas ovelhas o pastor deixou no aprisco para procurar a que estava perdida?",
+      "alternativas": ["50", "99", "10", "1"],
+      "correta": 1,
+      "referência": "Lucas 15:4"
+    },
+    {
+      "id": "PR-004",
+      "categoria": "parabolas",
+      "nível": "fácil",
+      "pergunta": "Qual objeto a mulher perdeu e procurou diligentemente até encontrar?",
+      "alternativas": ["Um anel", "Uma dracma", "Um colar", "Um vaso"],
+      "correta": 1,
+      "referência": "Lucas 15:8-10"
+    },
+    {
+      "id": "PR-005",
+      "categoria": "parabolas",
+      "nível": "fácil",
+      "pergunta": "Na parábola dos talentos, quantos talentos recebeu o servo mais bem-sucedido?",
+      "alternativas": ["Um", "Dois", "Cinco", "Dez"],
+      "correta": 2,
+      "referência": "Mateus 25:14-30"
+    },
+    {
+      "id": "PR-006",
+      "categoria": "parabolas",
+      "nível": "fácil",
+      "pergunta": "Quem acolheu o filho pródigo quando ele voltou arrependido?",
+      "alternativas": ["O irmão mais velho", "Um servo", "O pai", "Um amigo"],
+      "correta": 2,
+      "referência": "Lucas 15:20"
+    },
+    {
+      "id": "PR-007",
+      "categoria": "parabolas",
+      "nível": "fácil",
+      "pergunta": "Quem é comparado a um homem que constrói sua casa sobre a rocha?",
+      "alternativas": ["Quem ouve e pratica a Palavra", "Quem ouve e não pratica", "Quem conhece a Lei", "Quem jejua"],
+      "correta": 0,
+      "referência": "Mateus 7:24"
+    },
+    {
+      "id": "PR-008",
+      "categoria": "parabolas",
+      "nível": "fácil",
+      "pergunta": "Qual era o trabalho dos primeiros convidados na parábola da grande ceia?",
+      "alternativas": ["Comprar bois", "Visitar amigos", "Vender casas", "Viajar de barco"],
+      "correta": 0,
+      "referência": "Lucas 14:18-20"
+    },
+    {
+      "id": "PR-009",
+      "categoria": "parabolas",
+      "nível": "fácil",
+      "pergunta": "O que cresce junto com o trigo até a colheita na parábola contada por Jesus?",
+      "alternativas": ["Ervas", "Cardos", "Joio", "Figueiras"],
+      "correta": 2,
+      "referência": "Mateus 13:24-30"
+    },
+    {
+      "id": "PR-010",
+      "categoria": "parabolas",
+      "nível": "fácil",
+      "pergunta": "Qual pequeno objeto representa o Reino dos Céus por seu grande crescimento?",
+      "alternativas": ["Uma poeira", "Um grão de mostarda", "Um seixo", "Um caroço de oliva"],
+      "correta": 1,
+      "referência": "Mateus 13:31-32"
+    },
+
+    {
+      "id": "PR-011",
+      "categoria": "parabolas",
+      "nível": "médio",
+      "pergunta": "Na parábola das dez virgens, quantas eram prudentes?",
+      "alternativas": ["Duas", "Quatro", "Cinco", "Todas"],
+      "correta": 2,
+      "referência": "Mateus 25:2"
+    },
+    {
+      "id": "PR-012",
+      "categoria": "parabolas",
+      "nível": "médio",
+      "pergunta": "Quem repreendeu o servo que enterrou o talento?",
+      "alternativas": ["Os outros servos", "O próprio senhor", "Os cobradores", "Os fariseus"],
+      "correta": 1,
+      "referência": "Mateus 25:26"
+    },
+    {
+      "id": "PR-013",
+      "categoria": "parabolas",
+      "nível": "médio",
+      "pergunta": "Na parábola do rico insensato, o que ele pretendia fazer com seus bens?",
+      "alternativas": ["Dar aos pobres", "Construir celeiros maiores", "Investir no comércio", "Dividir com a família"],
+      "correta": 1,
+      "referência": "Lucas 12:18-19"
+    },
+    {
+      "id": "PR-014",
+      "categoria": "parabolas",
+      "nível": "médio",
+      "pergunta": "Qual personagem ignorou o homem ferido antes da chegada do bom samaritano?",
+      "alternativas": ["Um fariseu", "Um jovem rico", "Um levita", "Um comerciante"],
+      "correta": 2,
+      "referência": "Lucas 10:31-32"
+    },
+    {
+      "id": "PR-015",
+      "categoria": "parabolas",
+      "nível": "médio",
+      "pergunta": "Quem encontrou o tesouro escondido no campo?",
+      "alternativas": ["Um comerciante", "Um pastor", "Um viajante", "Um homem anônimo"],
+      "correta": 3,
+      "referência": "Mateus 13:44"
+    },
+    {
+      "id": "PR-016",
+      "categoria": "parabolas",
+      "nível": "médio",
+      "pergunta": "Quem é comparado a um pescador que recolhe peixes bons e ruins?",
+      "alternativas": ["O Messias", "Os profetas", "Os anjos", "Os apóstolos"],
+      "correta": 2,
+      "referência": "Mateus 13:47-49"
+    },
+    {
+      "id": "PR-017",
+      "categoria": "parabolas",
+      "nível": "médio",
+      "pergunta": "Qual elemento representa as preocupações da vida na parábola do semeador?",
+      "alternativas": ["As pedras", "Os espinhos", "O sol", "As aves"],
+      "correta": 1,
+      "referência": "Marcos 4:18-19"
+    },
+    {
+      "id": "PR-018",
+      "categoria": "parabolas",
+      "nível": "médio",
+      "pergunta": "O que o fariseu dizia sobre si mesmo na parábola do fariseu e do publicano?",
+      "alternativas": ["Que era justo", "Que jejuava duas vezes por semana", "Que dava o dízimo", "Todas as alternativas"],
+      "correta": 3,
+      "referência": "Lucas 18:11-12"
+    },
+    {
+      "id": "PR-019",
+      "categoria": "parabolas",
+      "nível": "médio",
+      "pergunta": "Qual personagem se recusou a entrar na festa do filho pródigo?",
+      "alternativas": ["Um servo", "O irmão mais velho", "O vizinho", "O levita"],
+      "correta": 1,
+      "referência": "Lucas 15:28"
+    },
+    {
+      "id": "PR-020",
+      "categoria": "parabolas",
+      "nível": "médio",
+      "pergunta": "Na parábola da vinha, quem maltratou e matou os servos enviados pelo senhor?",
+      "alternativas": ["Os vizinhos", "Os lavradores", "Os soldados", "Os fariseus"],
+      "correta": 1,
+      "referência": "Marcos 12:1-8"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "PR-021",
+      "categoria": "parabolas",
+      "nível": "médio",
+      "pergunta": "Na parábola dos dois devedores, quem perdoou as dívidas?",
+      "alternativas": ["Um mercador", "Um rei", "Um credor", "Um sacerdote"],
+      "correta": 2,
+      "referência": "Lucas 7:41-43"
+    },
+    {
+      "id": "PR-022",
+      "categoria": "parabolas",
+      "nível": "médio",
+      "pergunta": "Na parábola do semeador, o que representam as aves que comem a semente?",
+      "alternativas": ["As tentações", "O inimigo", "As riquezas", "As dúvidas"],
+      "correta": 1,
+      "referência": "Mateus 13:19"
+    },
+    {
+      "id": "PR-023",
+      "categoria": "parabolas",
+      "nível": "médio",
+      "pergunta": "Quem foram enviados antes do filho na parábola dos lavradores maus?",
+      "alternativas": ["Sacerdotes", "Profetas", "Anjos", "Reis"],
+      "correta": 1,
+      "referência": "Marcos 12:2-5"
+    },
+    {
+      "id": "PR-024",
+      "categoria": "parabolas",
+      "nível": "médio",
+      "pergunta": "Na parábola do grande banquete, quem respondeu primeiro à convocação?",
+      "alternativas": ["Os pobres", "Os convidados originais", "Os discípulos", "Os gentios"],
+      "correta": 1,
+      "referência": "Lucas 14:16-20"
+    },
+    {
+      "id": "PR-025",
+      "categoria": "parabolas",
+      "nível": "médio",
+      "pergunta": "Qual parábola ilustra a alegria no céu por um pecador que se arrepende?",
+      "alternativas": ["O semeador", "A dracma perdida", "Os talentos", "O servo impiedoso"],
+      "correta": 1,
+      "referência": "Lucas 15:8-10"
+    },
+    {
+      "id": "PR-026",
+      "categoria": "parabolas",
+      "nível": "médio",
+      "pergunta": "Quem pediu para que os servos cortassem a figueira improdutiva?",
+      "alternativas": ["O lavrador", "O dono da vinha", "O administrador", "O vizinho"],
+      "correta": 1,
+      "referência": "Lucas 13:6-9"
+    },
+    {
+      "id": "PR-027",
+      "categoria": "parabolas",
+      "nível": "médio",
+      "pergunta": "Na parábola do fariseu e do publicano, quem saiu justificado?",
+      "alternativas": ["Ambos", "Ninguém", "O fariseu", "O publicano"],
+      "correta": 3,
+      "referência": "Lucas 18:13-14"
+    },
+    {
+      "id": "PR-028",
+      "categoria": "parabolas",
+      "nível": "médio",
+      "pergunta": "O que representa o fermento na parábola do fermento?",
+      "alternativas": ["O pecado", "A fé", "O Reino de Deus", "A riqueza"],
+      "correta": 2,
+      "referência": "Mateus 13:33"
+    },
+    {
+      "id": "PR-029",
+      "categoria": "parabolas",
+      "nível": "médio",
+      "pergunta": "Na parábola do administrador infiel, qual qualidade Jesus destacou?",
+      "alternativas": ["Maldade", "Sabedoria", "Generosidade", "Humildade"],
+      "correta": 1,
+      "referência": "Lucas 16:8"
+    },
+    {
+      "id": "PR-030",
+      "categoria": "parabolas",
+      "nível": "médio",
+      "pergunta": "Na parábola das dez minas, quem recebeu autoridade sobre dez cidades?",
+      "alternativas": ["O servo que multiplicou por cinco", "O servo que enterrou a mina", "O servo que multiplicou por dez", "O servo fiel"],
+      "correta": 2,
+      "referência": "Lucas 19:16-19"
+    },
+
+    {
+      "id": "PR-031",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "Quem pediu para Abraão enviar Lázaro para alertar seus irmãos sobre o tormento?",
+      "alternativas": ["O fariseu", "O rico", "O servo", "Herodes"],
+      "correta": 1,
+      "referência": "Lucas 16:27-28"
+    },
+    {
+      "id": "PR-032",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "Na parábola dos lavradores maus, o que fizeram com o herdeiro?",
+      "alternativas": ["O respeitaram", "O expulsaram", "O espancaram", "O mataram"],
+      "correta": 3,
+      "referência": "Marcos 12:7-8"
+    },
+    {
+      "id": "PR-033",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "Que atitude teve o servo perdoado após receber clemência na parábola do servo impiedoso?",
+      "alternativas": ["Perdoou seu devedor", "Ajudou os pobres", "Agiu com misericórdia", "Prendeu seu conservo"],
+      "correta": 3,
+      "referência": "Mateus 18:28-30"
+    },
+    {
+      "id": "PR-034",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "O que o filho pródigo desejava comer quando passou fome?",
+      "alternativas": ["Restos do banquete", "Frutas do campo", "Alfarrobas dos porcos", "Pães velhos"],
+      "correta": 2,
+      "referência": "Lucas 15:16"
+    },
+    {
+      "id": "PR-035",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "Na parábola do semeador, o que representa o solo rochoso?",
+      "alternativas": ["Corações endurecidos", "Receber rapidamente e desistir", "Apego às riquezas", "Perseguição por causa da fé"],
+      "correta": 1,
+      "referência": "Mateus 13:20-21"
+    },
+    {
+      "id": "PR-036",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "Qual elemento representa os cuidados do mundo na parábola do semeador?",
+      "alternativas": ["As aves", "Os espinhos", "O sol", "As pedras"],
+      "correta": 1,
+      "referência": "Mateus 13:22"
+    },
+    {
+      "id": "PR-037",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "Na parábola da rede, o que acontece com os peixes ruins?",
+      "alternativas": ["São vendidos", "São consumidos", "São jogados fora", "São usados como isca"],
+      "correta": 2,
+      "referência": "Mateus 13:48"
+    },
+    {
+      "id": "PR-038",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "O que representa o campo na parábola do trigo e do joio?",
+      "alternativas": ["O coração", "O mundo", "Israel", "A igreja"],
+      "correta": 1,
+      "referência": "Mateus 13:38"
+    },
+    {
+      "id": "PR-039",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "Quem convidou a todos para as bodas, inclusive os que estavam nos caminhos?",
+      "alternativas": ["O rei", "O servo", "O pai", "O amigo do noivo"],
+      "correta": 0,
+      "referência": "Mateus 22:8-10"
+    },
+    {
+      "id": "PR-040",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "Na parábola do credor incompassivo, quantos talentos devia o servo ao seu senhor?",
+      "alternativas": ["Mil talentos", "Dez mil talentos", "Cem talentos", "Sete talentos"],
+      "correta": 1,
+      "referência": "Mateus 18:23-24"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "PR-041",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "O que representa a porta estreita na parábola das duas portas?",
+      "alternativas": ["O céu", "A fé", "A obediência", "O caminho da vida"],
+      "correta": 3,
+      "referência": "Mateus 7:13-14"
+    },
+    {
+      "id": "PR-042",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "Na parábola dos lavradores maus, o que o senhor fará aos lavradores ímpios?",
+      "alternativas": ["Perdoará", "Punirá severamente", "Dará novas chances", "Recompensará"],
+      "correta": 1,
+      "referência": "Mateus 21:41"
+    },
+    {
+      "id": "PR-043",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "Quem foi enviado primeiro na parábola da vinha: os servos ou o filho?",
+      "alternativas": ["Os servos", "O filho", "Os lavradores", "Os soldados"],
+      "correta": 0,
+      "referência": "Mateus 21:33-35"
+    },
+    {
+      "id": "PR-044",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "O que o homem encontrou e vendeu tudo o que tinha para comprar?",
+      "alternativas": ["Um peixe raro", "Uma pérola de grande valor", "Uma dracma", "Uma joia antiga"],
+      "correta": 1,
+      "referência": "Mateus 13:45-46"
+    },
+    {
+      "id": "PR-045",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "Quem pediu ao pai que cortasse a figueira estéril?",
+      "alternativas": ["O servo", "O lavrador", "O filho", "O administrador"],
+      "correta": 1,
+      "referência": "Lucas 13:6-9"
+    },
+    {
+      "id": "PR-046",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "Na parábola do mordomo infiel, como o senhor elogiou o administrador?",
+      "alternativas": ["Por sua justiça", "Por sua astúcia", "Por sua misericórdia", "Por sua honestidade"],
+      "correta": 1,
+      "referência": "Lucas 16:8"
+    },
+    {
+      "id": "PR-047",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "Quem perguntou: 'Senhor, quantas vezes devo perdoar?' antes da parábola do servo impiedoso?",
+      "alternativas": ["João", "Pedro", "Tomé", "Tiago"],
+      "correta": 1,
+      "referência": "Mateus 18:21"
+    },
+    {
+      "id": "PR-048",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "O que representam os espinhos na parábola do semeador?",
+      "alternativas": ["O medo", "A perseguição", "Os cuidados do mundo e o engano das riquezas", "A incredulidade"],
+      "correta": 2,
+      "referência": "Mateus 13:22"
+    },
+    {
+      "id": "PR-049",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "O que os convidados fizeram com os servos enviados na parábola das bodas?",
+      "alternativas": ["Os receberam bem", "Os ignoraram", "Os maltrataram e mataram", "Os prenderam"],
+      "correta": 2,
+      "referência": "Mateus 22:5-6"
+    },
+    {
+      "id": "PR-050",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "Na parábola dos dois alicerces, quem é comparado ao insensato?",
+      "alternativas": ["O que ouve e pratica", "O que ouve e não pratica", "O que ignora a Lei", "O que segue tradições"],
+      "correta": 1,
+      "referência": "Mateus 7:26"
+    },
+
+    {
+      "id": "PR-051",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "Quem disse 'Pai, pequei contra o céu e diante de ti'?",
+      "alternativas": ["O irmão mais velho", "O servo fiel", "O filho pródigo", "O publicano"],
+      "correta": 2,
+      "referência": "Lucas 15:21"
+    },
+    {
+      "id": "PR-052",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "O que os lavradores disseram quando viram o herdeiro chegando?",
+      "alternativas": ["Vamos respeitá-lo", "Vamos expulsá-lo", "Vamos matá-lo", "Vamos negociar"],
+      "correta": 2,
+      "referência": "Marcos 12:7"
+    },
+    {
+      "id": "PR-053",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "O que representa o campo na parábola do joio?",
+      "alternativas": ["Israel", "O mundo", "A igreja", "O coração humano"],
+      "correta": 1,
+      "referência": "Mateus 13:38"
+    },
+    {
+      "id": "PR-054",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "Quem é o inimigo que semeia o joio entre o trigo?",
+      "alternativas": ["As trevas", "O maligno", "Os falsos mestres", "O anticristo"],
+      "correta": 1,
+      "referência": "Mateus 13:39"
+    },
+    {
+      "id": "PR-055",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "Na parábola da pérola, o que o comerciante fez ao encontrá-la?",
+      "alternativas": ["Vendeu algumas coisas", "Guardou para si", "Vendeu tudo para comprá-la", "Enterrou no campo"],
+      "correta": 2,
+      "referência": "Mateus 13:45-46"
+    },
+    {
+      "id": "PR-056",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "O que o servo da parábola das minas fez para multiplicar sua mina?",
+      "alternativas": ["Investiu", "Enterrou", "Vendeu", "Guardou em um lenço"],
+      "correta": 0,
+      "referência": "Lucas 19:16"
+    },
+    {
+      "id": "PR-057",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "Na parábola dos dois filhos, qual deles fez a vontade do pai?",
+      "alternativas": ["O que disse sim, mas não foi", "O que disse não, mas depois foi", "Ambos", "Nenhum"],
+      "correta": 1,
+      "referência": "Mateus 21:28-31"
+    },
+    {
+      "id": "PR-058",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "Por que o administrador injusto foi elogiado?",
+      "alternativas": ["Por sua fé", "Por sua honestidade", "Por sua esperteza", "Por sua bondade"],
+      "correta": 2,
+      "referência": "Lucas 16:8"
+    },
+    {
+      "id": "PR-059",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "O que o homem fez ao encontrar o tesouro escondido no campo?",
+      "alternativas": ["Guardou para si", "Devolveu ao dono", "Vendeu tudo e comprou o campo", "Enterrou novamente"],
+      "correta": 2,
+      "referência": "Mateus 13:44"
+    },
+    {
+      "id": "PR-060",
+      "categoria": "parabolas",
+      "nível": "difícil",
+      "pergunta": "O que aconteceu com o convidado que não estava usando veste nupcial na parábola das bodas?",
+      "alternativas": ["Foi advertido", "Foi ignorado", "Foi expulso para as trevas externas", "Sentou-se longe"],
+      "correta": 2,
+      "referência": "Mateus 22:11-13"
+    }
+  ]
+}
