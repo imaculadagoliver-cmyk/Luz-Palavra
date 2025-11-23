@@ -1,0 +1,555 @@
+{
+  "perguntas": [
+    {
+      "id": "ML-001",
+      "categoria": "milagres",
+      "nível": "fácil",
+      "pergunta": "Qual foi o primeiro milagre de Jesus registrado nos Evangelhos?",
+      "alternativas": ["Curar um leproso", "Transformar água em vinho", "Multiplicar pães", "Andar sobre as águas"],
+      "correta": 1,
+      "referência": "João 2:1-11"
+    },
+    {
+      "id": "ML-002",
+      "categoria": "milagres",
+      "nível": "fácil",
+      "pergunta": "Quem foi curado após tocar na orla das vestes de Jesus?",
+      "alternativas": ["A mulher samaritana", "A mulher hemorrágica", "Maria Madalena", "A filha de Jairo"],
+      "correta": 1,
+      "referência": "Marcos 5:25-34"
+    },
+    {
+      "id": "ML-003",
+      "categoria": "milagres",
+      "nível": "fácil",
+      "pergunta": "Quem foi ressuscitado após quatro dias morto?",
+      "alternativas": ["Tabita", "O filho da viúva de Naim", "Lázaro", "Eutico"],
+      "correta": 2,
+      "referência": "João 11:38-44"
+    },
+    {
+      "id": "ML-004",
+      "categoria": "milagres",
+      "nível": "fácil",
+      "pergunta": "Quem andou sobre as águas junto com Jesus por alguns instantes?",
+      "alternativas": ["Tiago", "Pedro", "João", "André"],
+      "correta": 1,
+      "referência": "Mateus 14:28-31"
+    },
+    {
+      "id": "ML-005",
+      "categoria": "milagres",
+      "nível": "fácil",
+      "pergunta": "Quantos pães havia na multiplicação que alimentou cinco mil homens?",
+      "alternativas": ["Sete", "Dois", "Cinco", "Quatro"],
+      "correta": 2,
+      "referência": "Mateus 14:17"
+    },
+    {
+      "id": "ML-006",
+      "categoria": "milagres",
+      "nível": "fácil",
+      "pergunta": "Quem foi curado de lepra depois de mergulhar sete vezes no rio Jordão?",
+      "alternativas": ["Geral", "Naamã", "Uzias", "Tobias"],
+      "correta": 1,
+      "referência": "2 Reis 5:10-14"
+    },
+    {
+      "id": "ML-007",
+      "categoria": "milagres",
+      "nível": "fácil",
+      "pergunta": "Qual profeta multiplicou o azeite da viúva para que não faltasse mais?",
+      "alternativas": ["Elias", "Eliseu", "Isaías", "Jeremias"],
+      "correta": 1,
+      "referência": "2 Reis 4:1-7"
+    },
+    {
+      "id": "ML-008",
+      "categoria": "milagres",
+      "nível": "fácil",
+      "pergunta": "Quem teve seus olhos abertos por Eliseu para ver carros e cavalos de fogo?",
+      "alternativas": ["O rei de Israel", "Geazi", "O servo de Eliseu", "O capitão sírio"],
+      "correta": 2,
+      "referência": "2 Reis 6:15-17"
+    },
+    {
+      "id": "ML-009",
+      "categoria": "milagres",
+      "nível": "fácil",
+      "pergunta": "Quem foi curado por Jesus no tanque de Betesda?",
+      "alternativas": ["Um paralítico", "Um cego", "Um leproso", "Um surdo"],
+      "correta": 0,
+      "referência": "João 5:2-9"
+    },
+    {
+      "id": "ML-010",
+      "categoria": "milagres",
+      "nível": "fácil",
+      "pergunta": "Quem teve a mão restaurada no sábado por Jesus?",
+      "alternativas": ["Um fariseu", "Um homem da mão mirrada", "Um escriba", "Um pescador"],
+      "correta": 1,
+      "referência": "Marcos 3:1-5"
+    },
+
+    {
+      "id": "ML-011",
+      "categoria": "milagres",
+      "nível": "médio",
+      "pergunta": "Quem mandou o sol parar sobre Gibeom e a lua sobre o vale de Aijalom?",
+      "alternativas": ["Moisés", "Josué", "Elias", "Samuel"],
+      "correta": 1,
+      "referência": "Josué 10:12-14"
+    },
+    {
+      "id": "ML-012",
+      "categoria": "milagres",
+      "nível": "médio",
+      "pergunta": "Quem fez flutuar o machado de ferro que havia caído na água?",
+      "alternativas": ["Moisés", "Elias", "Eliseu", "Josué"],
+      "correta": 2,
+      "referência": "2 Reis 6:5-7"
+    },
+    {
+      "id": "ML-013",
+      "categoria": "milagres",
+      "nível": "médio",
+      "pergunta": "Qual profeta fez a farinha da viúva não acabar durante a seca?",
+      "alternativas": ["Elias", "Eliseu", "Jeremias", "Isaías"],
+      "correta": 0,
+      "referência": "1 Reis 17:12-16"
+    },
+    {
+      "id": "ML-014",
+      "categoria": "milagres",
+      "nível": "médio",
+      "pergunta": "Quem ressuscitou o filho da sunamita?",
+      "alternativas": ["Elias", "Eliseu", "Jeremias", "Samuel"],
+      "correta": 1,
+      "referência": "2 Reis 4:18-37"
+    },
+    {
+      "id": "ML-015",
+      "categoria": "milagres",
+      "nível": "médio",
+      "pergunta": "Quem curou o servo do centurião à distância?",
+      "alternativas": ["Pedro", "Jesus", "Eliseu", "Paulo"],
+      "correta": 1,
+      "referência": "Lucas 7:1-10"
+    },
+    {
+      "id": "ML-016",
+      "categoria": "milagres",
+      "nível": "médio",
+      "pergunta": "Quem foi curado pelo apóstolo Pedro no templo chamado Formosa?",
+      "alternativas": ["Um paralítico", "Um cego", "Um surdo", "Um leproso"],
+      "correta": 0,
+      "referência": "Atos 3:1-10"
+    },
+    {
+      "id": "ML-017",
+      "categoria": "milagres",
+      "nível": "médio",
+      "pergunta": "Quem ficou cego ao perseguir Paulo e Barnabé?",
+      "alternativas": ["Eutico", "Elymas, o mago", "Hermes", "Ananias"],
+      "correta": 1,
+      "referência": "Atos 13:8-11"
+    },
+    {
+      "id": "ML-018",
+      "categoria": "milagres",
+      "nível": "médio",
+      "pergunta": "Qual milagre Jesus realizou antes de dizer 'Eu sou o pão da vida'?",
+      "alternativas": ["Curou um paralítico", "Ressuscitou Lázaro", "Multiplicou os pães", "Acalmou a tempestade"],
+      "correta": 2,
+      "referência": "João 6:1-14"
+    },
+    {
+      "id": "ML-019",
+      "categoria": "milagres",
+      "nível": "médio",
+      "pergunta": "Quem acalmou a tempestade com apenas uma palavra?",
+      "alternativas": ["Pedro", "Paulo", "Jesus", "Elias"],
+      "correta": 2,
+      "referência": "Marcos 4:39"
+    },
+    {
+      "id": "ML-020",
+      "categoria": "milagres",
+      "nível": "médio",
+      "pergunta": "Quem fez o fogo descer do céu para consumir o holocausto em resposta à oração?",
+      "alternativas": ["Samuel", "Elias", "Eliseu", "Moisés"],
+      "correta": 1,
+      "referência": "1 Reis 18:36-38"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "ML-021",
+      "categoria": "milagres",
+      "nível": "médio",
+      "pergunta": "Qual milagre Jesus realizou ao perceber que uma figueira não tinha frutos?",
+      "alternativas": ["Ressuscitou-a", "Secou-a", "Multiplicou frutos nela", "Transformou-a em videira"],
+      "correta": 1,
+      "referência": "Marcos 11:12-14"
+    },
+    {
+      "id": "ML-022",
+      "categoria": "milagres",
+      "nível": "médio",
+      "pergunta": "Quem foi curado por Eliseu depois de ter sua vida estendida por 15 anos?",
+      "alternativas": ["Manassés", "Ezequias", "Josias", "Amazias"],
+      "correta": 1,
+      "referência": "2 Reis 20:1-6"
+    },
+    {
+      "id": "ML-023",
+      "categoria": "milagres",
+      "nível": "médio",
+      "pergunta": "Quem teve sua serpente transformada em bordão e depois restaurada?",
+      "alternativas": ["Arão", "Moisés", "Josué", "Samuel"],
+      "correta": 1,
+      "referência": "Êxodo 4:2-4"
+    },
+    {
+      "id": "ML-024",
+      "categoria": "milagres",
+      "nível": "médio",
+      "pergunta": "Qual milagre aconteceu com os ossos de Eliseu?",
+      "alternativas": ["Brilharam", "Queimaram", "Ressuscitaram um morto", "Se dissolveram"],
+      "correta": 2,
+      "referência": "2 Reis 13:21"
+    },
+    {
+      "id": "ML-025",
+      "categoria": "milagres",
+      "nível": "médio",
+      "pergunta": "Quem teve seus lábios tocados com uma brasa viva, simbolizando purificação?",
+      "alternativas": ["Jeremias", "Isaías", "Ezequiel", "Daniel"],
+      "correta": 1,
+      "referência": "Isaías 6:6-7"
+    },
+    {
+      "id": "ML-026",
+      "categoria": "milagres",
+      "nível": "médio",
+      "pergunta": "Quem foi libertado da prisão por um anjo durante a noite?",
+      "alternativas": ["Pedro", "João", "Paulo", "Tiago"],
+      "correta": 0,
+      "referência": "Atos 12:6-10"
+    },
+    {
+      "id": "ML-027",
+      "categoria": "milagres",
+      "nível": "médio",
+      "pergunta": "Quem curou o sogro de Pedro ao tomar-lhe pela mão?",
+      "alternativas": ["Jesus", "João Batista", "Paulo", "Tiago"],
+      "correta": 0,
+      "referência": "Mateus 8:14-15"
+    },
+    {
+      "id": "ML-028",
+      "categoria": "milagres",
+      "nível": "médio",
+      "pergunta": "Quem foi o profeta que curou as águas de Jericó com sal?",
+      "alternativas": ["Moisés", "Elias", "Eliseu", "Davi"],
+      "correta": 2,
+      "referência": "2 Reis 2:19-22"
+    },
+    {
+      "id": "ML-029",
+      "categoria": "milagres",
+      "nível": "médio",
+      "pergunta": "Quem ressuscitou dorcas com uma oração?",
+      "alternativas": ["Pedro", "João", "Paulo", "Tiago"],
+      "correta": 0,
+      "referência": "Atos 9:36-41"
+    },
+    {
+      "id": "ML-030",
+      "categoria": "milagres",
+      "nível": "médio",
+      "pergunta": "Qual milagre ocorreu quando Paulo foi mordido por uma víbora?",
+      "alternativas": ["Ele morreu", "A víbora desapareceu", "Nada lhe aconteceu", "A víbora virou pó"],
+      "correta": 2,
+      "referência": "Atos 28:3-6"
+    },
+
+    {
+      "id": "ML-031",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Quem multiplicou vinte pães de cevada para cem homens, e ainda sobrou?",
+      "alternativas": ["Moisés", "Elias", "Eliseu", "Jeremias"],
+      "correta": 2,
+      "referência": "2 Reis 4:42-44"
+    },
+    {
+      "id": "ML-032",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Qual apóstolo ressuscitou um jovem que caiu da janela durante a pregação?",
+      "alternativas": ["Pedro", "Paulo", "João", "Tiago"],
+      "correta": 1,
+      "referência": "Atos 20:9-12"
+    },
+    {
+      "id": "ML-033",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Quem transformou água amarga em água doce?",
+      "alternativas": ["Davi", "Moisés", "Josué", "Elias"],
+      "correta": 1,
+      "referência": "Êxodo 15:23-25"
+    },
+    {
+      "id": "ML-034",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Quem feriu os sírios com cegueira e depois lhes devolveu a visão?",
+      "alternativas": ["Elias", "Eliseu", "Samuel", "Jeremias"],
+      "correta": 1,
+      "referência": "2 Reis 6:18-20"
+    },
+    {
+      "id": "ML-035",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Quem sobreviveu após cair dentro de uma cova com leões famintos?",
+      "alternativas": ["Jeremias", "Daniel", "Ezequiel", "Ismael"],
+      "correta": 1,
+      "referência": "Daniel 6:16-23"
+    },
+    {
+      "id": "ML-036",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Qual profeta curou um homem cego usando lama feita com saliva?",
+      "alternativas": ["Pedro", "Paulo", "Jesus", "João Batista"],
+      "correta": 2,
+      "referência": "João 9:1-7"
+    },
+    {
+      "id": "ML-037",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Quem libertou um homem possesso que vivia entre os sepulcros?",
+      "alternativas": ["Pedro", "Paulo", "Jesus", "Tiago"],
+      "correta": 2,
+      "referência": "Marcos 5:1-13"
+    },
+    {
+      "id": "ML-038",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Quem fez um machado flutuar, contrariando as leis físicas?",
+      "alternativas": ["Samuel", "Elias", "Eliseu", "Moisés"],
+      "correta": 2,
+      "referência": "2 Reis 6:6"
+    },
+    {
+      "id": "ML-039",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Quem curou o rei Uzias quando este ficou leproso?",
+      "alternativas": ["Isaías", "Eliseu", "Jeremias", "Ninguém"],
+      "correta": 3,
+      "referência": "2 Crônicas 26:19-21"
+    },
+    {
+      "id": "ML-040",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Qual milagre Jesus realizou antes de dizer 'Eu sou a luz do mundo'?",
+      "alternativas": ["Curou um cego de nascença", "Ressuscitou Lázaro", "Acalmou a tempestade", "Multiplicou os peixes"],
+      "correta": 0,
+      "referência": "João 9:1-12"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "ML-041",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Quem alimentou cem homens com vinte pães, e ainda sobrou comida?",
+      "alternativas": ["Elias", "Eliseu", "Jonas", "Moisés"],
+      "correta": 1,
+      "referência": "2 Reis 4:42-44"
+    },
+    {
+      "id": "ML-042",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Quem fez o sol retroceder dez graus no relógio de Acaz?",
+      "alternativas": ["Isaías", "Ezequias", "Jeremias", "Daniel"],
+      "correta": 0,
+      "referência": "2 Reis 20:9-11"
+    },
+    {
+      "id": "ML-043",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Quem matou um leão com as próprias mãos, e depois encontrou mel dentro da carcaça?",
+      "alternativas": ["Davi", "Sansão", "Samuel", "Saul"],
+      "correta": 1,
+      "referência": "Juízes 14:5-9"
+    },
+    {
+      "id": "ML-044",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Qual personagem foi engolido por um grande peixe e permaneceu vivo por três dias?",
+      "alternativas": ["Elias", "Naum", "Jonas", "Jeremias"],
+      "correta": 2,
+      "referência": "Jonas 1:17"
+    },
+    {
+      "id": "ML-045",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Quem fez fogo descer do céu para consumir soldados enviados pelo rei?",
+      "alternativas": ["Elias", "Eliseu", "Samuel", "Jeremias"],
+      "correta": 0,
+      "referência": "2 Reis 1:9-12"
+    },
+    {
+      "id": "ML-046",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Quem teve sua mão leprosa transformada e depois curada como sinal de Deus?",
+      "alternativas": ["Faraó", "Moisés", "Arão", "Josué"],
+      "correta": 1,
+      "referência": "Êxodo 4:6-7"
+    },
+    {
+      "id": "ML-047",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Qual milagre ocorreu com o muro de Jericó?",
+      "alternativas": ["Queimou", "Afundou", "Desabou ao som de trombetas", "Desapareceu"],
+      "correta": 2,
+      "referência": "Josué 6:20"
+    },
+    {
+      "id": "ML-048",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Quem derrotou um exército inteiro com apenas um queixo de jumento?",
+      "alternativas": ["Davi", "Calebe", "Sansão", "Saul"],
+      "correta": 2,
+      "referência": "Juízes 15:15-16"
+    },
+    {
+      "id": "ML-049",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Quem sobreviveu dentro de uma fornalha aquecida sete vezes mais que o normal?",
+      "alternativas": ["Daniel", "Sadraque, Mesaque e Abede-Nego", "Ezequiel", "Josué"],
+      "correta": 1,
+      "referência": "Daniel 3:20-27"
+    },
+    {
+      "id": "ML-050",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Quem sobreviveu após ser lançado na cova dos leões?",
+      "alternativas": ["Jeremias", "Daniel", "Ester", "Neemias"],
+      "correta": 1,
+      "referência": "Daniel 6:16-23"
+    },
+
+    {
+      "id": "ML-051",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Qual profeta multiplicou azeite para pagar uma dívida?",
+      "alternativas": ["Elias", "Eliseu", "Malaquias", "Zacarias"],
+      "correta": 1,
+      "referência": "2 Reis 4:1-7"
+    },
+    {
+      "id": "ML-052",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Quem curou o comandante sírio Naamã?",
+      "alternativas": ["Elias", "Eliseu", "Josué", "Moisés"],
+      "correta": 1,
+      "referência": "2 Reis 5:10-14"
+    },
+    {
+      "id": "ML-053",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Quem fechou o céu para que não chovesse por três anos e meio?",
+      "alternativas": ["Moisés", "Elias", "Daniel", "Eliseu"],
+      "correta": 1,
+      "referência": "1 Reis 17:1"
+    },
+    {
+      "id": "ML-054",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Quem fez flutuar um machado que havia caído no rio?",
+      "alternativas": ["Eliseu", "Elias", "Samuel", "Davi"],
+      "correta": 0,
+      "referência": "2 Reis 6:6"
+    },
+    {
+      "id": "ML-055",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Quem curou um homem paralítico dizendo: 'Levanta-te e anda'?",
+      "alternativas": ["Pedro", "Jesus", "Paulo", "Tiago"],
+      "correta": 1,
+      "referência": "Mateus 9:6"
+    },
+    {
+      "id": "ML-056",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Qual profeta acendeu um fogo que consumiu o holocausto mesmo após a água derramada?",
+      "alternativas": ["Eliseu", "Elias", "Samuel", "Isaías"],
+      "correta": 1,
+      "referência": "1 Reis 18:36-38"
+    },
+    {
+      "id": "ML-057",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Quem ressuscitou um jovem chamado Eutico?",
+      "alternativas": ["Pedro", "Paulo", "João", "Tiago"],
+      "correta": 1,
+      "referência": "Atos 20:9-12"
+    },
+    {
+      "id": "ML-058",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Quem expulsou uma legião de demônios que entrou em porcos?",
+      "alternativas": ["Pedro", "Paulo", "Jesus", "Tiago"],
+      "correta": 2,
+      "referência": "Marcos 5:1-13"
+    },
+    {
+      "id": "ML-059",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Qual profeta ressuscitou o filho da viúva de Sarepta?",
+      "alternativas": ["Isaías", "Jeremias", "Elias", "Eliseu"],
+      "correta": 2,
+      "referência": "1 Reis 17:17-24"
+    },
+    {
+      "id": "ML-060",
+      "categoria": "milagres",
+      "nível": "difícil",
+      "pergunta": "Quem foi curado quando Pedro disse: 'Jesus Cristo te dá saúde'?",
+      "alternativas": ["Ananias", "Tabita", "Enéias", "Cornélio"],
+      "correta": 2,
+      "referência": "Atos 9:32-34"
+    }
+  ]
+}
