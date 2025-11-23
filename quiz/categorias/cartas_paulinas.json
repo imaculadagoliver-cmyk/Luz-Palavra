@@ -1,0 +1,737 @@
+{
+  "perguntas": [
+    {
+      "id": "CP-001",
+      "categoria": "cartas_paulinas",
+      "nível": "fácil",
+      "pergunta": "Qual carta de Paulo fala extensamente sobre o fruto do Espírito?",
+      "alternativas": ["Romanos", "Gálatas", "Efésios", "Colossenses"],
+      "correta": 1,
+      "referência": "Gálatas 5:22-23"
+    },
+    {
+      "id": "CP-002",
+      "categoria": "cartas_paulinas",
+      "nível": "fácil",
+      "pergunta": "Em qual carta Paulo afirma: 'Tudo posso naquele que me fortalece'?",
+      "alternativas": ["Efésios", "Filipenses", "Tessalonicenses", "Timóteo"],
+      "correta": 1,
+      "referência": "Filipenses 4:13"
+    },
+    {
+      "id": "CP-003",
+      "categoria": "cartas_paulinas",
+      "nível": "fácil",
+      "pergunta": "A quem Paulo escreveu sobre a armadura de Deus?",
+      "alternativas": ["Romanos", "Efésios", "Gálatas", "Colossenses"],
+      "correta": 1,
+      "referência": "Efésios 6:10-18"
+    },
+    {
+      "id": "CP-004",
+      "categoria": "cartas_paulinas",
+      "nível": "fácil",
+      "pergunta": "Qual carta ensina que a salvação é pela graça, mediante a fé?",
+      "alternativas": ["Filipenses", "Efésios", "Coríntios", "Romanos"],
+      "correta": 1,
+      "referência": "Efésios 2:8-9"
+    },
+    {
+      "id": "CP-005",
+      "categoria": "cartas_paulinas",
+      "nível": "fácil",
+      "pergunta": "Em qual carta Paulo fala sobre o amor como o maior dom?",
+      "alternativas": ["Romanos", "1 Coríntios", "Gálatas", "Colossenses"],
+      "correta": 1,
+      "referência": "1 Coríntios 13"
+    },
+    {
+      "id": "CP-006",
+      "categoria": "cartas_paulinas",
+      "nível": "fácil",
+      "pergunta": "Qual carta contém a afirmação: 'O justo viverá da fé'?",
+      "alternativas": ["Efésios", "Romanos", "Tito", "Gálatas"],
+      "correta": 1,
+      "referência": "Romanos 1:17"
+    },
+    {
+      "id": "CP-007",
+      "categoria": "cartas_paulinas",
+      "nível": "fácil",
+      "pergunta": "Em qual epístola Paulo fala sobre o arrebatamento da igreja?",
+      "alternativas": ["1 Tessalonicenses", "Romanos", "Gálatas", "Colossenses"],
+      "correta": 0,
+      "referência": "1 Tessalonicenses 4:16-17"
+    },
+    {
+      "id": "CP-008",
+      "categoria": "cartas_paulinas",
+      "nível": "fácil",
+      "pergunta": "Quem escreveu a carta a Filemom?",
+      "alternativas": ["Pedro", "Paulo", "João", "Tiago"],
+      "correta": 1,
+      "referência": "Filemom 1"
+    },
+    {
+      "id": "CP-009",
+      "categoria": "cartas_paulinas",
+      "nível": "fácil",
+      "pergunta": "Qual carta contém a orientação para nos alegrarmos sempre?",
+      "alternativas": ["Colossenses", "Romanos", "Filipenses", "Tito"],
+      "correta": 2,
+      "referência": "Filipenses 4:4"
+    },
+    {
+      "id": "CP-010",
+      "categoria": "cartas_paulinas",
+      "nível": "fácil",
+      "pergunta": "A quem Paulo escreve sobre os dons espirituais de maneira detalhada?",
+      "alternativas": ["Tito", "Timóteo", "1 Coríntios", "Colossenses"],
+      "correta": 2,
+      "referência": "1 Coríntios 12"
+    },
+
+    {
+      "id": "CP-011",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Em qual carta Paulo fala sobre a 'renovação da mente'?",
+      "alternativas": ["Efésios", "Romanos", "Colossenses", "Filipenses"],
+      "correta": 1,
+      "referência": "Romanos 12:2"
+    },
+    {
+      "id": "CP-012",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Qual carta enfatiza fortemente a liberdade cristã versus a lei?",
+      "alternativas": ["Colossenses", "Gálatas", "1 Timóteo", "Efésios"],
+      "correta": 1,
+      "referência": "Gálatas 5"
+    },
+    {
+      "id": "CP-013",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Qual carta contém as instruções para a ceia do Senhor?",
+      "alternativas": ["Romanos", "1 Coríntios", "Gálatas", "Filipenses"],
+      "correta": 1,
+      "referência": "1 Coríntios 11:23-29"
+    },
+    {
+      "id": "CP-014",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Qual carta insiste que Cristo é a imagem do Deus invisível?",
+      "alternativas": ["Romanos", "Colossenses", "Gálatas", "Tito"],
+      "correta": 1,
+      "referência": "Colossenses 1:15"
+    },
+    {
+      "id": "CP-015",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Em qual carta Paulo descreve a armadura da fé e do amor?",
+      "alternativas": ["1 Tessalonicenses", "Romanos", "Efésios", "2 Timóteo"],
+      "correta": 0,
+      "referência": "1 Tessalonicenses 5:8"
+    },
+    {
+      "id": "CP-016",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Qual é a carta mais pessoal escrita por Paulo?",
+      "alternativas": ["1 Timóteo", "Tito", "Filemom", "Gálatas"],
+      "correta": 2,
+      "referência": "Filemom (contexto geral)"
+    },
+    {
+      "id": "CP-017",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Em qual carta Paulo fala sobre a reconciliação através de Cristo?",
+      "alternativas": ["Gálatas", "Colossenses", "2 Coríntios", "Tito"],
+      "correta": 2,
+      "referência": "2 Coríntios 5:18-19"
+    },
+    {
+      "id": "CP-018",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Qual carta ensina que 'a raiz de todos os males é o amor ao dinheiro'?",
+      "alternativas": ["Romanos", "1 Timóteo", "Gálatas", "Colossenses"],
+      "correta": 1,
+      "referência": "1 Timóteo 6:10"
+    },
+    {
+      "id": "CP-019",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Qual carta exorta os cristãos a vestirem-se de 'ternos afetos de misericórdia'?",
+      "alternativas": ["Efésios", "Colossenses", "Gálatas", "Romanos"],
+      "correta": 1,
+      "referência": "Colossenses 3:12"
+    },
+    {
+      "id": "CP-020",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Qual igreja Paulo repreendeu por divisões internas?",
+      "alternativas": ["Colossos", "Corinto", "Éfeso", "Filipos"],
+      "correta": 1,
+      "referência": "1 Coríntios 1:10-12"
+    },
+
+    {
+      "id": "CP-021",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Qual carta destaca a ‘nova criação’ como marca do cristão?",
+      "alternativas": ["Tito", "Gálatas", "Filipenses", "Colossenses"],
+      "correta": 1,
+      "referência": "Gálatas 6:15"
+    },
+    {
+      "id": "CP-022",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Quem Paulo deixou em Creta para corrigir o que faltava e constituir presbíteros?",
+      "alternativas": ["Timóteo", "Tito", "Filemom", "Silas"],
+      "correta": 1,
+      "referência": "Tito 1:5"
+    },
+    {
+      "id": "CP-023",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Qual epístola menciona a ‘armadura da luz’?",
+      "alternativas": ["Romanos", "Efésios", "Filipenses", "Colossenses"],
+      "correta": 0,
+      "referência": "Romanos 13:12"
+    },
+    {
+      "id": "CP-024",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Qual carta fala sobre o casal Priscila e Áquila como cooperadores de Paulo?",
+      "alternativas": ["Romanos", "Tito", "Gálatas", "Colossenses"],
+      "correta": 0,
+      "referência": "Romanos 16:3"
+    },
+    {
+      "id": "CP-025",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Qual carta exorta os cristãos a orarem sem cessar?",
+      "alternativas": ["1 Tessalonicenses", "Efésios", "Timóteo", "Gálatas"],
+      "correta": 0,
+      "referência": "1 Tessalonicenses 5:17"
+    },
+    {
+      "id": "CP-026",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Qual carta enfatiza que Cristo é cabeça do corpo, a igreja?",
+      "alternativas": ["Filipenses", "Gálatas", "Colossenses", "Romanos"],
+      "correta": 2,
+      "referência": "Colossenses 1:18"
+    },
+    {
+      "id": "CP-027",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Em qual carta Paulo aconselha a colocar a esperança no Deus vivo?",
+      "alternativas": ["Tito", "1 Timóteo", "2 Timóteo", "Gálatas"],
+      "correta": 1,
+      "referência": "1 Timóteo 4:10"
+    },
+    {
+      "id": "CP-028",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "A qual igreja Paulo escreveu que a ‘paz de Deus excede todo entendimento’?",
+      "alternativas": ["Corinto", "Éfeso", "Filipos", "Colossos"],
+      "correta": 2,
+      "referência": "Filipenses 4:7"
+    },
+    {
+      "id": "CP-029",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Qual carta fala sobre a ‘boa obra’ que Deus começou e há de terminar?",
+      "alternativas": ["Romanos", "Gálatas", "Filipenses", "Tito"],
+      "correta": 2,
+      "referência": "Filipenses 1:6"
+    },
+    {
+      "id": "CP-030",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Em qual epístola Paulo instrui sobre o uso adequado dos dons espirituais nas igrejas?",
+      "alternativas": ["1 Coríntios", "Romanos", "Efésios", "Gálatas"],
+      "correta": 0,
+      "referência": "1 Coríntios 12–14"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "CP-031",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Qual carta instrui a igreja a examinar tudo e reter o que é bom?",
+      "alternativas": ["1 Coríntios", "1 Tessalonicenses", "Romanos", "Gálatas"],
+      "correta": 1,
+      "referência": "1 Tessalonicenses 5:21"
+    },
+    {
+      "id": "CP-032",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Qual epístola afirma que Cristo é a ‘nossa paz’ que derrubou a parede de separação?",
+      "alternativas": ["Efésios", "Gálatas", "Filipenses", "Colossenses"],
+      "correta": 0,
+      "referência": "Efésios 2:14"
+    },
+    {
+      "id": "CP-033",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Quem Paulo recomenda receber Onésimo, já não como escravo, mas como irmão amado?",
+      "alternativas": ["Timóteo", "Filemom", "Tito", "Silas"],
+      "correta": 1,
+      "referência": "Filemom 1:16"
+    },
+    {
+      "id": "CP-034",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Qual carta fala sobre demolir fortalezas e levar cativo todo pensamento à obediência de Cristo?",
+      "alternativas": ["Gálatas", "2 Coríntios", "Tito", "Romanos"],
+      "correta": 1,
+      "referência": "2 Coríntios 10:4-5"
+    },
+    {
+      "id": "CP-035",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Em qual epístola Paulo ordena que tudo seja feito decentemente e com ordem?",
+      "alternativas": ["1 Coríntios", "Efésios", "Gálatas", "Romanos"],
+      "correta": 0,
+      "referência": "1 Coríntios 14:40"
+    },
+    {
+      "id": "CP-036",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Qual carta apresenta a metáfora do atleta que corre para alcançar o prêmio?",
+      "alternativas": ["Gálatas", "Colossenses", "Filipenses", "Efésios"],
+      "correta": 2,
+      "referência": "Filipenses 3:13-14"
+    },
+    {
+      "id": "CP-037",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Qual carta contém grande parte da teologia sobre justificação pela fé?",
+      "alternativas": ["Colossenses", "Romanos", "Gálatas", "Efésios"],
+      "correta": 1,
+      "referência": "Romanos 3–5"
+    },
+    {
+      "id": "CP-038",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Em qual carta Paulo escreve: 'Sede meus imitadores, como eu sou de Cristo'?",
+      "alternativas": ["Gálatas", "Efésios", "1 Coríntios", "Colossenses"],
+      "correta": 2,
+      "referência": "1 Coríntios 11:1"
+    },
+    {
+      "id": "CP-039",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Qual carta apresenta instruções específicas para esposas, maridos, pais e servos?",
+      "alternativas": ["Filipenses", "Colossenses", "Gálatas", "1 Coríntios"],
+      "correta": 1,
+      "referência": "Colossenses 3:18-25"
+    },
+    {
+      "id": "CP-040",
+      "categoria": "cartas_paulinas",
+      "nível": "médio",
+      "pergunta": "Quem Paulo menciona como médico amado?",
+      "alternativas": ["Demétrio", "Lucas", "Tito", "Barnabé"],
+      "correta": 1,
+      "referência": "Colossenses 4:14"
+    },
+
+    {
+      "id": "CP-041",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Qual carta menciona que 'a letra mata, mas o Espírito vivifica'?",
+      "alternativas": ["Romanos", "2 Coríntios", "Gálatas", "Efésios"],
+      "correta": 1,
+      "referência": "2 Coríntios 3:6"
+    },
+    {
+      "id": "CP-042",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Em qual carta Paulo fala sobre o 'espinho na carne'?",
+      "alternativas": ["Romanos", "Efésios", "2 Coríntios", "Filipenses"],
+      "correta": 2,
+      "referência": "2 Coríntios 12:7"
+    },
+    {
+      "id": "CP-043",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Quem foi entregue a Satanás para aprendizado, segundo Paulo?",
+      "alternativas": ["Himeneu e Fileto", "Himeneu e Alexandre", "Demétrio", "Demas"],
+      "correta": 1,
+      "referência": "1 Timóteo 1:19-20"
+    },
+    {
+      "id": "CP-044",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Qual carta ensina que o casamento é um mistério que representa Cristo e a igreja?",
+      "alternativas": ["Colossenses", "Efésios", "Romanos", "Tito"],
+      "correta": 1,
+      "referência": "Efésios 5:31-32"
+    },
+    {
+      "id": "CP-045",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Quem auxiliou Paulo trazendo o pergaminho, segundo sua carta?",
+      "alternativas": ["Lucas", "Tito", "Timóteo", "Tíquico"],
+      "correta": 2,
+      "referência": "2 Timóteo 4:13"
+    },
+    {
+      "id": "CP-046",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "A quem Paulo ordena evitar 'falatórios inúteis' e 'genealogias intermináveis'?",
+      "alternativas": ["Timóteo", "Tito", "Filemom", "Silas"],
+      "correta": 1,
+      "referência": "Tito 3:9"
+    },
+    {
+      "id": "CP-047",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Qual igreja Paulo elogia por receber a palavra não como de homens, mas como palavra de Deus?",
+      "alternativas": ["Corinto", "Éfeso", "Tessalônica", "Colossos"],
+      "correta": 2,
+      "referência": "1 Tessalonicenses 2:13"
+    },
+    {
+      "id": "CP-048",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Qual carta menciona o 'homem interior' sendo fortalecido pelo Espírito?",
+      "alternativas": ["Romanos", "Efésios", "2 Coríntios", "Filipenses"],
+      "correta": 1,
+      "referência": "Efésios 3:16"
+    },
+    {
+      "id": "CP-049",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Qual epístola apresenta o hino cristológico que descreve Cristo esvaziando-se a si mesmo?",
+      "alternativas": ["Colossenses", "Romanos", "Filipenses", "Tito"],
+      "correta": 2,
+      "referência": "Filipenses 2:5-11"
+    },
+    {
+      "id": "CP-050",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Em qual carta Paulo alerta sobre falsos mestres que proíbem casamento e alimentos?",
+      "alternativas": ["Tito", "1 Timóteo", "Gálatas", "Colossenses"],
+      "correta": 1,
+      "referência": "1 Timóteo 4:1-3"
+    },
+
+    {
+      "id": "CP-051",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Quem abandonou Paulo, amando mais o presente século?",
+      "alternativas": ["Alexandre", "Demas", "Fileto", "Himeneu"],
+      "correta": 1,
+      "referência": "2 Timóteo 4:10"
+    },
+    {
+      "id": "CP-052",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Qual carta menciona que os crentes estão 'completos em Cristo'?",
+      "alternativas": ["Colossenses", "Efésios", "Romanos", "Tito"],
+      "correta": 0,
+      "referência": "Colossenses 2:10"
+    },
+    {
+      "id": "CP-053",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Quem Paulo instrui sobre o bom combate da fé, dizendo para guardar o mandamento sem mácula?",
+      "alternativas": ["Tito", "Timóteo", "Filemom", "Silas"],
+      "correta": 1,
+      "referência": "1 Timóteo 6:12-14"
+    },
+    {
+      "id": "CP-054",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Em qual carta Paulo fala sobre o perigo das obras da carne versus o fruto do Espírito?",
+      "alternativas": ["Romanos", "Efésios", "Gálatas", "Colossenses"],
+      "correta": 2,
+      "referência": "Gálatas 5:19-23"
+    },
+    {
+      "id": "CP-055",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Qual epístola ordena que tudo seja feito para a glória de Deus?",
+      "alternativas": ["Efésios", "Filipenses", "1 Coríntios", "Tito"],
+      "correta": 2,
+      "referência": "1 Coríntios 10:31"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "CP-056",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Qual carta afirma que os cristãos têm sua cidadania no céu?",
+      "alternativas": ["Efésios", "Filipenses", "Colossenses", "Romanos"],
+      "correta": 1,
+      "referência": "Filipenses 3:20"
+    },
+    {
+      "id": "CP-057",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Em qual carta Paulo menciona ter aprendido a viver contente em toda e qualquer situação?",
+      "alternativas": ["Tessalonicenses", "Filipenses", "Gálatas", "2 Coríntios"],
+      "correta": 1,
+      "referência": "Filipenses 4:11-12"
+    },
+    {
+      "id": "CP-058",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Qual epístola menciona o ‘homem do pecado’ e o ‘filho da perdição’?",
+      "alternativas": ["1 Coríntios", "2 Tessalonicenses", "Romanos", "1 Timóteo"],
+      "correta": 1,
+      "referência": "2 Tessalonicenses 2:3"
+    },
+    {
+      "id": "CP-059",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Qual carta descreve a luta do crente contra potestades espirituais da maldade?",
+      "alternativas": ["Efésios", "Gálatas", "Romanos", "Filipenses"],
+      "correta": 0,
+      "referência": "Efésios 6:12"
+    },
+    {
+      "id": "CP-060",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Que colaborador Paulo enviou à igreja de Éfeso, chamando-o de 'irmão amado e fiel ministro'?",
+      "alternativas": ["Tíquico", "Onésimo", "Lucas", "Barnabé"],
+      "correta": 0,
+      "referência": "Efésios 6:21"
+    },
+    {
+      "id": "CP-061",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Quem Paulo menciona como 'companheiro de lutas' na carta aos Colossenses?",
+      "alternativas": ["Epafras", "Marcos", "Demas", "Aristarco"],
+      "correta": 3,
+      "referência": "Colossenses 4:10"
+    },
+    {
+      "id": "CP-062",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Em qual carta Paulo usa a metáfora do corpo com muitos membros para ilustrar a unidade?",
+      "alternativas": ["Efésios", "Romanos", "1 Coríntios", "Gálatas"],
+      "correta": 2,
+      "referência": "1 Coríntios 12:12-27"
+    },
+    {
+      "id": "CP-063",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Quem foi deixado doente em Mileto, mencionado por Paulo?",
+      "alternativas": ["Tito", "Epafras", "Trófimo", "Crescente"],
+      "correta": 2,
+      "referência": "2 Timóteo 4:20"
+    },
+    {
+      "id": "CP-064",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Qual carta contém a famosa expressão 'Combati o bom combate'?",
+      "alternativas": ["1 Timóteo", "2 Timóteo", "Tito", "Colossenses"],
+      "correta": 1,
+      "referência": "2 Timóteo 4:7"
+    },
+    {
+      "id": "CP-065",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Em qual carta Paulo diz que aprendeu o 'segredo' de enfrentar qualquer situação?",
+      "alternativas": ["Gálatas", "Efésios", "Filipenses", "Romanos"],
+      "correta": 2,
+      "referência": "Filipenses 4:12"
+    },
+
+    {
+      "id": "CP-066",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Em qual epístola Paulo descreve que o Espírito intercede por nós com gemidos inexprimíveis?",
+      "alternativas": ["Colossenses", "Romanos", "Gálatas", "Efésios"],
+      "correta": 1,
+      "referência": "Romanos 8:26"
+    },
+    {
+      "id": "CP-067",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Qual carta cita que 'o salário do pecado é a morte'?",
+      "alternativas": ["Efésios", "Romanos", "Filipenses", "Gálatas"],
+      "correta": 1,
+      "referência": "Romanos 6:23"
+    },
+    {
+      "id": "CP-068",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Quem Paulo exorta a avivar o dom que recebeu pela imposição de mãos?",
+      "alternativas": ["Filemom", "Tito", "Timóteo", "Silas"],
+      "correta": 2,
+      "referência": "2 Timóteo 1:6"
+    },
+    {
+      "id": "CP-069",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Qual igreja foi elogiada por examinar diariamente as Escrituras para ver se era assim mesmo?",
+      "alternativas": ["Corinto", "Colossos", "Beréia", "Tessalônica"],
+      "correta": 2,
+      "referência": "Atos 17:11 (contexto ligado às cartas)"
+    },
+    {
+      "id": "CP-070",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Quem Paulo menciona como 'muito amado médico'?",
+      "alternativas": ["Lucas", "Tito", "Onésimo", "Aristarco"],
+      "correta": 0,
+      "referência": "Colossenses 4:14"
+    },
+    {
+      "id": "CP-071",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Quem abandonou Paulo e partiu para a Galácia?",
+      "alternativas": ["Demas", "Crescente", "Alexandre", "Trófimo"],
+      "correta": 1,
+      "referência": "2 Timóteo 4:10"
+    },
+    {
+      "id": "CP-072",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Qual carta descreve Cristo como 'a cabeça da igreja' e 'o primogênito dentre os mortos'?",
+      "alternativas": ["Efésios", "Colossenses", "Gálatas", "Romanos"],
+      "correta": 1,
+      "referência": "Colossenses 1:18"
+    },
+    {
+      "id": "CP-073",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Qual carta menciona que 'o amor é o vínculo da perfeição'?",
+      "alternativas": ["Efésios", "Gálatas", "Colossenses", "Filipenses"],
+      "correta": 2,
+      "referência": "Colossenses 3:14"
+    },
+    {
+      "id": "CP-074",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Quem resistiu a Pedro ‘na cara’, segundo Paulo?",
+      "alternativas": ["Silas", "Barnabé", "João Marcos", "Paulo"],
+      "correta": 3,
+      "referência": "Gálatas 2:11"
+    },
+    {
+      "id": "CP-075",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Qual epístola descreve que Cristo é 'tudo em todos'?",
+      "alternativas": ["Gálatas", "Colossenses", "Efésios", "Romanos"],
+      "correta": 1,
+      "referência": "Colossenses 3:11"
+    },
+    {
+      "id": "CP-076",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Quem Paulo manda receber com hospitalidade, pois era útil para o ministério?",
+      "alternativas": ["Marcos", "Demas", "Alexandre", "Crescente"],
+      "correta": 0,
+      "referência": "2 Timóteo 4:11"
+    },
+    {
+      "id": "CP-077",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Qual carta ordena que não sejamos vencidos pelo mal, mas vençamos o mal com o bem?",
+      "alternativas": ["Romanos", "Efésios", "Gálatas", "Colossenses"],
+      "correta": 0,
+      "referência": "Romanos 12:21"
+    },
+    {
+      "id": "CP-078",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Quem foi chamado por Paulo de ‘companheiro de prisão’?",
+      "alternativas": ["Aristarco", "Lucas", "Tito", "Barnabé"],
+      "correta": 0,
+      "referência": "Colossenses 4:10"
+    },
+    {
+      "id": "CP-079",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Quem Paulo deixou em Creta para cuidar das igrejas locais?",
+      "alternativas": ["Timóteo", "Tito", "Filemom", "Aristarco"],
+      "correta": 1,
+      "referência": "Tito 1:5"
+    },
+    {
+      "id": "CP-080",
+      "categoria": "cartas_paulinas",
+      "nível": "difícil",
+      "pergunta": "Qual carta contém a declaração: 'Não há condenação para os que estão em Cristo Jesus'?",
+      "alternativas": ["Romanos", "Gálatas", "Efésios", "Colossenses"],
+      "correta": 0,
+      "referência": "Romanos 8:1"
+    }
+  ]
+}
