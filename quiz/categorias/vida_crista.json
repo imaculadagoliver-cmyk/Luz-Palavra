@@ -1,0 +1,1047 @@
+{
+  "perguntas": [
+    {
+      "id": "VC-001",
+      "categoria": "vida_crista",
+      "nível": "fácil",
+      "pergunta": "Qual é o maior mandamento segundo Jesus?",
+      "alternativas": [
+        "Não matarás",
+        "Amar a Deus sobre todas as coisas",
+        "Guardar o sábado",
+        "Dar esmolas aos pobres"
+      ],
+      "correta": 1,
+      "referência": "Mateus 22:37-38"
+    },
+    {
+      "id": "VC-002",
+      "categoria": "vida_crista",
+      "nível": "fácil",
+      "pergunta": "Segundo Jesus, quem é o 'próximo' que devemos amar?",
+      "alternativas": [
+        "Os amigos",
+        "A família",
+        "Todos, inclusive inimigos",
+        "Somente quem nos faz bem"
+      ],
+      "correta": 2,
+      "referência": "Lucas 10:27-37"
+    },
+    {
+      "id": "VC-003",
+      "categoria": "vida_crista",
+      "nível": "fácil",
+      "pergunta": "Qual oração Jesus ensinou aos seus discípulos?",
+      "alternativas": [
+        "Oração sacerdotal",
+        "Oração de Jabez",
+        "Pai Nosso",
+        "Salmo 23"
+      ],
+      "correta": 2,
+      "referência": "Mateus 6:9-13"
+    },
+    {
+      "id": "VC-004",
+      "categoria": "vida_crista",
+      "nível": "fácil",
+      "pergunta": "Qual é o primeiro fruto do Espírito listado por Paulo?",
+      "alternativas": [
+        "Paz",
+        "Amor",
+        "Fidelidade",
+        "Domínio próprio"
+      ],
+      "correta": 1,
+      "referência": "Gálatas 5:22"
+    },
+    {
+      "id": "VC-005",
+      "categoria": "vida_crista",
+      "nível": "fácil",
+      "pergunta": "Quem disse: 'Sem fé é impossível agradar a Deus'?",
+      "alternativas": [
+        "Paulo",
+        "Pedro",
+        "Autor de Hebreus",
+        "Tiago"
+      ],
+      "correta": 2,
+      "referência": "Hebreus 11:6"
+    },
+    {
+      "id": "VC-006",
+      "categoria": "vida_crista",
+      "nível": "fácil",
+      "pergunta": "O que Jesus ensina sobre perdoar?",
+      "alternativas": [
+        "Perdoar três vezes",
+        "Perdoar até sete vezes",
+        "Perdoar setenta vezes sete",
+        "Perdoar somente se o outro se desculpar"
+      ],
+      "correta": 2,
+      "referência": "Mateus 18:22"
+    },
+    {
+      "id": "VC-007",
+      "categoria": "vida_crista",
+      "nível": "fácil",
+      "pergunta": "Segundo Jesus, quem verá a Deus?",
+      "alternativas": [
+        "Os misericordiosos",
+        "Os pobres de espírito",
+        "Os pacificadores",
+        "Os limpos de coração"
+      ],
+      "correta": 3,
+      "referência": "Mateus 5:8"
+    },
+    {
+      "id": "VC-008",
+      "categoria": "vida_crista",
+      "nível": "fácil",
+      "pergunta": "A fé sem obras é:",
+      "alternativas": ["Viva", "Morta", "Agradável", "Aprovada"],
+      "correta": 1,
+      "referência": "Tiago 2:17"
+    },
+    {
+      "id": "VC-009",
+      "categoria": "vida_crista",
+      "nível": "fácil",
+      "pergunta": "Quem é o Consolador prometido por Jesus?",
+      "alternativas": [
+        "Anjo Gabriel",
+        "Espírito Santo",
+        "Arcanjo Miguel",
+        "Profetas"
+      ],
+      "correta": 1,
+      "referência": "João 14:26"
+    },
+    {
+      "id": "VC-010",
+      "categoria": "vida_crista",
+      "nível": "fácil",
+      "pergunta": "O que Jesus ensina sobre onde devemos juntar tesouros?",
+      "alternativas": [
+        "Na terra",
+        "Nas riquezas",
+        "No céu",
+        "Em Jerusalém"
+      ],
+      "correta": 2,
+      "referência": "Mateus 6:19-20"
+    },
+
+    {
+      "id": "VC-011",
+      "categoria": "vida_crista",
+      "nível": "fácil",
+      "pergunta": "Qual é o segundo maior mandamento?",
+      "alternativas": [
+        "Honrar pai e mãe",
+        "Amar o próximo como a si mesmo",
+        "Não adulterar",
+        "Guardar o sábado"
+      ],
+      "correta": 1,
+      "referência": "Mateus 22:39"
+    },
+    {
+      "id": "VC-012",
+      "categoria": "vida_crista",
+      "nível": "fácil",
+      "pergunta": "Quem declarou: 'Eu sou o caminho, a verdade e a vida'?",
+      "alternativas": ["Pedro", "Paulo", "Jesus", "Moisés"],
+      "correta": 2,
+      "referência": "João 14:6"
+    },
+    {
+      "id": "VC-013",
+      "categoria": "vida_crista",
+      "nível": "fácil",
+      "pergunta": "O que Jesus ensina sobre julgar?",
+      "alternativas": [
+        "Que devemos julgar a todos",
+        "Que não devemos julgar hipócritamente",
+        "Que só devemos julgar os inimigos",
+        "Que julgar é pecado"
+      ],
+      "correta": 1,
+      "referência": "Mateus 7:1-5"
+    },
+    {
+      "id": "VC-014",
+      "categoria": "vida_crista",
+      "nível": "fácil",
+      "pergunta": "O que Jesus disse sobre a lâmpada do corpo?",
+      "alternativas": [
+        "É a boca",
+        "São os ouvidos",
+        "São os olhos",
+        "É o coração"
+      ],
+      "correta": 2,
+      "referência": "Mateus 6:22"
+    },
+    {
+      "id": "VC-015",
+      "categoria": "vida_crista",
+      "nível": "fácil",
+      "pergunta": "Quem é comparado ao homem prudente que construiu a casa sobre a rocha?",
+      "alternativas": [
+        "Quem é religioso",
+        "Quem lê a lei",
+        "Quem ouve e pratica a Palavra",
+        "Quem dá ofertas"
+      ],
+      "correta": 2,
+      "referência": "Mateus 7:24"
+    },
+    {
+      "id": "VC-016",
+      "categoria": "vida_crista",
+      "nível": "fácil",
+      "pergunta": "Segundo Jesus, o que torna uma pessoa realmente pura?",
+      "alternativas": [
+        "O que ela come",
+        "O que ela bebe",
+        "O que sai de sua boca",
+        "Sua aparência"
+      ],
+      "correta": 2,
+      "referência": "Mateus 15:11"
+    },
+    {
+      "id": "VC-017",
+      "categoria": "vida_crista",
+      "nível": "fácil",
+      "pergunta": "Quem disse que devemos orar sem cessar?",
+      "alternativas": ["Pedro", "João", "Paulo", "Tiago"],
+      "correta": 2,
+      "referência": "1 Tessalonicenses 5:17"
+    },
+    {
+      "id": "VC-018",
+      "categoria": "vida_crista",
+      "nível": "fácil",
+      "pergunta": "Qual atitude Deus ama, segundo Paulo?",
+      "alternativas": [
+        "O que dá por obrigação",
+        "O que dá com tristeza",
+        "O que dá com alegria",
+        "O que dá para ser visto"
+      ],
+      "correta": 2,
+      "referência": "2 Coríntios 9:7"
+    },
+    {
+      "id": "VC-019",
+      "categoria": "vida_crista",
+      "nível": "fácil",
+      "pergunta": "Segundo Jesus, onde dois ou três estiverem reunidos em seu nome, Ele estará:",
+      "alternativas": [
+        "No céu",
+        "No templo",
+        "No meio deles",
+        "Somente em oração"
+      ],
+      "correta": 2,
+      "referência": "Mateus 18:20"
+    },
+    {
+      "id": "VC-020",
+      "categoria": "vida_crista",
+      "nível": "fácil",
+      "pergunta": "O que lança fora o medo, segundo João?",
+      "alternativas": [
+        "A fé",
+        "A coragem",
+        "O perfeito amor",
+        "A esperança"
+      ],
+      "correta": 2,
+      "referência": "1 João 4:18"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "VC-021",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "O que significa 'negar a si mesmo' segundo Jesus?",
+      "alternativas": [
+        "Evitar prazeres",
+        "Colocar Deus acima das próprias vontades",
+        "Não ter bens",
+        "Viver isolado"
+      ],
+      "correta": 1,
+      "referência": "Lucas 9:23"
+    },
+    {
+      "id": "VC-022",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "Qual é a 'porta' pela qual devemos entrar, segundo Jesus?",
+      "alternativas": [
+        "A porta larga",
+        "A porta estreita",
+        "A porta do templo",
+        "A porta da sabedoria"
+      ],
+      "correta": 1,
+      "referência": "Mateus 7:13-14"
+    },
+    {
+      "id": "VC-023",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "Quem Paulo instruiu a 'combater o bom combate da fé'?",
+      "alternativas": ["Pedro", "Tito", "Timóteo", "Onésimo"],
+      "correta": 2,
+      "referência": "1 Timóteo 6:12"
+    },
+    {
+      "id": "VC-024",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "Qual atitude Jesus condena ao ensinar sobre esmolas?",
+      "alternativas": [
+        "Dar esmolas",
+        "Dar para ser visto pelos outros",
+        "Dar para familiares",
+        "Dar com alegria"
+      ],
+      "correta": 1,
+      "referência": "Mateus 6:1-4"
+    },
+    {
+      "id": "VC-025",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "O que Jesus orienta fazer ao ser ofendido?",
+      "alternativas": [
+        "Revidar",
+        "Evitar a pessoa",
+        "Perdoar e buscar reconciliação",
+        "Levar o caso ao tribunal"
+      ],
+      "correta": 2,
+      "referência": "Mateus 18:15"
+    },
+    {
+      "id": "VC-026",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "Qual princípio Jesus ensina sobre preocupação?",
+      "alternativas": [
+        "Planos eliminam preocupações",
+        "O justo não se preocupa",
+        "Cada dia tem seu próprio mal",
+        "Bens materiais trazem segurança"
+      ],
+      "correta": 2,
+      "referência": "Mateus 6:34"
+    },
+    {
+      "id": "VC-027",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "Qual é o modelo de liderança ensinado por Jesus?",
+      "alternativas": [
+        "Quem quer ser grande deve servir",
+        "Autoridade sem submissão",
+        "Liderança apenas espiritual",
+        "Força e poder"
+      ],
+      "correta": 0,
+      "referência": "Marcos 10:43-45"
+    },
+    {
+      "id": "VC-028",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "Segundo Paulo, qual é o 'salário do pecado'?",
+      "alternativas": ["Tristeza", "Doença", "Morte", "Perseguição"],
+      "correta": 2,
+      "referência": "Romanos 6:23"
+    },
+    {
+      "id": "VC-029",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "O que Jesus comparou ao fermento?",
+      "alternativas": [
+        "A fé",
+        "O Reino de Deus",
+        "O pecado dos fariseus",
+        "A oração"
+      ],
+      "correta": 2,
+      "referência": "Mateus 16:6"
+    },
+    {
+      "id": "VC-030",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "O que Jesus disse sobre acumular riquezas?",
+      "alternativas": [
+        "É essencial",
+        "Causa inveja",
+        "O coração se apega onde está o tesouro",
+        "É sinal de fé"
+      ],
+      "correta": 2,
+      "referência": "Mateus 6:21"
+    },
+
+    {
+      "id": "VC-031",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "Quais são os dois pilares que sustentam toda a Lei e os Profetas?",
+      "alternativas": [
+        "Fé e justiça",
+        "Amor a Deus e amor ao próximo",
+        "Jejum e oração",
+        "Sacrifícios e ofertas"
+      ],
+      "correta": 1,
+      "referência": "Mateus 22:40"
+    },
+    {
+      "id": "VC-032",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "O que Jesus ensina sobre onde realizar obras de justiça?",
+      "alternativas": [
+        "Em público",
+        "Em oculto, diante do Pai",
+        "No templo",
+        "Somente na comunidade"
+      ],
+      "correta": 1,
+      "referência": "Mateus 6:1-6"
+    },
+    {
+      "id": "VC-033",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "Qual é a 'vontade de Deus' segundo Paulo?",
+      "alternativas": [
+        "Que sejamos ricos",
+        "A nossa santificação",
+        "Que não soframos",
+        "Que vivamos sem regras"
+      ],
+      "correta": 1,
+      "referência": "1 Tessalonicenses 4:3"
+    },
+    {
+      "id": "VC-034",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "Quem afirmou: 'Posso todas as coisas naquele que me fortalece'?",
+      "alternativas": ["Pedro", "Davi", "Paulo", "Josué"],
+      "correta": 2,
+      "referência": "Filipenses 4:13"
+    },
+    {
+      "id": "VC-035",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "Qual é o conceito bíblico de 'andar em espírito'?",
+      "alternativas": [
+        "Ter visões",
+        "Evitar qualquer alegria",
+        "Viver guiado pelo Espírito e não pela carne",
+        "Isolar-se do mundo"
+      ],
+      "correta": 2,
+      "referência": "Gálatas 5:16"
+    },
+    {
+      "id": "VC-036",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "Quem disse: 'Eu e minha casa serviremos ao Senhor'?",
+      "alternativas": ["Davi", "Josué", "Moisés", "Samuel"],
+      "correta": 1,
+      "referência": "Josué 24:15"
+    },
+    {
+      "id": "VC-037",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "O que Jesus ensinou sobre a luz do cristão?",
+      "alternativas": [
+        "Que deve ser escondida",
+        "Que deve brilhar diante dos homens",
+        "Que só serve dentro do templo",
+        "Que não tem importância"
+      ],
+      "correta": 1,
+      "referência": "Mateus 5:14-16"
+    },
+    {
+      "id": "VC-038",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "O que Paulo diz que deve habitar ricamente em nós?",
+      "alternativas": [
+        "Boas obras",
+        "Sabedoria humana",
+        "A Palavra de Cristo",
+        "Rituais e tradições"
+      ],
+      "correta": 2,
+      "referência": "Colossenses 3:16"
+    },
+    {
+      "id": "VC-039",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "O que devemos fazer com a ansiedade segundo Pedro?",
+      "alternativas": [
+        "Ignorar",
+        "Guardar dentro",
+        "Lançar sobre Deus",
+        "Conversar apenas com amigos"
+      ],
+      "correta": 2,
+      "referência": "1 Pedro 5:7"
+    },
+    {
+      "id": "VC-040",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "Qual é a marca do verdadeiro discípulo, segundo Jesus?",
+      "alternativas": [
+        "Serviço",
+        "Conhecimento",
+        "Amor",
+        "Jejum"
+      ],
+      "correta": 2,
+      "referência": "João 13:35"
+    },
+
+    {
+      "id": "VC-041",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "O que significa 'renovar a mente' segundo Paulo?",
+      "alternativas": [
+        "Memorizar salmos",
+        "Mudança de pensamento pela Palavra",
+        "Evitar pessoas",
+        "Viver em silêncio"
+      ],
+      "correta": 1,
+      "referência": "Romanos 12:2"
+    },
+    {
+      "id": "VC-042",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "Qual é o chamado de Jesus para os cansados?",
+      "alternativas": [
+        "Trabalhar mais",
+        "Buscar descanso nele",
+        "Evitar responsabilidades",
+        "Viajar para o deserto"
+      ],
+      "correta": 1,
+      "referência": "Mateus 11:28"
+    },
+    {
+      "id": "VC-043",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "O que devemos fazer quando alguém nos amaldiçoa?",
+      "alternativas": [
+        "Retribuir",
+        "Ignorar",
+        "Abençoar",
+        "Se afastar para sempre"
+      ],
+      "correta": 2,
+      "referência": "Romanos 12:14"
+    },
+    {
+      "id": "VC-044",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "Como Jesus instrui a orar?",
+      "alternativas": [
+        "Repetindo palavras várias vezes",
+        "Para ser visto",
+        "Em secreto ao Pai",
+        "Apenas no templo"
+      ],
+      "correta": 2,
+      "referência": "Mateus 6:6"
+    },
+    {
+      "id": "VC-045",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "O que Paulo recomenda sobre o uso dos dons?",
+      "alternativas": [
+        "Usá-los somente individualmente",
+        "Competir entre si",
+        "Usá-los para edificação do corpo",
+        "Guardá-los para ocasiões especiais"
+      ],
+      "correta": 2,
+      "referência": "1 Coríntios 12–14"
+    },
+    {
+      "id": "VC-046",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "O que deve governar o coração do cristão?",
+      "alternativas": [
+        "Ambição",
+        "Medo",
+        "Ganância",
+        "A paz de Cristo"
+      ],
+      "correta": 3,
+      "referência": "Colossenses 3:15"
+    },
+    {
+      "id": "VC-047",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "Como Tiago descreve a sabedoria que vem do alto?",
+      "alternativas": [
+        "Terrena",
+        "Pura, pacífica e cheia de misericórdia",
+        "Agressiva",
+        "Cheia de discussão"
+      ],
+      "correta": 1,
+      "referência": "Tiago 3:17"
+    },
+    {
+      "id": "VC-048",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "Segundo Jesus, onde está o tesouro do cristão?",
+      "alternativas": [
+        "No coração",
+        "No trabalho",
+        "Na terra",
+        "No céu"
+      ],
+      "correta": 3,
+      "referência": "Mateus 6:20"
+    },
+    {
+      "id": "VC-049",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "O que Paulo diz que devemos fazer com o velho homem?",
+      "alternativas": [
+        "Reformá-lo",
+        "Aprimorá-lo",
+        "Despojá-lo",
+        "Escondê-lo"
+      ],
+      "correta": 2,
+      "referência": "Efésios 4:22"
+    },
+    {
+      "id": "VC-050",
+      "categoria": "vida_crista",
+      "nível": "médio",
+      "pergunta": "Qual é o maior exemplo de amor segundo o Novo Testamento?",
+      "alternativas": [
+        "Curar doentes",
+        "Ajudar os pobres",
+        "Dar a vida pelo outro",
+        "Perdoar setenta vezes sete"
+      ],
+      "correta": 2,
+      "referência": "João 15:13"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "VC-051",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "O que significa 'tomar a cruz' segundo o ensino de Jesus?",
+      "alternativas": [
+        "Viver em sofrimento constante",
+        "Renunciar a si mesmo e seguir a Cristo",
+        "Carregar um peso simbólico",
+        "Viver em pobreza"
+      ],
+      "correta": 1,
+      "referência": "Mateus 16:24"
+    },
+    {
+      "id": "VC-052",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "Segundo Paulo, qual é o verdadeiro culto racional?",
+      "alternativas": [
+        "Ir ao templo aos domingos",
+        "Guardar dias santos",
+        "Apresentar o corpo como sacrifício vivo",
+        "Orar três vezes ao dia"
+      ],
+      "correta": 2,
+      "referência": "Romanos 12:1"
+    },
+    {
+      "id": "VC-053",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "Segundo Jesus, quem ouve Sua palavra e não pratica é comparado a quem?",
+      "alternativas": [
+        "A uma árvore sem fruto",
+        "A um discípulo fraco",
+        "A um insensato que construiu na areia",
+        "A um fariseu"
+      ],
+      "correta": 2,
+      "referência": "Mateus 7:26"
+    },
+    {
+      "id": "VC-054",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "O que Paulo afirma sobre 'as obras da carne'?",
+      "alternativas": [
+        "Serão aperfeiçoadas com o tempo",
+        "São irrelevantes",
+        "São opostas ao Espírito",
+        "Produzem fé"
+      ],
+      "correta": 2,
+      "referência": "Gálatas 5:17"
+    },
+    {
+      "id": "VC-055",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "Qual capítulo bíblico é conhecido como 'o capítulo do amor'?",
+      "alternativas": ["João 3", "Romanos 8", "1 Coríntios 13", "Salmo 91"],
+      "correta": 2,
+      "referência": "1 Coríntios 13"
+    },
+    {
+      "id": "VC-056",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "O que Jesus quis dizer ao afirmar: 'A boca fala do que está cheio o coração'?",
+      "alternativas": [
+        "Que devemos falar menos",
+        "Que o caráter se revela pelas palavras",
+        "Que a oração deve ser silenciosa",
+        "Que devemos guardar segredos"
+      ],
+      "correta": 1,
+      "referência": "Mateus 12:34"
+    },
+    {
+      "id": "VC-057",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "Segundo Tiago, qual é a religião pura e imaculada?",
+      "alternativas": [
+        "Ir ao templo regularmente",
+        "Jejuar duas vezes por semana",
+        "Visitar órfãos e viúvas e guardar-se da corrupção do mundo",
+        "Evitar contato com pecadores"
+      ],
+      "correta": 2,
+      "referência": "Tiago 1:27"
+    },
+    {
+      "id": "VC-058",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "O que Paulo instrui sobre como responder aos que nos perguntam sobre a esperança que há em nós?",
+      "alternativas": [
+        "Com sabedoria humana",
+        "Com debates teológicos",
+        "Com mansidão e temor",
+        "Com autoridade e rigor"
+      ],
+      "correta": 2,
+      "referência": "1 Pedro 3:15"
+    },
+    {
+      "id": "VC-059",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "Qual é a estratégia bíblica para vencer o mal?",
+      "alternativas": [
+        "Evitar pessoas",
+        "Fugir do mundo",
+        "Vencer o mal com o bem",
+        "Revidar proporcionalmente"
+      ],
+      "correta": 2,
+      "referência": "Romanos 12:21"
+    },
+    {
+      "id": "VC-060",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "Segundo Hebreus, como devemos nos aproximar do trono da graça?",
+      "alternativas": [
+        "Com medo",
+        "Com dúvida",
+        "Com confiança",
+        "Com sacrifícios"
+      ],
+      "correta": 2,
+      "referência": "Hebreus 4:16"
+    },
+
+    {
+      "id": "VC-061",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "Qual é a consequência de 'andar na carne', segundo Paulo?",
+      "alternativas": ["Paz", "Vida longa", "Morte", "Sabedoria"],
+      "correta": 2,
+      "referência": "Romanos 8:13"
+    },
+    {
+      "id": "VC-062",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "Quem disse: 'Levai as cargas uns dos outros'?",
+      "alternativas": ["Pedro", "João", "Paulo", "Tiago"],
+      "correta": 2,
+      "referência": "Gálatas 6:2"
+    },
+    {
+      "id": "VC-063",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "Qual é o 'laço da perfeição' mencionado por Paulo?",
+      "alternativas": ["A fé", "A esperança", "O amor", "A justiça"],
+      "correta": 2,
+      "referência": "Colossenses 3:14"
+    },
+    {
+      "id": "VC-064",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "Qual arma da armadura de Deus é descrita como 'espada'?",
+      "alternativas": ["Fé", "Justiça", "Salvação", "A Palavra de Deus"],
+      "correta": 3,
+      "referência": "Efésios 6:17"
+    },
+    {
+      "id": "VC-065",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "Qual é o único pecado que Jesus disse não ter perdão?",
+      "alternativas": [
+        "Adultério",
+        "Homicídio",
+        "Blasfêmia contra o Espírito Santo",
+        "Amar o dinheiro"
+      ],
+      "correta": 2,
+      "referência": "Marcos 3:29"
+    },
+    {
+      "id": "VC-066",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "Segundo Paulo, a fé opera por meio de quê?",
+      "alternativas": ["Justiça", "Amor", "Jejum", "Oração"],
+      "correta": 1,
+      "referência": "Gálatas 5:6"
+    },
+    {
+      "id": "VC-067",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "Quem afirmou que a língua é 'um fogo' e pode incendiar toda a existência?",
+      "alternativas": ["Paulo", "Pedro", "Tiago", "Judas Tadeu"],
+      "correta": 2,
+      "referência": "Tiago 3:6"
+    },
+    {
+      "id": "VC-068",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "Segundo Jesus, qual evidência mostra que a árvore é boa?",
+      "alternativas": ["O solo", "O tamanho do tronco", "Os frutos", "A cor das folhas"],
+      "correta": 2,
+      "referência": "Mateus 7:17"
+    },
+    {
+      "id": "VC-069",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "Qual é o sacrifício agradável a Deus mencionado em Hebreus?",
+      "alternativas": ["Louvor", "Trabalho", "Jejum", "Dízimo"],
+      "correta": 0,
+      "referência": "Hebreus 13:15"
+    },
+    {
+      "id": "VC-070",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "O que significa 'andar em novidade de vida'?",
+      "alternativas": [
+        "Mudar hábitos externos",
+        "Viver em santidade após a união com Cristo",
+        "Abandonar responsabilidades",
+        "Ter visões espirituais"
+      ],
+      "correta": 1,
+      "referência": "Romanos 6:4"
+    },
+
+    {
+      "id": "VC-071",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "O que Jesus diz sobre servir a dois senhores?",
+      "alternativas": [
+        "É difícil, mas possível",
+        "É impossível",
+        "Apenas em casos extremos",
+        "Somente para líderes"
+      ],
+      "correta": 1,
+      "referência": "Mateus 6:24"
+    },
+    {
+      "id": "VC-072",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "Qual virtude Paulo coloca acima da fé e da esperança?",
+      "alternativas": ["Obediência", "Amor", "Conhecimento", "Sabedoria"],
+      "correta": 1,
+      "referência": "1 Coríntios 13:13"
+    },
+    {
+      "id": "VC-073",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "O que significa 'ser sal da terra'?",
+      "alternativas": [
+        "Ser o mais importante",
+        "Influenciar o mundo com santidade e verdade",
+        "Ser admirado",
+        "Isolar-se do mundo"
+      ],
+      "correta": 1,
+      "referência": "Mateus 5:13"
+    },
+    {
+      "id": "VC-074",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "Quem disse: 'Já não sou eu quem vivo, mas Cristo vive em mim'?",
+      "alternativas": ["Pedro", "Tiago", "Paulo", "Estevão"],
+      "correta": 2,
+      "referência": "Gálatas 2:20"
+    },
+    {
+      "id": "VC-075",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "Qual é a atitude correta ao fazer boas obras?",
+      "alternativas": [
+        "Esperar reconhecimento",
+        "Fazer em segredo",
+        "Anunciar nas praças",
+        "Aguardar recompensa humana"
+      ],
+      "correta": 1,
+      "referência": "Mateus 6:3-4"
+    },
+    {
+      "id": "VC-076",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "Segundo Paulo, o que leva ao arrependimento?",
+      "alternativas": [
+        "Medo",
+        "Punição",
+        "A bondade de Deus",
+        "A vergonha"
+      ],
+      "correta": 2,
+      "referência": "Romanos 2:4"
+    },
+    {
+      "id": "VC-077",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "Qual é a verdadeira liberdade em Cristo?",
+      "alternativas": [
+        "Fazer tudo que se deseja",
+        "Não ter regras",
+        "Ser liberto do pecado para servir a Deus",
+        "Não sofrer consequências"
+      ],
+      "correta": 2,
+      "referência": "Romanos 6:18"
+    },
+    {
+      "id": "VC-078",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "Segundo Jesus, o que acontece com o galho que não produz fruto?",
+      "alternativas": [
+        "É regado",
+        "É aprimorado",
+        "É cortado e lançado fora",
+        "É guardado"
+      ],
+      "correta": 2,
+      "referência": "João 15:2"
+    },
+    {
+      "id": "VC-079",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "Qual é o propósito dos dons do Espírito?",
+      "alternativas": [
+        "Elevar o indivíduo",
+        "Mostrar status espiritual",
+        "Edificar a igreja",
+        "Criar distinções"
+      ],
+      "correta": 2,
+      "referência": "1 Coríntios 12:7"
+    },
+    {
+      "id": "VC-080",
+      "categoria": "vida_crista",
+      "nível": "difícil",
+      "pergunta": "Qual é o principal chamado do cristão segundo Jesus?",
+      "alternativas": [
+        "Realizar milagres",
+        "Cumprir a Lei",
+        "Permanecer nele e dar frutos",
+        "Acumular conhecimento"
+      ],
+      "correta": 2,
+      "referência": "João 15:5"
+    }
+  ]
+}
