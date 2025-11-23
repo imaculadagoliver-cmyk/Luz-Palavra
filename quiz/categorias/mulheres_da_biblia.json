@@ -1,0 +1,647 @@
+{
+  "perguntas": [
+    {
+      "id": "MB-001",
+      "categoria": "mulheres_da_biblia",
+      "nível": "fácil",
+      "pergunta": "Quem foi a primeira mulher criada por Deus?",
+      "alternativas": ["Eva", "Sara", "Rebeca", "Lia"],
+      "correta": 0,
+      "referência": "Gênesis 2:22"
+    },
+    {
+      "id": "MB-002",
+      "categoria": "mulheres_da_biblia",
+      "nível": "fácil",
+      "pergunta": "Quem foi a esposa de Abraão?",
+      "alternativas": ["Ana", "Sara", "Rebeca", "Raquel"],
+      "correta": 1,
+      "referência": "Gênesis 17:15"
+    },
+    {
+      "id": "MB-003",
+      "categoria": "mulheres_da_biblia",
+      "nível": "fácil",
+      "pergunta": "Quem foi a mãe de Samuel?",
+      "alternativas": ["Ana", "Noemi", "Marta", "Débora"],
+      "correta": 0,
+      "referência": "1 Samuel 1:20"
+    },
+    {
+      "id": "MB-004",
+      "categoria": "mulheres_da_biblia",
+      "nível": "fácil",
+      "pergunta": "Quem foi a mulher que virou uma estátua de sal?",
+      "alternativas": ["A mulher de Potifar", "A mulher de Ló", "A mulher de Faraó", "A mulher de Arão"],
+      "correta": 1,
+      "referência": "Gênesis 19:26"
+    },
+    {
+      "id": "MB-005",
+      "categoria": "mulheres_da_biblia",
+      "nível": "fácil",
+      "pergunta": "Quem foi escolhida para ser rainha da Pérsia e salvou seu povo?",
+      "alternativas": ["Ester", "Débora", "Rute", "Abigail"],
+      "correta": 0,
+      "referência": "Ester 4:14"
+    },
+    {
+      "id": "MB-006",
+      "categoria": "mulheres_da_biblia",
+      "nível": "fácil",
+      "pergunta": "Quem foi a sogra de Rute?",
+      "alternativas": ["Ester", "Noemi", "Ana", "Raquel"],
+      "correta": 1,
+      "referência": "Rute 1:2"
+    },
+    {
+      "id": "MB-007",
+      "categoria": "mulheres_da_biblia",
+      "nível": "fácil",
+      "pergunta": "Quem foi a mãe de Jesus?",
+      "alternativas": ["Marta", "Maria", "Elisabete", "Noemi"],
+      "correta": 1,
+      "referência": "Lucas 1:30-31"
+    },
+    {
+      "id": "MB-008",
+      "categoria": "mulheres_da_biblia",
+      "nível": "fácil",
+      "pergunta": "Quem foi a primeira pessoa a ver Jesus ressuscitado?",
+      "alternativas": ["Marta", "Maria Madalena", "A samaritana", "Salomé"],
+      "correta": 1,
+      "referência": "João 20:16"
+    },
+    {
+      "id": "MB-009",
+      "categoria": "mulheres_da_biblia",
+      "nível": "fácil",
+      "pergunta": "Quem foi vendida como escrava no Egito e serviu na casa de Potifar?",
+      "alternativas": ["Ester", "Lia", "Zilpa", "A esposa de José não é mulher bíblica"],
+      "correta": 3,
+      "referência": "Gênesis 39 (contexto geral)"
+    },
+    {
+      "id": "MB-010",
+      "categoria": "mulheres_da_biblia",
+      "nível": "fácil",
+      "pergunta": "Quem foi mãe de Jacó e Esaú?",
+      "alternativas": ["Raquel", "Rebeca", "Lia", "Sara"],
+      "correta": 1,
+      "referência": "Gênesis 25:21-26"
+    },
+
+    {
+      "id": "MB-011",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Quem era a profetisa e juíza que liderou Israel junto com Baraque?",
+      "alternativas": ["Ana", "Débora", "Mical", "Abigail"],
+      "correta": 1,
+      "referência": "Juízes 4:4"
+    },
+    {
+      "id": "MB-012",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Qual mulher escondeu os espias israelitas em Jericó?",
+      "alternativas": ["Rute", "Raabe", "Ester", "Mical"],
+      "correta": 1,
+      "referência": "Josué 2:1-7"
+    },
+    {
+      "id": "MB-013",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Quem foi acusada injustamente pelo marido de não apresentar provas de virgindade?",
+      "alternativas": ["Lia", "Mical", "A mulher descrita em Deuteronômio 22", "Zilpa"],
+      "correta": 2,
+      "referência": "Deuteronômio 22:13-19"
+    },
+    {
+      "id": "MB-014",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Quem era a mulher estrangeira que tornou-se ancestral de Davi?",
+      "alternativas": ["Mical", "Rute", "Raquel", "Joquebede"],
+      "correta": 1,
+      "referência": "Rute 4:13-22"
+    },
+    {
+      "id": "MB-015",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Quem confrontou o rei Davi dizendo que ele era 'o homem' do pecado?",
+      "alternativas": ["Ester", "Bate-Seba", "Abigail", "Esta não é mulher — foi o profeta Natã"],
+      "correta": 3,
+      "referência": "2 Samuel 12:7"
+    },
+    {
+      "id": "MB-016",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Quem foi irmã de Moisés e Arão e também profetisa?",
+      "alternativas": ["Joquebede", "Miriã", "Ana", "Lia"],
+      "correta": 1,
+      "referência": "Êxodo 15:20"
+    },
+    {
+      "id": "MB-017",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Quem foi mãe de João Batista?",
+      "alternativas": ["Marta", "Miriã", "Elisabete", "Salomé"],
+      "correta": 2,
+      "referência": "Lucas 1:41-43"
+    },
+    {
+      "id": "MB-018",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Quem foi a esposa de Nabal que depois se casou com Davi?",
+      "alternativas": ["Mical", "Abigail", "Bate-Seba", "Raquel"],
+      "correta": 1,
+      "referência": "1 Samuel 25:32-42"
+    },
+    {
+      "id": "MB-019",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Quem foi enganada por Jacó para casar com ele no lugar de sua irmã?",
+      "alternativas": ["Raquel", "Lia", "Zilpa", "Diná"],
+      "correta": 1,
+      "referência": "Gênesis 29:23"
+    },
+    {
+      "id": "MB-020",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Quem foi a mãe de Sansão?",
+      "alternativas": ["Zilpa", "A mulher de Manoá", "Jael", "Débora"],
+      "correta": 1,
+      "referência": "Juízes 13:2-3"
+    },
+
+    {
+      "id": "MB-021",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Qual mulher ungiu a cabeça de Jesus com um vaso de alabastro?",
+      "alternativas": ["Maria de Betânia", "Marta", "Maria Madalena", "Ester"],
+      "correta": 0,
+      "referência": "Mateus 26:7"
+    },
+    {
+      "id": "MB-022",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Quem foi mãe dos apóstolos Tiago e João?",
+      "alternativas": ["Ester", "Lia", "Salomé", "Maria"],
+      "correta": 2,
+      "referência": "Mateus 27:56"
+    },
+    {
+      "id": "MB-023",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Quem morreu ao dar à luz Benjamim?",
+      "alternativas": ["Sara", "Raquel", "Rebeca", "Lia"],
+      "correta": 1,
+      "referência": "Gênesis 35:16-19"
+    },
+    {
+      "id": "MB-024",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Quem era a profetisa idosa que reconheceu o Messias no templo quando Ele era bebê?",
+      "alternativas": ["Marta", "Ana", "Mical", "Maria de Betânia"],
+      "correta": 1,
+      "referência": "Lucas 2:36-38"
+    },
+    {
+      "id": "MB-025",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Quem era considerada justa e temente a Deus e abriu sua casa para Paulo e Silas?",
+      "alternativas": ["Lídia", "Dorcas", "Priscila", "Febe"],
+      "correta": 0,
+      "referência": "Atos 16:14-15"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "MB-026",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Qual mulher morreu ao ser confrontada pelo apóstolo Pedro por mentir ao Espírito Santo?",
+      "alternativas": ["Safira", "Priscila", "Febe", "Lídia"],
+      "correta": 0,
+      "referência": "Atos 5:7-10"
+    },
+    {
+      "id": "MB-027",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Qual mulher escondeu seu filho recém-nascido por três meses para protegê-lo?",
+      "alternativas": ["Joquebede", "Ana", "Sara", "Miriã"],
+      "correta": 0,
+      "referência": "Êxodo 2:1-3"
+    },
+    {
+      "id": "MB-028",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Quem aconselhou seu marido a consultar o profeta Samuel mesmo após sua morte?",
+      "alternativas": ["A feiticeira de En-Dor", "Mical", "Abigail", "Dalila"],
+      "correta": 0,
+      "referência": "1 Samuel 28:7"
+    },
+    {
+      "id": "MB-029",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Quem foi a mulher que matou Sísera com uma estaca?",
+      "alternativas": ["Débora", "Jael", "Hulda", "Abigail"],
+      "correta": 1,
+      "referência": "Juízes 4:21"
+    },
+    {
+      "id": "MB-030",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Qual rainha usurpou o trono e matou descendentes reais, exceto Joás?",
+      "alternativas": ["Atalia", "Ester", "Mical", "Hulda"],
+      "correta": 0,
+      "referência": "2 Reis 11:1-3"
+    },
+    {
+      "id": "MB-031",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Qual mulher é lembrada como 'vendedora de púrpura'?",
+      "alternativas": ["Lídia", "Priscila", "Febe", "Dorcas"],
+      "correta": 0,
+      "referência": "Atos 16:14"
+    },
+    {
+      "id": "MB-032",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Qual mulher foi severamente criticada por Davi dançar diante da arca?",
+      "alternativas": ["Bate-Seba", "Mical", "Raabe", "Lia"],
+      "correta": 1,
+      "referência": "2 Samuel 6:16"
+    },
+    {
+      "id": "MB-033",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Quem foi Ana, mencionada no Novo Testamento?",
+      "alternativas": ["Irmã de Marta", "Profetisa que viu Jesus bebê", "Mãe de João Marcos", "Discípula que morava em Jope"],
+      "correta": 1,
+      "referência": "Lucas 2:36-38"
+    },
+    {
+      "id": "MB-034",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Quem era a sogra de Pedro que foi curada por Jesus?",
+      "alternativas": ["Ester", "Lídia", "A sogra de Pedro não tem nome revelado", "Dorcas"],
+      "correta": 2,
+      "referência": "Marcos 1:29-31"
+    },
+    {
+      "id": "MB-035",
+      "categoria": "mulheres_da_biblia",
+      "nível": "médio",
+      "pergunta": "Qual mulher persuadiu seu marido Nabal a não agir tolamente contra Davi?",
+      "alternativas": ["Abigail", "Mical", "Rute", "Raquel"],
+      "correta": 0,
+      "referência": "1 Samuel 25:18-31"
+    },
+
+    {
+      "id": "MB-036",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem foi a mulher que interpretou o sonho de seu marido sobre ser morto por causa de uma mulher?",
+      "alternativas": ["Abigail", "Raquel", "Priscila", "E ninguém — isso é sobre Abimeleque e Sara"],
+      "correta": 3,
+      "referência": "Gênesis 20:3"
+    },
+    {
+      "id": "MB-037",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem era a mulher que quebrou um vaso de alabastro sobre Jesus sendo criticada por Judas?",
+      "alternativas": ["Marta", "Maria de Betânia", "Salomé", "Raabe"],
+      "correta": 1,
+      "referência": "João 12:3-6"
+    },
+    {
+      "id": "MB-038",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Qual mulher se destacou no ministério apostólico ao lado de seu marido ensinando Apolo?",
+      "alternativas": ["Lídia", "Priscila", "Febe", "Dorcas"],
+      "correta": 1,
+      "referência": "Atos 18:26"
+    },
+    {
+      "id": "MB-039",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem foi a mulher que morreu após mentir sobre a quantia entregue à igreja?",
+      "alternativas": ["Safira", "Lídia", "Dorcas", "Raabe"],
+      "correta": 0,
+      "referência": "Atos 5:7-10"
+    },
+    {
+      "id": "MB-040",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Qual mulher acolheu Paulo e sua equipe missionária em Filipos?",
+      "alternativas": ["Priscila", "Lídia", "Febe", "Dorcas"],
+      "correta": 1,
+      "referência": "Atos 16:14-15"
+    },
+    {
+      "id": "MB-041",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem era a rainha que se recusou a comparecer diante do rei durante o banquete?",
+      "alternativas": ["Ester", "Vasti", "Atalia", "Zeruia"],
+      "correta": 1,
+      "referência": "Ester 1:10-12"
+    },
+    {
+      "id": "MB-042",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem ungiu Jesus na casa do fariseu Simão?",
+      "alternativas": ["Maria Madalena", "Uma mulher pecadora sem nome", "Marta", "Priscila"],
+      "correta": 1,
+      "referência": "Lucas 7:37-38"
+    },
+    {
+      "id": "MB-043",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem era a mulher que vivia entre os sepulcros e foi libertada por Jesus?",
+      "alternativas": ["A samaritana", "A mulher encurvada", "A mulher gadarena", "Nenhuma — era um homem gadareno"],
+      "correta": 3,
+      "referência": "Marcos 5:1-20"
+    },
+    {
+      "id": "MB-044",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem foi a mulher que escondeu Davi dos soldados de Saul cobrindo-o com uma rede?",
+      "alternativas": ["Mical", "Abigail", "Joquebede", "Miriã"],
+      "correta": 0,
+      "referência": "1 Samuel 19:12-17"
+    },
+    {
+      "id": "MB-045",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem era a mulher citada por Paulo como 'diaconisa da igreja em Cencréia'?",
+      "alternativas": ["Priscila", "Febe", "Dorcas", "Lídia"],
+      "correta": 1,
+      "referência": "Romanos 16:1"
+    },
+
+    {
+      "id": "MB-046",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem foi a mulher que enganou Sansão revelando o segredo de sua força?",
+      "alternativas": ["Raabe", "Dalila", "Mical", "Atalia"],
+      "correta": 1,
+      "referência": "Juízes 16:4-20"
+    },
+    {
+      "id": "MB-047",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem era a mulher que fabricava roupas e túnicas para os necessitados?",
+      "alternativas": ["Lídia", "Dorcas", "Priscila", "Marta"],
+      "correta": 1,
+      "referência": "Atos 9:36-39"
+    },
+    {
+      "id": "MB-048",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem foi a mulher que repreendeu seu marido por jurar matar Davi?",
+      "alternativas": ["Mical", "Abigail", "Raquel", "Débora"],
+      "correta": 1,
+      "referência": "1 Samuel 25:23-31"
+    },
+    {
+      "id": "MB-049",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem era a mulher que pediu a Salomão para dividir a criança ao meio?",
+      "alternativas": ["A mãe verdadeira", "A prostituta que mentiu", "A rainha de Sabá", "A mulher sunamita"],
+      "correta": 1,
+      "referência": "1 Reis 3:16-27"
+    },
+    {
+      "id": "MB-050",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Qual mulher aparece entre os 120 reunidos no Pentecostes?",
+      "alternativas": ["Lídia", "Maria, mãe de Jesus", "Ester", "Raabe"],
+      "correta": 1,
+      "referência": "Atos 1:14"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "MB-051",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem foi a mulher que consultou Eliseu a respeito da perda de sua terra e foi restaurada pelo rei?",
+      "alternativas": ["A sunamita", "A viúva de Sarepta", "A mulher de Obadias", "A mulher samaritana"],
+      "correta": 0,
+      "referência": "2 Reis 8:3-6"
+    },
+    {
+      "id": "MB-052",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Qual mulher é mencionada como temente a Deus e responsável por instruir Timóteo nas Escrituras desde a infância?",
+      "alternativas": ["Lídia", "Eunice", "Loide", "Ana"],
+      "correta": 1,
+      "referência": "2 Timóteo 1:5"
+    },
+    {
+      "id": "MB-053",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem foi a mulher que viu Pedro bater à porta após ser libertado da prisão?",
+      "alternativas": ["Dorcas", "Marta", "Rode", "Mical"],
+      "correta": 2,
+      "referência": "Atos 12:13-14"
+    },
+    {
+      "id": "MB-054",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Qual mulher intercedeu por Davi diante de Absalão e conseguiu permissão para seu retorno?",
+      "alternativas": ["A mulher de Tecoa", "Mical", "Abigail", "Hulda"],
+      "correta": 0,
+      "referência": "2 Samuel 14:1-20"
+    },
+    {
+      "id": "MB-055",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem foi a mulher que acusou falsamente José, levando-o à prisão?",
+      "alternativas": ["Raquel", "A mulher de Potifar", "Zilpa", "Mical"],
+      "correta": 1,
+      "referência": "Gênesis 39:7-20"
+    },
+    {
+      "id": "MB-056",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Qual mulher foi castigada com lepra por murmurar contra Moisés?",
+      "alternativas": ["Lia", "Raabe", "Miriã", "Noemi"],
+      "correta": 2,
+      "referência": "Números 12:1-10"
+    },
+    {
+      "id": "MB-057",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem foi a mulher que, ao ser curada por Jesus, permaneceu encurvada por dezoito anos?",
+      "alternativas": ["A mulher com fluxo de sangue", "A mulher encurvada", "A mulher samaritana", "A mulher siro-fenícia"],
+      "correta": 1,
+      "referência": "Lucas 13:11-13"
+    },
+    {
+      "id": "MB-058",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem foi a mulher que usou um ídolo doméstico para enganar seu pai e fugir de casa?",
+      "alternativas": ["Raquel", "Lia", "Zilpa", "Joquebede"],
+      "correta": 0,
+      "referência": "Gênesis 31:34-35"
+    },
+    {
+      "id": "MB-059",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Qual mulher foi responsável por salvar Moisés quando ele era bebê?",
+      "alternativas": ["Joquebede", "A filha de Faraó", "Miriã", "Zípora"],
+      "correta": 1,
+      "referência": "Êxodo 2:5-10"
+    },
+    {
+      "id": "MB-060",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Qual mulher se pintou e se adornou antes de enfrentar seu fim, sendo depois devorada por cães?",
+      "alternativas": ["Atalia", "Atalia", "Jezabel", "Vasti"],
+      "correta": 2,
+      "referência": "2 Reis 9:30-37"
+    },
+
+    {
+      "id": "MB-061",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem foi a mulher que quebrou seu cântaro ao reconhecer o Messias?",
+      "alternativas": ["A mulher adúltera", "A mulher encurvada", "A mulher samaritana", "Maria Madalena"],
+      "correta": 2,
+      "referência": "João 4:28"
+    },
+    {
+      "id": "MB-062",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem foi a mulher que buscou Eliseu para pedir a ressurreição de seu filho?",
+      "alternativas": ["A sunamita", "A viúva de Sarepta", "A mulher siro-fenícia", "Ana"],
+      "correta": 0,
+      "referência": "2 Reis 4:18-37"
+    },
+    {
+      "id": "MB-063",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem era a mulher mencionada como 'boa obreira' que fazia obras de caridade e morreu sendo ressuscitada por Pedro?",
+      "alternativas": ["Lídia", "Dorcas (Tabita)", "Priscila", "Febe"],
+      "correta": 1,
+      "referência": "Atos 9:36-41"
+    },
+    {
+      "id": "MB-064",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem foi a mulher que tentou impedir Davi de derramar sangue inocente?",
+      "alternativas": ["Mical", "Abigail", "Raquel", "Zilpa"],
+      "correta": 1,
+      "referência": "1 Samuel 25:23-31"
+    },
+    {
+      "id": "MB-065",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem era a mulher que ajudava Paulo e era conhecida por hospedar a igreja em sua casa?",
+      "alternativas": ["Priscila", "Lídia", "Febe", "Cloe"],
+      "correta": 3,
+      "referência": "1 Coríntios 1:11"
+    },
+    {
+      "id": "MB-066",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem foi a mulher que teve sua filha curada e demonstrou grande fé apesar de ser gentia?",
+      "alternativas": ["Maria de Betânia", "A viúva de Naim", "A mulher siro-fenícia", "A mulher com fluxo de sangue"],
+      "correta": 2,
+      "referência": "Marcos 7:24-30"
+    },
+    {
+      "id": "MB-067",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem alertou seu marido sobre o perigo de acolher Davi?",
+      "alternativas": ["Abigail", "Raquel", "Lia", "A mulher de Joabe"],
+      "correta": 0,
+      "referência": "1 Samuel 25"
+    },
+    {
+      "id": "MB-068",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Qual mulher aparece nos evangelhos doando tudo o que tinha em oferta a Deus?",
+      "alternativas": ["Uma viúva pobre", "A samaritana", "Maria Madalena", "Salomé"],
+      "correta": 0,
+      "referência": "Marcos 12:41-44"
+    },
+    {
+      "id": "MB-069",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Quem era a mulher que ajudava Jesus e os discípulos com seus bens materiais?",
+      "alternativas": ["Lídia", "Suzana", "Marta", "Salomé"],
+      "correta": 1,
+      "referência": "Lucas 8:3"
+    },
+    {
+      "id": "MB-070",
+      "categoria": "mulheres_da_biblia",
+      "nível": "difícil",
+      "pergunta": "Qual mulher do Antigo Testamento é descrita como 'forte e virtuosa', cujo valor excede o de rubis?",
+      "alternativas": ["Ester", "Sara", "A mulher virtuosa de Provérbios 31", "Débora"],
+      "correta": 2,
+      "referência": "Provérbios 31:10-31"
+    }
+  ]
+}
