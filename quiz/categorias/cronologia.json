@@ -1,0 +1,555 @@
+{
+  "perguntas": [
+    {
+      "id": "CR-001",
+      "categoria": "cronologia",
+      "nível": "fácil",
+      "pergunta": "Qual foi o primeiro casal criado por Deus, segundo a Bíblia?",
+      "alternativas": ["Abraão e Sara", "Adão e Eva", "Isaque e Rebeca", "Jacó e Raquel"],
+      "correta": 1,
+      "referência": "Gênesis 2:7,22"
+    },
+    {
+      "id": "CR-002",
+      "categoria": "cronologia",
+      "nível": "fácil",
+      "pergunta": "Qual evento vem primeiro na cronologia bíblica?",
+      "alternativas": ["O dilúvio", "A criação", "A torre de Babel", "O chamado de Abraão"],
+      "correta": 1,
+      "referência": "Gênesis 1"
+    },
+    {
+      "id": "CR-003",
+      "categoria": "cronologia",
+      "nível": "fácil",
+      "pergunta": "Quem foi o primeiro filho do casal Adão e Eva?",
+      "alternativas": ["Sete", "Caim", "Abel", "Enoque"],
+      "correta": 1,
+      "referência": "Gênesis 4:1"
+    },
+    {
+      "id": "CR-004",
+      "categoria": "cronologia",
+      "nível": "fácil",
+      "pergunta": "Qual evento ocorreu antes do chamado de Abraão?",
+      "alternativas": ["A libertação do Egito", "O Êxodo", "A torre de Babel", "O nascimento de José"],
+      "correta": 2,
+      "referência": "Gênesis 11:1-9"
+    },
+    {
+      "id": "CR-005",
+      "categoria": "cronologia",
+      "nível": "fácil",
+      "pergunta": "Quem foi o neto de Abraão que teve 12 filhos?",
+      "alternativas": ["Ismael", "Jacó", "Esaú", "Sete"],
+      "correta": 1,
+      "referência": "Gênesis 35:22-26"
+    },
+    {
+      "id": "CR-006",
+      "categoria": "cronologia",
+      "nível": "fácil",
+      "pergunta": "Qual destes eventos aconteceu primeiro?",
+      "alternativas": ["A construção do templo", "O Êxodo do Egito", "O reinado de Davi", "A divisão do reino"],
+      "correta": 1,
+      "referência": "Êxodo 12"
+    },
+    {
+      "id": "CR-007",
+      "categoria": "cronologia",
+      "nível": "fácil",
+      "pergunta": "Quem levou o povo de Israel à Terra Prometida?",
+      "alternativas": ["Moisés", "Josué", "Arão", "Calebe"],
+      "correta": 1,
+      "referência": "Josué 1:1-2"
+    },
+    {
+      "id": "CR-008",
+      "categoria": "cronologia",
+      "nível": "fácil",
+      "pergunta": "Qual evento vem primeiro: o reinado de Saul ou o reinado de Davi?",
+      "alternativas": ["Davi primeiro", "Saul primeiro", "Ambos ao mesmo tempo", "Nenhum reinou"],
+      "correta": 1,
+      "referência": "1 Samuel 9–10"
+    },
+    {
+      "id": "CR-009",
+      "categoria": "cronologia",
+      "nível": "fácil",
+      "pergunta": "Quem reinou primeiro sobre Israel?",
+      "alternativas": ["Davi", "Salomão", "Saul", "Roboão"],
+      "correta": 2,
+      "referência": "1 Samuel 10"
+    },
+    {
+      "id": "CR-010",
+      "categoria": "cronologia",
+      "nível": "fácil",
+      "pergunta": "Qual dos seguintes eventos aconteceu por último?",
+      "alternativas": ["O êxodo", "O nascimento de Moisés", "A criação", "O dilúvio"],
+      "correta": 0,
+      "referência": "Êxodo 1–14"
+    },
+
+    {
+      "id": "CR-011",
+      "categoria": "cronologia",
+      "nível": "médio",
+      "pergunta": "Quem sucedeu Moisés como líder de Israel?",
+      "alternativas": ["Aarão", "Josué", "Calebe", "Eli"],
+      "correta": 1,
+      "referência": "Josué 1:1-2"
+    },
+    {
+      "id": "CR-012",
+      "categoria": "cronologia",
+      "nível": "médio",
+      "pergunta": "Qual destes líderes julgaram Israel antes do período dos reis?",
+      "alternativas": ["Samuel", "Josué", "Eli", "Todos os anteriores"],
+      "correta": 3,
+      "referência": "Juízes 1–21"
+    },
+    {
+      "id": "CR-013",
+      "categoria": "cronologia",
+      "nível": "médio",
+      "pergunta": "Qual evento ocorreu primeiro: o cativeiro babilônico ou o retorno com Esdras e Neemias?",
+      "alternativas": ["O retorno", "O cativeiro", "Os dois são simultâneos", "Nenhum dos dois aconteceu"],
+      "correta": 1,
+      "referência": "2 Reis 24–25"
+    },
+    {
+      "id": "CR-014",
+      "categoria": "cronologia",
+      "nível": "médio",
+      "pergunta": "Em qual livro ocorre o retorno dos exilados e a reconstrução dos muros de Jerusalém?",
+      "alternativas": ["Daniel", "Neemias", "Josué", "1 Samuel"],
+      "correta": 1,
+      "referência": "Neemias 2–6"
+    },
+    {
+      "id": "CR-015",
+      "categoria": "cronologia",
+      "nível": "médio",
+      "pergunta": "Quem nasceu primeiro: Esaú ou Jacó?",
+      "alternativas": ["Jacó", "Esaú", "Os dois nasceram juntos", "Não eram irmãos"],
+      "correta": 1,
+      "referência": "Gênesis 25:25-26"
+    },
+    {
+      "id": "CR-016",
+      "categoria": "cronologia",
+      "nível": "médio",
+      "pergunta": "Qual evento ocorreu primeiro: a queda de Jerusalém ou o ministério do profeta Daniel?",
+      "alternativas": ["A queda de Jerusalém", "O ministério de Daniel", "A morte de Moisés", "O reinado de Josias"],
+      "correta": 0,
+      "referência": "2 Reis 25; Daniel 1"
+    },
+    {
+      "id": "CR-017",
+      "categoria": "cronologia",
+      "nível": "médio",
+      "pergunta": "Qual veio primeiro: o reinado de Salomão ou a construção do Templo?",
+      "alternativas": ["A construção do Templo", "O reinado de Salomão", "A divisão do Reino", "O exílio"],
+      "correta": 1,
+      "referência": "1 Reis 3–6"
+    },
+    {
+      "id": "CR-018",
+      "categoria": "cronologia",
+      "nível": "médio",
+      "pergunta": "Quem veio primeiro na linha patriarcal?",
+      "alternativas": ["Isaac", "Abraão", "Jacó", "José"],
+      "correta": 1,
+      "referência": "Gênesis 11–25"
+    },
+    {
+      "id": "CR-019",
+      "categoria": "cronologia",
+      "nível": "médio",
+      "pergunta": "Quem governou o Reino do Norte antes do Reino do Sul ser levado ao exílio?",
+      "alternativas": ["Israel", "Judá", "Ambos ao mesmo tempo", "Nenhum dos dois"],
+      "correta": 0,
+      "referência": "2 Reis 17"
+    },
+    {
+      "id": "CR-020",
+      "categoria": "cronologia",
+      "nível": "médio",
+      "pergunta": "Qual personagem bíblico nasceu por último na ordem cronológica?",
+      "alternativas": ["Isaac", "José", "Jacó", "Moisés"],
+      "correta": 3,
+      "referência": "Êxodo 2"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "CR-021",
+      "categoria": "cronologia",
+      "nível": "médio",
+      "pergunta": "Quem viveu primeiro: Jó ou Moisés?",
+      "alternativas": ["Jó", "Moisés", "Viveram na mesma época", "Não se sabe"],
+      "correta": 0,
+      "referência": "Contexto histórico (Período patriarcal)"
+    },
+    {
+      "id": "CR-022",
+      "categoria": "cronologia",
+      "nível": "médio",
+      "pergunta": "Qual destes eventos ocorreu antes: o cativeiro assírio ou o cativeiro babilônico?",
+      "alternativas": ["Cativeiro babilônico", "Cativeiro assírio", "A reconstrução do templo", "A queda de Jerusalém"],
+      "correta": 1,
+      "referência": "2 Reis 17; 2 Reis 24–25"
+    },
+    {
+      "id": "CR-023",
+      "categoria": "cronologia",
+      "nível": "médio",
+      "pergunta": "Qual profeta atuou durante o reinado do rei Acabe?",
+      "alternativas": ["Isaías", "Ezequiel", "Elias", "Jeremias"],
+      "correta": 2,
+      "referência": "1 Reis 17–22"
+    },
+    {
+      "id": "CR-024",
+      "categoria": "cronologia",
+      "nível": "médio",
+      "pergunta": "Quem governou primeiro: Davi ou Salomão?",
+      "alternativas": ["Salomão", "Davi", "Nenhum reinou", "Reinaram juntos"],
+      "correta": 1,
+      "referência": "2 Samuel 5; 1 Reis 1"
+    },
+    {
+      "id": "CR-025",
+      "categoria": "cronologia",
+      "nível": "médio",
+      "pergunta": "Qual destes profetas viveu durante o cativeiro da Babilônia?",
+      "alternativas": ["Isaías", "Daniel", "Elias", "Oseias"],
+      "correta": 1,
+      "referência": "Daniel 1–12"
+    },
+    {
+      "id": "CR-026",
+      "categoria": "cronologia",
+      "nível": "médio",
+      "pergunta": "Quem nasceu primeiro: Samuel ou Davi?",
+      "alternativas": ["Davi", "Samuel", "Eli", "Salomão"],
+      "correta": 1,
+      "referência": "1 Samuel 1–3; 1 Samuel 16"
+    },
+    {
+      "id": "CR-027",
+      "categoria": "cronologia",
+      "nível": "médio",
+      "pergunta": "A queda de Samaria ocorreu antes ou depois da queda de Jerusalém?",
+      "alternativas": ["Antes", "Depois", "Foi no mesmo ano", "Nunca aconteceu"],
+      "correta": 0,
+      "referência": "2 Reis 17; 2 Reis 25"
+    },
+    {
+      "id": "CR-028",
+      "categoria": "cronologia",
+      "nível": "médio",
+      "pergunta": "Quem foi o primeiro grande rei da dinastia davídica pós-exílio?",
+      "alternativas": ["Zorobabel", "Josias", "Ezequias", "Nenhum rei pós-exílio"],
+      "correta": 3,
+      "referência": "Esdras 1–6"
+    },
+    {
+      "id": "CR-029",
+      "categoria": "cronologia",
+      "nível": "médio",
+      "pergunta": "Qual evento aconteceu primeiro: a morte de Moisés ou a entrada do povo na Terra Prometida?",
+      "alternativas": ["A entrada na Terra Prometida", "A morte de Moisés", "O nascimento de Josué", "A queda de Jericó"],
+      "correta": 1,
+      "referência": "Deuteronômio 34; Josué 1"
+    },
+    {
+      "id": "CR-030",
+      "categoria": "cronologia",
+      "nível": "médio",
+      "pergunta": "Quem foi o primeiro a nascer: José, Benjamin ou Levi?",
+      "alternativas": ["Benjamin", "José", "Levi", "Nenhum destes três"],
+      "correta": 2,
+      "referência": "Gênesis 29–35"
+    },
+
+    {
+      "id": "CR-031",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Qual destes eventos ocorreu primeiro: o ministério de Eliseu ou o reinado de Ezequias?",
+      "alternativas": ["Reinado de Ezequias", "Ministério de Eliseu", "Ambos são contemporâneos", "Nenhum é bíblico"],
+      "correta": 1,
+      "referência": "2 Reis 2–13; 2 Reis 18"
+    },
+    {
+      "id": "CR-032",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Quem veio primeiro: Sansão ou Samuel?",
+      "alternativas": ["Samuel", "Sansão", "Eli", "Saul"],
+      "correta": 1,
+      "referência": "Juízes 13–16; 1 Samuel 1–3"
+    },
+    {
+      "id": "CR-033",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Qual destes impérios dominou Israel primeiro?",
+      "alternativas": ["Babilônia", "Assíria", "Pérsia", "Grécia"],
+      "correta": 1,
+      "referência": "2 Reis 17"
+    },
+    {
+      "id": "CR-034",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Quem viveu primeiro: Isaías ou Jeremias?",
+      "alternativas": ["Jeremias", "Isaías", "Ambos nasceram no mesmo período", "Não há registro"],
+      "correta": 1,
+      "referência": "Isaías 1:1; Jeremias 1:1-3"
+    },
+    {
+      "id": "CR-035",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Quem foi levado ao cativeiro primeiro: Daniel ou Ezequiel?",
+      "alternativas": ["Ezequiel", "Daniel", "Foram juntos", "Não foram cativos"],
+      "correta": 1,
+      "referência": "Daniel 1; Ezequiel 1"
+    },
+    {
+      "id": "CR-036",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "O reinado de Josias ocorreu antes ou depois do reinado de Manassés?",
+      "alternativas": ["Antes", "Depois", "Foi simultâneo", "Nunca houve rei Manassés"],
+      "correta": 1,
+      "referência": "2 Reis 21–22"
+    },
+    {
+      "id": "CR-037",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Quem nasceu primeiro: Esaú, Ismael ou Jacó?",
+      "alternativas": ["Jacó", "Ismael", "Esaú", "Todos nasceram juntos"],
+      "correta": 1,
+      "referência": "Gênesis 16; 25"
+    },
+    {
+      "id": "CR-038",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Qual destes reis governou primeiro: Saul, Davi ou Salomão?",
+      "alternativas": ["Davi", "Salomão", "Saul", "Nenhum reinou"],
+      "correta": 2,
+      "referência": "1 Samuel 10"
+    },
+    {
+      "id": "CR-039",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Quem atuou primeiro: Neemias ou Esdras?",
+      "alternativas": ["Neemias", "Esdras", "Ambos no mesmo período", "Nenhum é bíblico"],
+      "correta": 1,
+      "referência": "Esdras 7–10; Neemias 1–6"
+    },
+    {
+      "id": "CR-040",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Qual destes profetas viveu antes: Miqueias ou Ageu?",
+      "alternativas": ["Ageu", "Miqueias", "Ambos contemporâneos", "Nenhum dos dois"],
+      "correta": 1,
+      "referência": "Miqueias 1:1; Ageu 1:1"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "CR-041",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Quem veio primeiro: Abraão ou Jó?",
+      "alternativas": ["Abraão", "Jó", "Ambos viveram na mesma época", "Não há referência bíblica"],
+      "correta": 1,
+      "referência": "Contexto histórico (Período patriarcal)"
+    },
+    {
+      "id": "CR-042",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Qual destes profetas atuou antes da queda de Jerusalém?",
+      "alternativas": ["Daniel", "Ezequiel", "Jeremias", "Ageu"],
+      "correta": 2,
+      "referência": "Jeremias 1:1-3"
+    },
+    {
+      "id": "CR-043",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "A profecia das 70 semanas foi dada antes ou depois do exílio babilônico?",
+      "alternativas": ["Antes", "Durante", "Depois", "Não existe profecia das 70 semanas"],
+      "correta": 2,
+      "referência": "Daniel 9"
+    },
+    {
+      "id": "CR-044",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Qual destes eventos acontece primeiro na cronologia de Jesus?",
+      "alternativas": ["Sermão da Montanha", "Batismo", "Entrada triunfal", "Milagre em Caná"],
+      "correta": 1,
+      "referência": "Mateus 3; João 2"
+    },
+    {
+      "id": "CR-045",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Quem foi juiz de Israel antes de Samuel?",
+      "alternativas": ["Sansão", "Eli", "Gideão", "Jefté"],
+      "correta": 1,
+      "referência": "1 Samuel 1–4"
+    },
+    {
+      "id": "CR-046",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Qual destes livros é anterior: Amós ou Ageu?",
+      "alternativas": ["Ageu", "Amós", "São contemporâneos", "Nenhum é cronológico"],
+      "correta": 1,
+      "referência": "Amós 1:1; Ageu 1:1"
+    },
+    {
+      "id": "CR-047",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Quem nasceu primeiro: Isaque ou Ismael?",
+      "alternativas": ["Isaque", "Ismael", "Foram gêmeos", "A Bíblia não informa"],
+      "correta": 1,
+      "referência": "Gênesis 16; 21"
+    },
+    {
+      "id": "CR-048",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Quem reinou primeiro: Roboão ou Jeroboão?",
+      "alternativas": ["Roboão", "Jeroboão", "Reinaram simultaneamente", "Nenhum reinou"],
+      "correta": 0,
+      "referência": "1 Reis 12"
+    },
+    {
+      "id": "CR-049",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Qual destes eventos é anterior: construção do Templo ou a divisão do reino?",
+      "alternativas": ["Divisão do reino", "Construção do Templo", "O retorno do exílio", "O reinado de Saul"],
+      "correta": 1,
+      "referência": "1 Reis 6–12"
+    },
+    {
+      "id": "CR-050",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Quem viveu primeiro: Josué ou Samuel?",
+      "alternativas": ["Samuel", "Josué", "São contemporâneos", "Não há informação"],
+      "correta": 1,
+      "referência": "Êxodo 17; Josué 1; 1 Samuel 1"
+    },
+
+    {
+      "id": "CR-051",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Qual destes reis viveu primeiro: Ezequias ou Josias?",
+      "alternativas": ["Josias", "Ezequias", "Reinaram juntos", "Nenhum existiu"],
+      "correta": 1,
+      "referência": "2 Reis 18; 2 Reis 22"
+    },
+    {
+      "id": "CR-052",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Quem foi o primeiro profeta pós-exílio entre estes?",
+      "alternativas": ["Ageu", "Zacarias", "Malaquias", "Naum"],
+      "correta": 0,
+      "referência": "Ageu 1:1"
+    },
+    {
+      "id": "CR-053",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Quem viveu primeiro: Eliseu ou Isaías?",
+      "alternativas": ["Isaías", "Eliseu", "Daniel", "Jeremias"],
+      "correta": 1,
+      "referência": "2 Reis 2–13; Isaías 1:1"
+    },
+    {
+      "id": "CR-054",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Qual destes eventos ocorre primeiro: o cerco assírio a Jerusalém ou o cerco babilônico?",
+      "alternativas": ["Cerco assírio", "Cerco babilônico", "Foram simultâneos", "Nenhum ocorreu"],
+      "correta": 0,
+      "referência": "2 Reis 18–19; 2 Reis 25"
+    },
+    {
+      "id": "CR-055",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Quem subiu ao trono primeiro: Saul, Davi ou Salomão?",
+      "alternativas": ["Davi", "Salomão", "Saul", "Nenhum reinou"],
+      "correta": 2,
+      "referência": "1 Samuel 10"
+    },
+    {
+      "id": "CR-056",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Quem viveu primeiro: Moisés ou Davi?",
+      "alternativas": ["Moisés", "Davi", "Foram contemporâneos", "A Bíblia não relata"],
+      "correta": 0,
+      "referência": "Êxodo 2; 1 Samuel 16"
+    },
+    {
+      "id": "CR-057",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Quem veio primeiro: Ester ou Daniel?",
+      "alternativas": ["Daniel", "Ester", "Foram contemporâneos", "Nenhum existiu"],
+      "correta": 0,
+      "referência": "Daniel 1; Ester 1"
+    },
+    {
+      "id": "CR-058",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Quem foi o primeiro grande líder de Israel após a morte de Josué?",
+      "alternativas": ["Samuel", "Sansão", "Calebe", "Otniel"],
+      "correta": 3,
+      "referência": "Juízes 1–3"
+    },
+    {
+      "id": "CR-059",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Quem nasceu primeiro: Jacó, José ou Moisés?",
+      "alternativas": ["José", "Jacó", "Moisés", "Todos na mesma época"],
+      "correta": 1,
+      "referência": "Gênesis 25–30; Êxodo 2"
+    },
+    {
+      "id": "CR-060",
+      "categoria": "cronologia",
+      "nível": "difícil",
+      "pergunta": "Quem viveu primeiro: Neemias ou Malaquias?",
+      "alternativas": ["Neemias", "Malaquias", "Profetizaram no mesmo período", "Nenhum deles é pós-exílio"],
+      "correta": 0,
+      "referência": "Neemias 1; Malaquias 1"
+    }
+  ]
+}
