@@ -1,0 +1,1100 @@
+{
+  "perguntas": [
+    {
+      "id": "PB-001",
+      "categoria": "personagens_biblicos",
+      "nível": "fácil",
+      "pergunta": "Quem foi o primeiro homem criado por Deus?",
+      "alternativas": ["Noé", "Abraão", "Adão", "Moisés"],
+      "correta": 2,
+      "referência": "Gênesis 2:7"
+    },
+    {
+      "id": "PB-002",
+      "categoria": "personagens_biblicos",
+      "nível": "fácil",
+      "pergunta": "Quem construiu a arca para sobreviver ao dilúvio?",
+      "alternativas": ["Noé", "Moisés", "Abraão", "Josué"],
+      "correta": 0,
+      "referência": "Gênesis 6:13-22"
+    },
+    {
+      "id": "PB-003",
+      "categoria": "personagens_biblicos",
+      "nível": "fácil",
+      "pergunta": "Quem foi lançado na cova dos leões?",
+      "alternativas": ["Jonas", "Jeremias", "Daniel", "Ezequiel"],
+      "correta": 2,
+      "referência": "Daniel 6:16"
+    },
+    {
+      "id": "PB-004",
+      "categoria": "personagens_biblicos",
+      "nível": "fácil",
+      "pergunta": "Quem foi engolido por um grande peixe?",
+      "alternativas": ["Elias", "Jonas", "Isaías", "Davi"],
+      "correta": 1,
+      "referência": "Jonas 1:17"
+    },
+    {
+      "id": "PB-005",
+      "categoria": "personagens_biblicos",
+      "nível": "fácil",
+      "pergunta": "Quem matou o gigante Golias?",
+      "alternativas": ["Saul", "Davi", "Salomão", "Sansão"],
+      "correta": 1,
+      "referência": "1 Samuel 17:49-51"
+    },
+    {
+      "id": "PB-006",
+      "categoria": "personagens_biblicos",
+      "nível": "fácil",
+      "pergunta": "Quem recebeu os Dez Mandamentos no monte Sinai?",
+      "alternativas": ["Moisés", "Abraão", "Isaac", "José"],
+      "correta": 0,
+      "referência": "Êxodo 20:1-17"
+    },
+    {
+      "id": "PB-007",
+      "categoria": "personagens_biblicos",
+      "nível": "fácil",
+      "pergunta": "Quem interpretava sonhos no Egito e tornou-se governador?",
+      "alternativas": ["José", "Moisés", "Arão", "Abraão"],
+      "correta": 0,
+      "referência": "Gênesis 41:38-44"
+    },
+    {
+      "id": "PB-008",
+      "categoria": "personagens_biblicos",
+      "nível": "fácil",
+      "pergunta": "Quem foi o mais forte entre os juízes de Israel?",
+      "alternativas": ["Sansão", "Gideão", "Débora", "Jefté"],
+      "correta": 0,
+      "referência": "Juízes 13–16"
+    },
+    {
+      "id": "PB-009",
+      "categoria": "personagens_biblicos",
+      "nível": "fácil",
+      "pergunta": "Quem foi o primeiro rei de Israel?",
+      "alternativas": ["Saul", "Davi", "Salomão", "Jeroboão"],
+      "correta": 0,
+      "referência": "1 Samuel 10:1"
+    },
+    {
+      "id": "PB-010",
+      "categoria": "personagens_biblicos",
+      "nível": "fácil",
+      "pergunta": "Quem construiu o templo do Senhor em Jerusalém?",
+      "alternativas": ["Saul", "Davi", "Salomão", "Josias"],
+      "correta": 2,
+      "referência": "1 Reis 6:1"
+    },
+
+    {
+      "id": "PB-011",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem liderou o povo na conquista de Jericó?",
+      "alternativas": ["Josué", "Moisés", "Calebe", "Gideão"],
+      "correta": 0,
+      "referência": "Josué 6:1-20"
+    },
+    {
+      "id": "PB-012",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem desafiou os profetas de Baal no monte Carmelo?",
+      "alternativas": ["Eliseu", "Jeremias", "Elias", "Samuel"],
+      "correta": 2,
+      "referência": "1 Reis 18:20-40"
+    },
+    {
+      "id": "PB-013",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem sucedeu Elias como profeta realizando muitos milagres?",
+      "alternativas": ["Eliseu", "Jeremias", "Isaías", "Ezequiel"],
+      "correta": 0,
+      "referência": "2 Reis 2:9-15"
+    },
+    {
+      "id": "PB-014",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem construiu um altar no Carmelo e pediu fogo do céu que consumiu o sacrifício?",
+      "alternativas": ["Gideão", "Samuel", "Elias", "Eliseu"],
+      "correta": 2,
+      "referência": "1 Reis 18:36-38"
+    },
+    {
+      "id": "PB-015",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem desobedeceu ao Senhor oferecendo sacrifício no lugar de Samuel e perdeu o trono?",
+      "alternativas": ["Salomão", "Ezequias", "Saul", "Roboão"],
+      "correta": 2,
+      "referência": "1 Samuel 13:8-14"
+    },
+    {
+      "id": "PB-016",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem enfrentou 450 profetas de Baal e venceu?",
+      "alternativas": ["Elias", "Eliseu", "Esdras", "Neemias"],
+      "correta": 0,
+      "referência": "1 Reis 18:19-40"
+    },
+    {
+      "id": "PB-017",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem julgou Israel usando apenas uma trombeta e um pequeno exército?",
+      "alternativas": ["Jeiú", "Gideão", "Jefté", "Sansão"],
+      "correta": 1,
+      "referência": "Juízes 7:7-22"
+    },
+    {
+      "id": "PB-018",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem foi o profeta que confrontou o rei Davi após seu pecado com Bate-Seba?",
+      "alternativas": ["Natã", "Gade", "Jeremias", "Ezequiel"],
+      "correta": 0,
+      "referência": "2 Samuel 12:1-7"
+    },
+    {
+      "id": "PB-019",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem interpretou a escritura na parede durante o reinado de Belsazar?",
+      "alternativas": ["Jeremias", "Elias", "Daniel", "Ezequiel"],
+      "correta": 2,
+      "referência": "Daniel 5:12-31"
+    },
+    {
+      "id": "PB-020",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem foi lançado na fornalha ardente, juntamente com mais dois companheiros?",
+      "alternativas": ["Sadraque, Mesaque e Abede-Nego", "Pedro, João e Tiago", "José, Benjamin e Levi", "Gideão e seus servos"],
+      "correta": 0,
+      "referência": "Daniel 3:19-28"
+    },
+
+    {
+      "id": "PB-021",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem enfrentou o leão e o urso cuidando do rebanho antes de enfrentar Golias?",
+      "alternativas": ["Sansão", "Davi", "Saul", "Eliú"],
+      "correta": 1,
+      "referência": "1 Samuel 17:34-36"
+    },
+    {
+      "id": "PB-022",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem governou Israel após a morte de Moisés?",
+      "alternativas": ["Arão", "Josué", "Calebe", "Samuel"],
+      "correta": 1,
+      "referência": "Josué 1:1-2"
+    },
+    {
+      "id": "PB-023",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem foi chamado de 'amigo de Deus'?",
+      "alternativas": ["Moisés", "Abraão", "Isaac", "Elias"],
+      "correta": 1,
+      "referência": "Tiago 2:23"
+    },
+    {
+      "id": "PB-024",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem era o filho preferido de Jacó, vendido pelos irmãos?",
+      "alternativas": ["Rúben", "Levi", "José", "Judá"],
+      "correta": 2,
+      "referência": "Gênesis 37:3-28"
+    },
+    {
+      "id": "PB-025",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem pediu sabedoria a Deus para governar o povo?",
+      "alternativas": ["Davi", "Salomão", "Samuel", "Esdras"],
+      "correta": 1,
+      "referência": "1 Reis 3:9-12"
+    },
+    {
+      "id": "PB-026",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem reconstruiu os muros de Jerusalém enfrentando oposição?",
+      "alternativas": ["Elias", "Neemias", "Esdras", "Zorobabel"],
+      "correta": 1,
+      "referência": "Neemias 2:17-20"
+    },
+    {
+      "id": "PB-027",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem foi levantado como juiz por causa de seu voto precipitado?",
+      "alternativas": ["Sansão", "Gideão", "Jefté", "Eli"],
+      "correta": 2,
+      "referência": "Juízes 11:30-39"
+    },
+    {
+      "id": "PB-028",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem sucedeu Saul como rei escolhido por Deus?",
+      "alternativas": ["Salomão", "Davi", "Jeroboão", "Roboão"],
+      "correta": 1,
+      "referência": "1 Samuel 16:12-13"
+    },
+    {
+      "id": "PB-029",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem foi o profeta que Deus enviou para ungir Davi como rei?",
+      "alternativas": ["Elias", "Samuel", "Natã", "Jeremias"],
+      "correta": 1,
+      "referência": "1 Samuel 16:1-13"
+    },
+    {
+      "id": "PB-030",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem foi o profeta engolido pelo grande peixe e depois enviado a Nínive?",
+      "alternativas": ["Jonas", "Habacuque", "Naum", "Obadias"],
+      "correta": 0,
+      "referência": "Jonas 1:17"
+    },
+
+    {
+      "id": "PB-031",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem enfrentou Nabucodonosor interpretando seus sonhos?",
+      "alternativas": ["Elias", "Jeremias", "Daniel", "Ezequiel"],
+      "correta": 2,
+      "referência": "Daniel 2"
+    },
+    {
+      "id": "PB-032",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem liderou o povo no retorno do exílio babilônico e restaurou o templo?",
+      "alternativas": ["Neemias", "Esdras", "Zorobabel", "Josué (sumo sacerdote)"],
+      "correta": 2,
+      "referência": "Esdras 2–3"
+    },
+    {
+      "id": "PB-033",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem foi chamado por Deus ainda menino e respondeu: 'Fala, Senhor, pois o teu servo ouve'?",
+      "alternativas": ["Davi", "Samuel", "Josias", "Jeremias"],
+      "correta": 1,
+      "referência": "1 Samuel 3:10"
+    },
+    {
+      "id": "PB-034",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem foi um dos três jovens lançados na fornalha ardente?",
+      "alternativas": ["Daniel", "João", "Tiago", "Mesaque"],
+      "correta": 3,
+      "referência": "Daniel 3:19-25"
+    },
+    {
+      "id": "PB-035",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem se recusou a comer das iguarias do rei e propôs uma dieta de legumes?",
+      "alternativas": ["Jeremias", "Neemias", "Daniel", "Elias"],
+      "correta": 2,
+      "referência": "Daniel 1:8-16"
+    },
+    {
+      "id": "PB-036",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem foi o primeiro rei do reino dividido (reino do norte)?",
+      "alternativas": ["Roboão", "Jeroboão", "Asa", "Jeú"],
+      "correta": 1,
+      "referência": "1 Reis 12:20"
+    },
+    {
+      "id": "PB-037",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem foi o sacerdote que cuidou e instruiu Samuel na infância?",
+      "alternativas": ["Arão", "Eli", "Eleazar", "Zadoque"],
+      "correta": 1,
+      "referência": "1 Samuel 1:24-28"
+    },
+    {
+      "id": "PB-038",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem foi o profeta conhecido por chorar pelo povo e escrever Lamentações?",
+      "alternativas": ["Isaías", "Jeremias", "Ezequiel", "Habacuque"],
+      "correta": 1,
+      "referência": "Jeremias 9:1"
+    },
+    {
+      "id": "PB-039",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem confrontou Acabe dizendo que não havia deixado Israel em apuros, mas ele e sua casa?",
+      "alternativas": ["Eliseu", "Elias", "Micaías", "Obadias"],
+      "correta": 1,
+      "referência": "1 Reis 18:18"
+    },
+    {
+      "id": "PB-040",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem foi o profeta que viu uma visão do vale de ossos secos?",
+      "alternativas": ["Isaías", "Jeremias", "Ezequiel", "Daniel"],
+      "correta": 2,
+      "referência": "Ezequiel 37:1-14"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "PB-041",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem interpretou o sonho de Faraó dizendo haver sete anos de fartura e sete de fome?",
+      "alternativas": ["Moisés", "José", "Daniel", "Davi"],
+      "correta": 1,
+      "referência": "Gênesis 41:25-32"
+    },
+    {
+      "id": "PB-042",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem se recusou a obedecer ao rei Nabucodonosor e foi lançado na fornalha?",
+      "alternativas": ["Daniel", "Sadraque, Mesaque e Abede-Nego", "Jeremias", "Ezequiel"],
+      "correta": 1,
+      "referência": "Daniel 3:16-23"
+    },
+    {
+      "id": "PB-043",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem enfrentou o gigante Isbi-Benobe, sendo salvo por Abisai?",
+      "alternativas": ["Davi", "Saul", "Elias", "Jonas"],
+      "correta": 0,
+      "referência": "2 Samuel 21:16-17"
+    },
+    {
+      "id": "PB-044",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem foi o profeta que viu uma sarça ardente que não se consumia?",
+      "alternativas": ["Abraão", "Josué", "Moisés", "Jeremias"],
+      "correta": 2,
+      "referência": "Êxodo 3:2-5"
+    },
+    {
+      "id": "PB-045",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem foi o profeta que chamou fogo do céu contra dois grupos de cinquenta soldados?",
+      "alternativas": ["Elias", "Eliseu", "Jeremias", "Isaías"],
+      "correta": 0,
+      "referência": "2 Reis 1:9-12"
+    },
+    {
+      "id": "PB-046",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Qual juiz fez um voto precipitado que trouxe consequências sobre sua filha?",
+      "alternativas": ["Sansão", "Gideão", "Jefté", "Samuel"],
+      "correta": 2,
+      "referência": "Juízes 11:30-40"
+    },
+    {
+      "id": "PB-047",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem viu o Senhor assentado sobre um trono alto e sublime?",
+      "alternativas": ["Jeremias", "Ezequiel", "Isaías", "Daniel"],
+      "correta": 2,
+      "referência": "Isaías 6:1"
+    },
+    {
+      "id": "PB-048",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Qual rei de Israel pediu ao profeta Isaías que orasse quando estava doente?",
+      "alternativas": ["Saul", "Ezequias", "Acaz", "Jeroboão"],
+      "correta": 1,
+      "referência": "Isaías 38:1-6"
+    },
+    {
+      "id": "PB-049",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem foi o profeta conhecido como 'o chorão'?",
+      "alternativas": ["Elias", "Jeremias", "Isaías", "Habacuque"],
+      "correta": 1,
+      "referência": "Lamentações (Contexto geral)"
+    },
+    {
+      "id": "PB-050",
+      "categoria": "personagens_biblicos",
+      "nível": "médio",
+      "pergunta": "Quem anunciou o nascimento de Sansão?",
+      "alternativas": ["Um anjo do Senhor", "Samuel", "Gideão", "Josué"],
+      "correta": 0,
+      "referência": "Juízes 13:3"
+    },
+
+    {
+      "id": "PB-051",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Qual profeta viu quatro seres viventes cada um com quatro rostos?",
+      "alternativas": ["Isaías", "Jeremias", "Ezequiel", "Daniel"],
+      "correta": 2,
+      "referência": "Ezequiel 1:5-10"
+    },
+    {
+      "id": "PB-052",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem foi o profeta que viu o 'homem vestido de linho' marcando as testas dos justos?",
+      "alternativas": ["Elias", "Eliseu", "Ezequiel", "Daniel"],
+      "correta": 2,
+      "referência": "Ezequiel 9:3-4"
+    },
+    {
+      "id": "PB-053",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Qual personagem lançou uma árvore amarga nas águas para torná-las doces?",
+      "alternativas": ["Abraão", "Moisés", "Josué", "Elias"],
+      "correta": 1,
+      "referência": "Êxodo 15:23-25"
+    },
+    {
+      "id": "PB-054",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Qual personagem abriu o rio Jordão ao bater com seu manto?",
+      "alternativas": ["Moisés", "Elias", "Eliseu", "Josué"],
+      "correta": 1,
+      "referência": "2 Reis 2:8"
+    },
+    {
+      "id": "PB-055",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Qual personagem recebeu uma visão de um vale de ossos secos?",
+      "alternativas": ["Jeremias", "Habacuque", "Ezequiel", "Isaías"],
+      "correta": 2,
+      "referência": "Ezequiel 37:1-14"
+    },
+    {
+      "id": "PB-056",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem foi o profeta que viu uma grande estátua feita de vários materiais?",
+      "alternativas": ["Daniel", "Jeremias", "Elias", "Isaías"],
+      "correta": 0,
+      "referência": "Daniel 2:31-35"
+    },
+    {
+      "id": "PB-057",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem confrontou Elias com uma ameaça após a morte dos profetas de Baal?",
+      "alternativas": ["Atalia", "Ester", "Jezabel", "Bate-Seba"],
+      "correta": 2,
+      "referência": "1 Reis 19:1-2"
+    },
+    {
+      "id": "PB-058",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem foi o escriba que leu a lei para o povo após o retorno do exílio?",
+      "alternativas": ["Esdras", "Neemias", "Zorobabel", "Elias"],
+      "correta": 0,
+      "referência": "Neemias 8:1-8"
+    },
+    {
+      "id": "PB-059",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem aconselhou Jeroboão a endurecer o jugo sobre o povo, causando rebelião?",
+      "alternativas": ["Os anciãos", "Os jovens que cresceram com ele", "Os sacerdotes", "Os profetas"],
+      "correta": 1,
+      "referência": "1 Reis 12:8-14"
+    },
+    {
+      "id": "PB-060",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem acolheu Elias durante a seca e teve farinha e azeite multiplicados?",
+      "alternativas": ["A sunamita", "A viúva de Sarepta", "A mulher samaritana", "A mulher de Obadias"],
+      "correta": 1,
+      "referência": "1 Reis 17:10-16"
+    },
+
+    {
+      "id": "PB-061",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem foi o personagem que teve sua mão leprosa instantaneamente curada?",
+      "alternativas": ["Moisés", "Naamã", "Gehazi", "Ezequias"],
+      "correta": 0,
+      "referência": "Êxodo 4:6-7"
+    },
+    {
+      "id": "PB-062",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Qual personagem teve sua vida prolongada após orar e chorar diante de Deus?",
+      "alternativas": ["Salomão", "Ezequias", "Acaz", "Saul"],
+      "correta": 1,
+      "referência": "2 Reis 20:1-6"
+    },
+    {
+      "id": "PB-063",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem foi o profeta que viu uma visão de quatro bestas surgindo do mar?",
+      "alternativas": ["Ezequiel", "Daniel", "Isaías", "Jeremias"],
+      "correta": 1,
+      "referência": "Daniel 7:2-7"
+    },
+    {
+      "id": "PB-064",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem foi o personagem que resistiu à tentação da esposa de Potifar?",
+      "alternativas": ["José", "Saul", "Davi", "Calebe"],
+      "correta": 0,
+      "referência": "Gênesis 39:7-12"
+    },
+    {
+      "id": "PB-065",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Qual personagem ouviu uma voz dizendo: 'Quem enviarei? Quem há de ir por nós?'",
+      "alternativas": ["Elias", "Isaías", "Jeremias", "Ezequiel"],
+      "correta": 1,
+      "referência": "Isaías 6:8"
+    },
+    {
+      "id": "PB-066",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem anunciou a destruição de Nínive?",
+      "alternativas": ["Habacuque", "Naum", "Obadias", "Sofonias"],
+      "correta": 1,
+      "referência": "Naum 1:1"
+    },
+    {
+      "id": "PB-067",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem teve uma visão de um rolo voador?",
+      "alternativas": ["Jeremias", "Zacarias", "Joel", "Ageu"],
+      "correta": 1,
+      "referência": "Zacarias 5:1-4"
+    },
+    {
+      "id": "PB-068",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem viu uma visão de um homem com uma cordel de medir Jerusalém?",
+      "alternativas": ["Ezequiel", "Zacarias", "Isaías", "Jeremias"],
+      "correta": 1,
+      "referência": "Zacarias 2:1-2"
+    },
+    {
+      "id": "PB-069",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem profetizou sobre a vinda do Espírito derramado sobre toda carne?",
+      "alternativas": ["Joel", "Ageu", "Sofonias", "Malaquias"],
+      "correta": 0,
+      "referência": "Joel 2:28-29"
+    },
+    {
+      "id": "PB-070",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem foi o profeta mais jovem, chamado ainda na juventude?",
+      "alternativas": ["Isaías", "Daniel", "Jeremias", "Samuel"],
+      "correta": 2,
+      "referência": "Jeremias 1:5-7"
+    },
+    {
+      "id": "PB-071",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem pregou à cidade de Nínive após fugir inicialmente?",
+      "alternativas": ["Naum", "Jonas", "Joel", "Habacuque"],
+      "correta": 1,
+      "referência": "Jonas 3:1-4"
+    },
+    {
+      "id": "PB-072",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem viu uma visão de um cesto contendo a maldade sendo levada à Babilônia?",
+      "alternativas": ["Habacuque", "Zacarias", "Jeremias", "Ezequiel"],
+      "correta": 1,
+      "referência": "Zacarias 5:5-11"
+    },
+    {
+      "id": "PB-073",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem enfrentou a ira de Jezabel após profetizar sua derrota?",
+      "alternativas": ["Elias", "Obadias", "Micaías", "Eliseu"],
+      "correta": 0,
+      "referência": "1 Reis 19:1-3"
+    },
+    {
+      "id": "PB-074",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem foi o profeta que profetizou a queda de Edom?",
+      "alternativas": ["Obadias", "Ageu", "Malaquias", "Sofonias"],
+      "correta": 0,
+      "referência": "Obadias 1"
+    },
+    {
+      "id": "PB-075",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem viu o Senhor junto ao rio Quebar?",
+      "alternativas": ["Isaías", "Jeremias", "Ezequiel", "Daniel"],
+      "correta": 2,
+      "referência": "Ezequiel 1:1-3"
+    },
+    {
+      "id": "PB-076",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem confrontou Elias dizendo: 'És tu, perturbador de Israel?'",
+      "alternativas": ["Acabe", "Jeroboão", "Jeú", "Saul"],
+      "correta": 0,
+      "referência": "1 Reis 18:17"
+    },
+    {
+      "id": "PB-077",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem derrotou o exército midianita com apenas 300 homens?",
+      "alternativas": ["Saul", "Gideão", "Jefté", "Josué"],
+      "correta": 1,
+      "referência": "Juízes 7:7"
+    },
+    {
+      "id": "PB-078",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem foi o rei que recebeu uma carta ameaçadora de Senaqueribe?",
+      "alternativas": ["Acaz", "Ezequias", "Saul", "Roboão"],
+      "correta": 1,
+      "referência": "2 Reis 19:9-14"
+    },
+    {
+      "id": "PB-079",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem reconstruiu o altar do Senhor no monte Carmelo?",
+      "alternativas": ["Elias", "Eliseu", "Samuel", "Zorobabel"],
+      "correta": 0,
+      "referência": "1 Reis 18:30"
+    },
+    {
+      "id": "PB-080",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem foi o profeta que Deus ordenou comer um rolo doce como mel?",
+      "alternativas": ["Isaías", "Ezequiel", "Jeremias", "Habacuque"],
+      "correta": 1,
+      "referência": "Ezequiel 3:1-3"
+    }
+  ]
+}
+{
+  "perguntas": [
+    {
+      "id": "PB-081",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem teve uma visão de uma cesta de figos bons e ruins representando o destino de Judá?",
+      "alternativas": ["Jeremias", "Ezequiel", "Zacarias", "Habacuque"],
+      "correta": 0,
+      "referência": "Jeremias 24:1-10"
+    },
+    {
+      "id": "PB-082",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem viu quatro chifres e quatro ferreiros em uma visão profética?",
+      "alternativas": ["Ezequiel", "Zacarias", "Daniel", "Jeremias"],
+      "correta": 1,
+      "referência": "Zacarias 1:18-21"
+    },
+    {
+      "id": "PB-083",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem foi o profeta que raspou a cabeça e a barba como sinal profético?",
+      "alternativas": ["Isaías", "Jeremias", "Ezequiel", "Daniel"],
+      "correta": 2,
+      "referência": "Ezequiel 5:1"
+    },
+    {
+      "id": "PB-084",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem anunciou que o Messias nasceria em Belém?",
+      "alternativas": ["Ageu", "Miqueias", "Malaquias", "Habacuque"],
+      "correta": 1,
+      "referência": "Miqueias 5:2"
+    },
+    {
+      "id": "PB-085",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem declarou: 'O justo viverá pela fé'?",
+      "alternativas": ["Habacuque", "Sofonias", "Malaquias", "Zacarias"],
+      "correta": 0,
+      "referência": "Habacuque 2:4"
+    },
+    {
+      "id": "PB-086",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem ajudou Neemias alertando sobre os planos dos inimigos para atacarem Jerusalém?",
+      "alternativas": ["Esdras", "Eliasibe", "Semaías", "Zorobabel"],
+      "correta": 2,
+      "referência": "Neemias 6:10"
+    },
+    {
+      "id": "PB-087",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem viu uma visão de um castiçal de ouro e duas oliveiras?",
+      "alternativas": ["Jeremias", "Zacarias", "Ezequiel", "Daniel"],
+      "correta": 1,
+      "referência": "Zacarias 4:1-3"
+    },
+    {
+      "id": "PB-088",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem foi o personagem que profetizou um grande terremoto durante o reinado de Uzias?",
+      "alternativas": ["Amós", "Joel", "Obadias", "Ageu"],
+      "correta": 0,
+      "referência": "Amós 1:1"
+    },
+    {
+      "id": "PB-089",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem anunciou que Deus enviaria Elias antes do grande e terrível dia do Senhor?",
+      "alternativas": ["Joel", "Zacarias", "Malaquias", "Ageu"],
+      "correta": 2,
+      "referência": "Malaquias 4:5"
+    },
+    {
+      "id": "PB-090",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem testemunhou a morte de Estêvão e consentiu nela?",
+      "alternativas": ["Gamaliel", "Saulo", "Herodes", "Ananias"],
+      "correta": 1,
+      "referência": "Atos 8:1"
+    },
+
+    {
+      "id": "PB-091",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem foi o sumo sacerdote que profetizou que Jesus morreria pela nação?",
+      "alternativas": ["Anás", "Caifás", "Zacarias", "Eli"],
+      "correta": 1,
+      "referência": "João 11:49-52"
+    },
+    {
+      "id": "PB-092",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem caiu morto por mentir ao Espírito Santo, além de Safira?",
+      "alternativas": ["Ananias", "Eutico", "Simão, o mago", "Herodes"],
+      "correta": 0,
+      "referência": "Atos 5:1-5"
+    },
+    {
+      "id": "PB-093",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem enfrentou Simão, o mago, por tentar comprar o dom do Espírito?",
+      "alternativas": ["Pedro", "Paulo", "Estevão", "Tiago"],
+      "correta": 0,
+      "referência": "Atos 8:18-24"
+    },
+    {
+      "id": "PB-094",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem caiu do terceiro andar enquanto Paulo pregava?",
+      "alternativas": ["Ananias", "Eutico", "Timóteo", "Trófimo"],
+      "correta": 1,
+      "referência": "Atos 20:9"
+    },
+    {
+      "id": "PB-095",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem acompanhou Paulo em sua primeira viagem missionária?",
+      "alternativas": ["Barnabé", "Silas", "Marcos", "Timóteo"],
+      "correta": 0,
+      "referência": "Atos 13:2"
+    },
+    {
+      "id": "PB-096",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem disputou com Paulo sobre levar Marcos em missão?",
+      "alternativas": ["Pedro", "Barnabé", "Silas", "Tito"],
+      "correta": 1,
+      "referência": "Atos 15:36-39"
+    },
+    {
+      "id": "PB-097",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem foi o homem que tentou impedir Paulo de pregar ao procônsul Sérgio Paulo?",
+      "alternativas": ["Elymas", "Alexandre", "Demétrio", "Erasto"],
+      "correta": 0,
+      "referência": "Atos 13:6-11"
+    },
+    {
+      "id": "PB-098",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem profetizou uma grande fome em toda a terra durante o reinado de Cláudio?",
+      "alternativas": ["Ágabo", "Cornélio", "Silas", "Tiago"],
+      "correta": 0,
+      "referência": "Atos 11:27-28"
+    },
+    {
+      "id": "PB-099",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem foi o rei que matou Tiago e prendeu Pedro para agradar aos judeus?",
+      "alternativas": ["Herodes Agripa I", "Herodes Antipas", "Herodes Arquelau", "Pôncio Pilatos"],
+      "correta": 0,
+      "referência": "Atos 12:1-3"
+    },
+    {
+      "id": "PB-100",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem era o mestre de Paulo antes de sua conversão?",
+      "alternativas": ["Gamaliel", "Anás", "Caifás", "Nicodemos"],
+      "correta": 0,
+      "referência": "Atos 22:3"
+    },
+
+    {
+      "id": "PB-101",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem tentou impedir Paulo de ser chicoteado, alegando sua cidadania romana?",
+      "alternativas": ["O centurião", "O sumo sacerdote", "Timóteo", "Silas"],
+      "correta": 0,
+      "referência": "Atos 22:25-26"
+    },
+    {
+      "id": "PB-102",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem caiu cego por três dias após encontrar Jesus no caminho de Damasco?",
+      "alternativas": ["Simão", "Saulo", "Timóteo", "Cornélio"],
+      "correta": 1,
+      "referência": "Atos 9:8-9"
+    },
+    {
+      "id": "PB-103",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem foi o profeta que tomou um cinto e o enterrou perto do Eufrates como sinal?",
+      "alternativas": ["Jeremias", "Isaías", "Ezequiel", "Zacarias"],
+      "correta": 0,
+      "referência": "Jeremias 13:1-7"
+    },
+    {
+      "id": "PB-104",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem resistiu firmemente a Pedro por ele se comportar de forma hipócrita em Antioquia?",
+      "alternativas": ["Tiago", "João", "Paulo", "Barnabé"],
+      "correta": 2,
+      "referência": "Gálatas 2:11-14"
+    },
+    {
+      "id": "PB-105",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem disse: 'Quase me persuades a ser cristão'?",
+      "alternativas": ["Festo", "Agripa", "Bernice", "Félix"],
+      "correta": 1,
+      "referência": "Atos 26:28"
+    },
+    {
+      "id": "PB-106",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem advertiu Paulo de que prisões e tribulações o aguardavam?",
+      "alternativas": ["Barnabé", "Ágabo", "Silas", "Timóteo"],
+      "correta": 1,
+      "referência": "Atos 21:10-11"
+    },
+    {
+      "id": "PB-107",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem foi o rei que tentou adorar Paulo e Barnabé chamando-os de 'deuses'?",
+      "alternativas": ["Herodes", "Agripa", "Os habitantes de Listra", "O rei de Nínive"],
+      "correta": 2,
+      "referência": "Atos 14:11-13"
+    },
+    {
+      "id": "PB-108",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem foi o jovem que acompanhou Paulo em viagens e depois foi restaurado após um conflito?",
+      "alternativas": ["Timóteo", "Tito", "Marcos", "Lucas"],
+      "correta": 2,
+      "referência": "2 Timóteo 4:11"
+    },
+    {
+      "id": "PB-109",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem foi o rei que morreu comido por vermes após aceitar glória indevida?",
+      "alternativas": ["Herodes Agripa I", "Herodes Antipas", "Pôncio Pilatos", "Festo"],
+      "correta": 0,
+      "referência": "Atos 12:21-23"
+    },
+    {
+      "id": "PB-110",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem escreveu grande parte do Novo Testamento?",
+      "alternativas": ["Pedro", "João", "Lucas", "Paulo"],
+      "correta": 3,
+      "referência": "Atos 9–28 (contexto geral)"
+    },
+
+    {
+      "id": "PB-111",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Qual profeta viu um cordeiro com dois chifres atacado por um bode peludo?",
+      "alternativas": ["Ezequiel", "Jeremias", "Daniel", "Isaías"],
+      "correta": 2,
+      "referência": "Daniel 8:3-8"
+    },
+    {
+      "id": "PB-112",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem sonhou com um lençol descendo do céu com animais impuros?",
+      "alternativas": ["Pedro", "Paulo", "Tiago", "Lucas"],
+      "correta": 0,
+      "referência": "Atos 10:9-16"
+    },
+    {
+      "id": "PB-113",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem viu um cavaleiro sobre um cavalo vermelho percorrendo a terra?",
+      "alternativas": ["Zacarias", "Ezequiel", "Jeremias", "Isaías"],
+      "correta": 0,
+      "referência": "Zacarias 1:8"
+    },
+    {
+      "id": "PB-114",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem acompanhou Paulo no terremoto que abriu as portas da prisão?",
+      "alternativas": ["Marcos", "Lucas", "Silas", "Barnabé"],
+      "correta": 2,
+      "referência": "Atos 16:25-26"
+    },
+    {
+      "id": "PB-115",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem perdeu a visão por resistir à pregação de Paulo em Pafos?",
+      "alternativas": ["Ágabo", "Elymas", "Erasto", "Demétrio"],
+      "correta": 1,
+      "referência": "Atos 13:8-11"
+    },
+    {
+      "id": "PB-116",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem foi o primeiro mártir cristão?",
+      "alternativas": ["Tiago", "Pedro", "Estevão", "Paulo"],
+      "correta": 2,
+      "referência": "Atos 7:59-60"
+    },
+    {
+      "id": "PB-117",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem morreu por tocar indevidamente na arca da aliança?",
+      "alternativas": ["Aías", "Uzá", "Abinadabe", "Nadabe"],
+      "correta": 1,
+      "referência": "2 Samuel 6:6-7"
+    },
+    {
+      "id": "PB-118",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem tentou amaldiçoar Israel, mas Deus transformou a maldição em bênção?",
+      "alternativas": ["Balaão", "Balade", "Balaque", "Senaqueribe"],
+      "correta": 0,
+      "referência": "Números 22–24"
+    },
+    {
+      "id": "PB-119",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem cortou a orla do manto de Saul, mostrando que poderia tê-lo matado?",
+      "alternativas": ["Jônatas", "Samuel", "Davi", "Abner"],
+      "correta": 2,
+      "referência": "1 Samuel 24:4-5"
+    },
+    {
+      "id": "PB-120",
+      "categoria": "personagens_biblicos",
+      "nível": "difícil",
+      "pergunta": "Quem recebeu o apelido de 'Boanerges', que significa filhos do trovão?",
+      "alternativas": ["Pedro e André", "Tomé e Filipe", "Tiago e João", "Bartolomeu e Mateus"],
+      "correta": 2,
+      "referência": "Marcos 3:17"
+    }
+  ]
+}
